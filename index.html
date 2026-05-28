@@ -5,202 +5,255 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Séminaire Finance 2025</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
     html, body { margin:0; padding:0; }
-    :root{ --card-max-w: 680px; }
+    :root{ --card-max-w: 680px; --blue-dark: #1a2f5e; --blue-mid: #2d4a8a; --blue-light: #4a7fd4; --accent: #e8f0fe; }
+
     body{
-      background:#191970;
+      background: linear-gradient(135deg, #0f1f4a 0%, #1a2f5e 50%, #0d1b3e 100%);
+      min-height: 100vh;
       color:#fff;
-      font-family:Arial, sans-serif;
+      font-family: 'Inter', Arial, sans-serif;
       text-align:center;
-      padding:2em;
+      padding:2em 1em;
       box-sizing:border-box;
     }
     *,*::before,*::after{ box-sizing:inherit; }
-    form,
-    #planning{
+
+    /* PAGE ACCUEIL */
+    #page-accueil h1{
+      font-size: 2rem;
+      font-weight: 700;
+      margin-bottom: 0.25em;
+      letter-spacing: -0.02em;
+    }
+    #page-accueil p.subtitle{
+      color: rgba(255,255,255,0.6);
+      margin: 0 0 1.5em;
+      font-size: 0.95rem;
+    }
+
+    /* CARD */
+    form, #planning{
       background:#fff;
       color:#000;
-      border-radius:8px;
-      padding:1.5em;
-      box-shadow:0 2px 8px rgba(0,0,0,.2);
-      margin:1em auto;
+      border-radius: 16px;
+      padding: 2em;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+      margin: 1em auto;
       width:100%;
-      max-width:var(--card-max-w);
+      max-width: var(--card-max-w);
       word-break:break-word;
     }
-    input,button{
-      width:100%;
-      padding:.8em;
-      margin:.5em 0;
-      font-size:1em;
-      border:1px solid #ccc;
-      border-radius:4px;
+
+    /* FORM */
+    form { text-align: left; }
+    form label {
+      display: block;
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #666;
+      margin-bottom: 0.3em;
+      margin-top: 1em;
     }
-    button{
-      background:#0056b3;
+    form label:first-of-type { margin-top: 0; }
+    input{
+      width:100%;
+      padding: 0.75em 1em;
+      font-size: 1em;
+      font-family: inherit;
+      border: 2px solid #e8e8e8;
+      border-radius: 8px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    input:focus { border-color: var(--blue-light); }
+    button.btn-main{
+      width:100%;
+      padding: 0.85em;
+      margin-top: 1.5em;
+      font-size: 1em;
+      font-family: inherit;
+      font-weight: 600;
+      background: linear-gradient(135deg, var(--blue-mid), var(--blue-light));
       color:#fff;
       border:none;
+      border-radius: 8px;
       cursor:pointer;
-      transition:background-color .2s ease;
+      transition: opacity 0.2s, transform 0.1s;
+      letter-spacing: 0.02em;
     }
-    button:hover{ background:#003f7f; }
-    #feedback{ color:#d33; min-height:1.2em; margin-top:.5em; }
-    #planning{ margin:2em auto; text-align:left; }
-    .planning-header{
-      font-style:italic;
-      text-align:center;
-      margin-bottom:1em;
-      color:#254a7d;
-    }
+    button.btn-main:hover { opacity: 0.9; transform: translateY(-1px); }
+    button.btn-main:active { transform: translateY(0); }
+    #message-erreur{ color:#e53e3e; font-size: 0.88rem; margin-top: 0.75em; min-height: 1.2em; }
+
+    /* PLANNING */
+    #planning { text-align:left; margin: 2em auto; padding: 1.75em; }
+
     .plan-header{
-      position:relative;
-      display:flex;
-      justify-content:center;
-      align-items:flex-start;
-      margin-bottom:1.5em;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 1.75em;
+      padding-bottom: 1.25em;
+      border-bottom: 2px solid #eef2ff;
     }
-    .plan-titles h2,
-    .plan-titles h3{
-      margin:0;
-      line-height:1.25;
-      color:#254a7d;
+    .plan-titles h2 {
+      margin: 0 0 0.2em;
+      font-size: 1.25em;
+      font-weight: 700;
+      color: var(--blue-dark);
     }
-    .plan-titles{ text-align:center; }
-    .plan-titles h2{ font-size:1.3em; font-weight:bold; }
-    .plan-titles h3{ font-size:1.1em; font-weight:bold; }
-    .plan-logo{
-      position:absolute;
-      top:-20px;
-      right:0;
-      width:80px;
-      height:auto;
+    .plan-titles h3 {
+      margin: 0;
+      font-size: 1em;
+      font-weight: 500;
+      color: var(--blue-light);
     }
-    .session{ margin-bottom:1em; }
+    .plan-badge{
+      text-align:center;
+      border: 2px solid var(--blue-mid);
+      border-radius: 8px;
+      padding: 6px 10px;
+      font-size: 0.6rem;
+      font-weight: 700;
+      color: var(--blue-mid);
+      line-height: 1.5;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-left: 1em;
+    }
+
+    /* SESSION */
+    .session { margin-bottom: 0.75em; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.07); }
+
     .session-bar{
       display:flex;
-      align-items:center;
-      flex-wrap:nowrap;
-      background:#254a7d;
+      align-items: center;
+      gap: 0.5em;
+      background: var(--blue-mid);
       color:#fff;
-      padding:.4em .8em;
-      border-radius:6px 6px 0 0;
-      font-weight:bold;
-      font-size:.95em;
+      padding: 0.6em 1em;
+      font-weight: 600;
+      font-size: 0.9em;
     }
-    .session-bar .session-title { flex:1 1 auto; text-align:left; }
+    .session-bar .session-title { flex:1 1 auto; }
     .session-bar .session-location{
-      flex:0 0 auto;
-      font-style:italic;
-      margin-right:.4em;
-      color:#6EC1FF;
+      font-size: 0.8em;
+      font-weight: 400;
+      opacity: 0.8;
+      background: rgba(255,255,255,0.15);
+      padding: 2px 8px;
+      border-radius: 20px;
+      white-space: nowrap;
     }
-    .session-bar .session-time{ flex:0 0 auto; white-space:nowrap; }
+    .session-bar .session-time{
+      font-size: 0.82em;
+      font-weight: 700;
+      background: rgba(255,255,255,0.2);
+      padding: 2px 8px;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+
     .session-body{
-      background:#fff;
-      list-style:disc inside;
+      background: #f8faff;
+      list-style: none;
       margin:0;
-      padding:.8em 1em .8em 1.5em;
-      border:1px solid #ccc;
-      border-top:none;
-      border-radius:0 0 6px 6px;
-      color:#000;
+      padding: 0.6em 1em;
+      border: 1px solid #e8eef8;
+      border-top: none;
     }
-    .session-body li{ margin-bottom:.5em; line-height:1.4; }
+    .session-body li {
+      margin-bottom: 0.3em;
+      font-size: 0.88em;
+      color: #444;
+      line-height: 1.5;
+    }
+    .session-body:empty { display: none; }
+
+    .group-number{ color: var(--blue-mid); font-weight: 600; }
+
+    /* SESSION VIDE (pas de détails ni groupe) */
+    .session-body.empty-body { display: none; }
+
+    /* FOOTER */
     .session-footer{
-      background:#fff;
-      padding:.8em 1em;
-      border:1px solid #ccc;
-      border-top:none;
-      border-radius:0 0 6px 6px;
-      margin:0;
-      color:#000;
-      font-style:italic;
+      text-align: center;
+      margin-top: 1.5em;
+      padding: 0.75em;
+      background: #eef2ff;
+      border-radius: 8px;
+      color: var(--blue-dark);
+      font-size: 0.88em;
+      font-weight: 500;
     }
-    .group-number{ color:#0056b3; font-weight:bold; }
-    .room-name{ font-style:italic; margin-left:.25em; color:#6EC1FF !important; }
-    #downloadPdf{
-      display:block;
-      margin:1.5em auto;
-      padding:.8em 1.2em;
-      background:#254a7d;
-      color:#fff;
-      border:none;
-      border-radius:6px;
-      cursor:pointer;
-      font-size:1em;
-      text-transform:uppercase;
-      letter-spacing:.05em;
-      transition:background-color .2s ease;
+
+    /* BOUTON RETOUR */
+    .btn-back{
+      background: rgba(255,255,255,0.15);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 8px;
+      padding: 0.5em 1.2em;
+      font-family: inherit;
+      font-size: 0.9em;
+      cursor: pointer;
+      margin-bottom: 1em;
+      transition: background 0.2s;
+      width: auto;
     }
-    #downloadPdf:hover{ background:#1e3f6f; }
+    .btn-back:hover { background: rgba(255,255,255,0.25); }
+
+    /* RESPONSIVE */
     @media(max-width:480px){
-      body{ padding:1em; }
-      form,#planning{ padding:1em; }
-      .session-bar,.session-body{ font-size:.9em; }
+      body { padding: 1em 0.75em; }
+      form, #planning { padding: 1.25em; }
+      .session-bar { font-size: 0.85em; flex-wrap: wrap; }
+      #page-accueil h1 { font-size: 1.6rem; }
     }
-    @media(max-width:320px){
-      form,#planning{ padding:.6em; }
-    }
-    @page { margin:5mm; }
+
+    /* PRINT */
+    @page { margin: 8mm; }
     @media print{
-      #planning{
-        max-width:var(--card-max-w);
-        margin:0 auto;
-        font-size:0.9em;
-      }
-      .session-bar{ padding:.25em .6em; font-size:.8em; }
-      .session-body{ padding:.5em .9em .5em 1.3em; }
-      .session-body li{ margin-bottom:.3em; }
-      .session{ break-inside:avoid; }
-      h1, #downloadPdf, form{ display:none; }
-    }
-    @media (max-width:500px){
-      .plan-header{ padding-right:70px; }
-      .plan-logo{ width:60px; top:-12px; }
-      .plan-titles h2{ font-size:1.15rem; }
-      .plan-titles h3{ font-size:.95rem; }
-    }
-    @media (max-width:350px){
-      .plan-header{
-        display:flex;
-        flex-direction:column;
-        align-items:center;
-        padding-right:0;
-      }
-      .plan-logo{
-        position:static;
-        width:55px;
-        margin-bottom:.5rem;
-      }
+      body { background: #fff; padding: 0; }
+      #planning { box-shadow: none; max-width: 100%; }
+      .session-bar { background: #2d4a8a !important; -webkit-print-color-adjust: exact; }
+      .session { break-inside: avoid; }
+      h1, .btn-back, form { display: none; }
     }
   </style>
 </head>
 <body>
 
 <div id="page-accueil">
-  <h1>Votre agenda<br>personnalisé :</h1>
+  <h1>Votre agenda personnalisé</h1>
+  <p class="subtitle">Séminaire Finance · 26 Juin 2025</p>
   <form onsubmit="chercherPlanning(); return false;">
-    <input id="prenom" type="text" placeholder="Prénom" />
-    <input id="nom" type="text" placeholder="Nom" />
-    <button type="submit">Voir mon planning</button>
+    <label for="prenom">Prénom</label>
+    <input id="prenom" type="text" placeholder="ex : Anne" autocomplete="given-name" />
+    <label for="nom">Nom</label>
+    <input id="nom" type="text" placeholder="ex : DUPONT" autocomplete="family-name" />
+    <button type="submit" class="btn-main">Voir mon planning →</button>
     <p id="message-erreur"></p>
   </form>
 </div>
 
 <div id="page-planning" style="display:none;">
-  <button onclick="retourAccueil()" style="width:auto; margin-bottom:1em;">← Retour</button>
+  <button class="btn-back" onclick="retourAccueil()">← Retour</button>
   <div id="planning">
     <div class="plan-header">
       <div class="plan-titles">
         <h2>Séminaire Finance 2025</h2>
         <h3 id="nom-participant"></h3>
       </div>
-      <div class="plan-logo" style="position:absolute;top:-20px;right:0;width:80px;text-align:center;border:2px solid #254a7d;border-radius:6px;padding:4px 6px;font-size:0.65rem;font-weight:bold;color:#254a7d;line-height:1.4;">
-        SÉMINAIRE<br>FINANCE<br>11 JUIN 2026<br>✈ SAFRAN
-      </div>
+      <div class="plan-badge">SÉMINAIRE<br>FINANCE<br>26 JUIN 2025<br>✈ SAFRAN</div>
     </div>
     <div id="contenu-planning"></div>
-    <p class="session-footer" style="text-align:center;">Fin de la journée à 17h30</p>
+    <p class="session-footer">Fin de la journée à 17h30</p>
   </div>
 </div>
 
@@ -265,6 +318,7 @@
 
     let html = '';
     activites.forEach(a => {
+      const hasBody = a.groupe || a.details;
       html += `
         <div class="session">
           <div class="session-bar">
@@ -272,10 +326,10 @@
             ${a.lieu  ? `<span class="session-location">${a.lieu}</span>` : ''}
             ${a.heure ? `<span class="session-time">${a.heure}</span>`    : ''}
           </div>
-          <ul class="session-body">
+          ${hasBody ? `<ul class="session-body">
             ${a.groupe  ? `<li><span class="group-number">${a.groupe}</span></li>` : ''}
             ${a.details ? `<li>${a.details}</li>` : ''}
-          </ul>
+          </ul>` : ''}
         </div>`;
     });
 
