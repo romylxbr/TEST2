@@ -318,7 +318,7 @@
 
     let html = '';
     activites.forEach(a => {
-      const hasBody = a.groupe || a.details;
+      const hasBody = a.groupe?.trim() || a.details?.trim();
       html += `
         <div class="session">
           <div class="session-bar">
