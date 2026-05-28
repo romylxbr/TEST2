@@ -21,7 +21,6 @@
     }
     *,*::before,*::after{ box-sizing:inherit; }
 
-    /* PAGE ACCUEIL */
     #page-accueil h1{
       font-size: 2rem;
       font-weight: 700;
@@ -34,7 +33,6 @@
       font-size: 0.95rem;
     }
 
-    /* CARD */
     form, #planning{
       background:#fff;
       color:#000;
@@ -47,7 +45,6 @@
       word-break:break-word;
     }
 
-    /* FORM */
     form { text-align: left; }
     form label {
       display: block;
@@ -90,7 +87,6 @@
     button.btn-main:active { transform: translateY(0); }
     #message-erreur{ color:#e53e3e; font-size: 0.88rem; margin-top: 0.75em; min-height: 1.2em; }
 
-    /* PLANNING */
     #planning { text-align:left; margin: 2em auto; padding: 1.75em; }
 
     .plan-header{
@@ -127,7 +123,7 @@
       margin-left: 1em;
     }
 
-    /* SESSION */
+    /* SESSION NORMALE */
     .session { margin-bottom: 0.75em; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.07); }
 
     .session-bar{
@@ -173,14 +169,41 @@
       color: #444;
       line-height: 1.5;
     }
-    .session-body:empty { display: none; }
 
     .group-number{ color: var(--blue-mid); font-weight: 600; }
 
-    /* SESSION VIDE (pas de détails ni groupe) */
-    .session-body.empty-body { display: none; }
+    /* SESSION PAUSE / DÉJEUNER */
+    .session-break {
+      margin-bottom: 0.75em;
+      border-radius: 10px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      gap: 0.75em;
+      background: #f0f0f0;
+      border: 1px dashed #ccc;
+      padding: 0.55em 1em;
+      color: #777;
+      font-size: 0.85em;
+      font-weight: 500;
+    }
+    .session-break .break-icon { font-size: 1.1em; flex-shrink: 0; }
+    .session-break .break-label { flex: 1; }
+    .session-break .break-time {
+      font-size: 0.8em;
+      font-weight: 600;
+      background: #e0e0e0;
+      padding: 2px 8px;
+      border-radius: 20px;
+      white-space: nowrap;
+      color: #555;
+    }
+    .session-break .break-location {
+      font-size: 0.8em;
+      color: #999;
+      font-style: italic;
+    }
 
-    /* FOOTER */
     .session-footer{
       text-align: center;
       margin-top: 1.5em;
@@ -192,7 +215,6 @@
       font-weight: 500;
     }
 
-    /* BOUTON RETOUR */
     .btn-back{
       background: rgba(255,255,255,0.15);
       color: #fff;
@@ -208,7 +230,6 @@
     }
     .btn-back:hover { background: rgba(255,255,255,0.25); }
 
-    /* RESPONSIVE */
     @media(max-width:480px){
       body { padding: 1em 0.75em; }
       form, #planning { padding: 1.25em; }
@@ -216,7 +237,6 @@
       #page-accueil h1 { font-size: 1.6rem; }
     }
 
-    /* PRINT */
     @page { margin: 8mm; }
     @media print{
       body { background: #fff; padding: 0; }
@@ -286,6 +306,17 @@
       .trim();
   }
 
+  function estPauseOuDejeuner(activite) {
+    const a = normaliser(activite);
+    return a.startsWith('pause') || a.startsWith('dejeuner') || a.startsWith('déjeuner');
+  }
+
+  function iconeBreak(activite) {
+    const a = normaliser(activite);
+    if (a.startsWith('dejeuner') || a.startsWith('déjeuner')) return '🍽️';
+    return '☕';
+  }
+
   function chercherPlanning() {
     const prenom = normaliser(document.getElementById('prenom').value);
     const nom    = normaliser(document.getElementById('nom').value);
@@ -318,19 +349,29 @@
 
     let html = '';
     activites.forEach(a => {
-      const hasBody = a.groupe?.trim() || a.details?.trim();
-      html += `
-        <div class="session">
-          <div class="session-bar">
-            <span class="session-title">${a.activite}</span>
-            ${a.lieu  ? `<span class="session-location">${a.lieu}</span>` : ''}
-            ${a.heure ? `<span class="session-time">${a.heure}</span>`    : ''}
-          </div>
-          ${hasBody ? `<ul class="session-body">
-            ${a.groupe  ? `<li><span class="group-number">${a.groupe}</span></li>` : ''}
-            ${a.details ? `<li>${a.details}</li>` : ''}
-          </ul>` : ''}
-        </div>`;
+      if (estPauseOuDejeuner(a.activite)) {
+        html += `
+          <div class="session-break">
+            <span class="break-icon">${iconeBreak(a.activite)}</span>
+            <span class="break-label">${a.activite}</span>
+            ${a.lieu  ? `<span class="break-location">${a.lieu}</span>` : ''}
+            ${a.heure ? `<span class="break-time">${a.heure}</span>` : ''}
+          </div>`;
+      } else {
+        const hasBody = a.groupe?.trim() || a.details?.trim();
+        html += `
+          <div class="session">
+            <div class="session-bar">
+              <span class="session-title">${a.activite}</span>
+              ${a.lieu  ? `<span class="session-location">${a.lieu}</span>` : ''}
+              ${a.heure ? `<span class="session-time">${a.heure}</span>`    : ''}
+            </div>
+            ${hasBody ? `<ul class="session-body">
+              ${a.groupe  ? `<li><span class="group-number">${a.groupe}</span></li>` : ''}
+              ${a.details ? `<li>${a.details}</li>` : ''}
+            </ul>` : ''}
+          </div>`;
+      }
     });
 
     document.getElementById('contenu-planning').innerHTML = html;
