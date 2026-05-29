@@ -2,7 +2,7 @@
 001;Anne;AUPIC;08:00;café d'accueil;Foyer;
 001;Anne;AUPIC;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 001;Anne;AUPIC;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-001;Anne;AUPIC;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+001;Anne;AUPIC;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 001;Anne;AUPIC;10:30;Pause;Foyer;
 001;Anne;AUPIC;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 001;Anne;AUPIC;12:00;Déjeuner;Foyer;
@@ -15,7 +15,7 @@
 002;Claire;BAILEY;08:00;café d'accueil;Foyer;
 002;Claire;BAILEY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 002;Claire;BAILEY;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-002;Claire;BAILEY;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+002;Claire;BAILEY;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 002;Claire;BAILEY;10:30;Pause;Foyer;
 002;Claire;BAILEY;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 002;Claire;BAILEY;12:00;Déjeuner;Foyer;
@@ -28,7 +28,7 @@
 003;Valerie;BAILLAT;08:00;café d'accueil;Foyer;
 003;Valerie;BAILLAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 003;Valerie;BAILLAT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-003;Valerie;BAILLAT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+003;Valerie;BAILLAT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 003;Valerie;BAILLAT;10:30;Pause;Foyer;
 003;Valerie;BAILLAT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 003;Valerie;BAILLAT;12:00;Déjeuner;Foyer;
@@ -41,7 +41,7 @@
 004;Pascal;BANTEGNIE;08:00;café d'accueil;Foyer;
 004;Pascal;BANTEGNIE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 004;Pascal;BANTEGNIE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-004;Pascal;BANTEGNIE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+004;Pascal;BANTEGNIE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 004;Pascal;BANTEGNIE;10:30;Pause;Foyer;
 004;Pascal;BANTEGNIE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 004;Pascal;BANTEGNIE;12:00;Déjeuner;Foyer;
@@ -54,7 +54,7 @@
 005;Justine;BARRE;08:00;café d'accueil;Foyer;
 005;Justine;BARRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 005;Justine;BARRE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-005;Justine;BARRE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+005;Justine;BARRE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 005;Justine;BARRE;10:30;Pause;Foyer;
 005;Justine;BARRE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 005;Justine;BARRE;12:00;Déjeuner;Foyer;
@@ -67,7 +67,7 @@
 006;Christine;BASSE;08:00;café d'accueil;Foyer;
 006;Christine;BASSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 006;Christine;BASSE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-006;Christine;BASSE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+006;Christine;BASSE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 006;Christine;BASSE;10:30;Pause;Foyer;
 006;Christine;BASSE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 006;Christine;BASSE;12:00;Déjeuner;Foyer;
@@ -80,7 +80,7 @@
 007;Geoffroy;BASSET-CHERCOT;08:00;café d'accueil;Foyer;
 007;Geoffroy;BASSET-CHERCOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 007;Geoffroy;BASSET-CHERCOT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-007;Geoffroy;BASSET-CHERCOT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+007;Geoffroy;BASSET-CHERCOT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 007;Geoffroy;BASSET-CHERCOT;10:30;Pause;Foyer;
 007;Geoffroy;BASSET-CHERCOT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 007;Geoffroy;BASSET-CHERCOT;12:00;Déjeuner;Foyer;
@@ -93,7 +93,7 @@
 008;Sophie;BERTHELIER;08:00;café d'accueil;Foyer;
 008;Sophie;BERTHELIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 008;Sophie;BERTHELIER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-008;Sophie;BERTHELIER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+008;Sophie;BERTHELIER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 008;Sophie;BERTHELIER;10:30;Pause;Foyer;
 008;Sophie;BERTHELIER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 008;Sophie;BERTHELIER;12:00;Déjeuner;Foyer;
@@ -106,7 +106,7 @@
 009;Coline;BLAISOT;08:00;café d'accueil;Foyer;
 009;Coline;BLAISOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 009;Coline;BLAISOT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-009;Coline;BLAISOT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+009;Coline;BLAISOT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 009;Coline;BLAISOT;10:30;Pause;Foyer;
 009;Coline;BLAISOT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 009;Coline;BLAISOT;12:00;Déjeuner;Foyer;
@@ -119,7 +119,7 @@
 010;Olivier;BLAT;08:00;café d'accueil;Foyer;
 010;Olivier;BLAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 010;Olivier;BLAT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-010;Olivier;BLAT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+010;Olivier;BLAT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 010;Olivier;BLAT;10:30;Pause;Foyer;
 010;Olivier;BLAT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 010;Olivier;BLAT;12:00;Déjeuner;Foyer;
@@ -132,7 +132,7 @@
 011;Sandie;BOCQUIER;08:00;café d'accueil;Foyer;
 011;Sandie;BOCQUIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 011;Sandie;BOCQUIER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-011;Sandie;BOCQUIER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+011;Sandie;BOCQUIER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 011;Sandie;BOCQUIER;10:30;Pause;Foyer;
 011;Sandie;BOCQUIER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 011;Sandie;BOCQUIER;12:00;Déjeuner;Foyer;
@@ -145,7 +145,7 @@
 012;Florence;BODART;08:00;café d'accueil;Foyer;
 012;Florence;BODART;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 012;Florence;BODART;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-012;Florence;BODART;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+012;Florence;BODART;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 012;Florence;BODART;10:30;Pause;Foyer;
 012;Florence;BODART;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 012;Florence;BODART;12:00;Déjeuner;Foyer;
@@ -158,7 +158,7 @@
 013;Gildas;BODOLEC;08:00;café d'accueil;Foyer;
 013;Gildas;BODOLEC;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 013;Gildas;BODOLEC;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-013;Gildas;BODOLEC;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+013;Gildas;BODOLEC;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 013;Gildas;BODOLEC;10:30;Pause;Foyer;
 013;Gildas;BODOLEC;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 013;Gildas;BODOLEC;12:00;Déjeuner;Foyer;
@@ -171,7 +171,7 @@
 014;Nathalie;BOSCHETTI;08:00;café d'accueil;Foyer;
 014;Nathalie;BOSCHETTI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 014;Nathalie;BOSCHETTI;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-014;Nathalie;BOSCHETTI;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+014;Nathalie;BOSCHETTI;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 014;Nathalie;BOSCHETTI;10:30;Pause;Foyer;
 014;Nathalie;BOSCHETTI;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 014;Nathalie;BOSCHETTI;12:00;Déjeuner;Foyer;
@@ -184,7 +184,7 @@
 015;Alexis;BOUDJEMAA;08:00;café d'accueil;Foyer;
 015;Alexis;BOUDJEMAA;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 015;Alexis;BOUDJEMAA;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-015;Alexis;BOUDJEMAA;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+015;Alexis;BOUDJEMAA;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 015;Alexis;BOUDJEMAA;10:30;Pause;Foyer;
 015;Alexis;BOUDJEMAA;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 015;Alexis;BOUDJEMAA;12:00;Déjeuner;Foyer;
@@ -197,7 +197,7 @@
 016;Carole;BOUREL;08:00;café d'accueil;Foyer;
 016;Carole;BOUREL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 016;Carole;BOUREL;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-016;Carole;BOUREL;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+016;Carole;BOUREL;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 016;Carole;BOUREL;10:30;Pause;Foyer;
 016;Carole;BOUREL;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 016;Carole;BOUREL;12:00;Déjeuner;Foyer;
@@ -210,7 +210,7 @@
 017;Julie;BOYER;08:00;café d'accueil;Foyer;
 017;Julie;BOYER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 017;Julie;BOYER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-017;Julie;BOYER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+017;Julie;BOYER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 017;Julie;BOYER;10:30;Pause;Foyer;
 017;Julie;BOYER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 017;Julie;BOYER;12:00;Déjeuner;Foyer;
@@ -223,7 +223,7 @@
 018;Vanessa;BREYTON;08:00;café d'accueil;Foyer;
 018;Vanessa;BREYTON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 018;Vanessa;BREYTON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-018;Vanessa;BREYTON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+018;Vanessa;BREYTON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 018;Vanessa;BREYTON;10:30;Pause;Foyer;
 018;Vanessa;BREYTON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 018;Vanessa;BREYTON;12:00;Déjeuner;Foyer;
@@ -236,7 +236,7 @@
 019;Gabriel;CANET;08:00;café d'accueil;Foyer;
 019;Gabriel;CANET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 019;Gabriel;CANET;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-019;Gabriel;CANET;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+019;Gabriel;CANET;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 019;Gabriel;CANET;10:30;Pause;Foyer;
 019;Gabriel;CANET;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 019;Gabriel;CANET;12:00;Déjeuner;Foyer;
@@ -249,7 +249,7 @@
 020;Philippe;CARBONNEL;08:00;café d'accueil;Foyer;
 020;Philippe;CARBONNEL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 020;Philippe;CARBONNEL;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-020;Philippe;CARBONNEL;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+020;Philippe;CARBONNEL;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 020;Philippe;CARBONNEL;10:30;Pause;Foyer;
 020;Philippe;CARBONNEL;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 020;Philippe;CARBONNEL;12:00;Déjeuner;Foyer;
@@ -262,7 +262,7 @@
 021;Philippe;CASTAINGS;08:00;café d'accueil;Foyer;
 021;Philippe;CASTAINGS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 021;Philippe;CASTAINGS;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-021;Philippe;CASTAINGS;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+021;Philippe;CASTAINGS;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 021;Philippe;CASTAINGS;10:30;Pause;Foyer;
 021;Philippe;CASTAINGS;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 021;Philippe;CASTAINGS;12:00;Déjeuner;Foyer;
@@ -275,7 +275,7 @@
 022;Héléne;CENCI;08:00;café d'accueil;Foyer;
 022;Héléne;CENCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 022;Héléne;CENCI;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-022;Héléne;CENCI;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+022;Héléne;CENCI;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 022;Héléne;CENCI;10:30;Pause;Foyer;
 022;Héléne;CENCI;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 022;Héléne;CENCI;12:00;Déjeuner;Foyer;
@@ -288,7 +288,7 @@
 023;Aurelie;CHAMBON;08:00;café d'accueil;Foyer;
 023;Aurelie;CHAMBON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 023;Aurelie;CHAMBON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-023;Aurelie;CHAMBON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+023;Aurelie;CHAMBON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 023;Aurelie;CHAMBON;10:30;Pause;Foyer;
 023;Aurelie;CHAMBON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 023;Aurelie;CHAMBON;12:00;Déjeuner;Foyer;
@@ -301,7 +301,7 @@
 024;Cecile;CHAUVIN;08:00;café d'accueil;Foyer;
 024;Cecile;CHAUVIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 024;Cecile;CHAUVIN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-024;Cecile;CHAUVIN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+024;Cecile;CHAUVIN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 024;Cecile;CHAUVIN;10:30;Pause;Foyer;
 024;Cecile;CHAUVIN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 024;Cecile;CHAUVIN;12:00;Déjeuner;Foyer;
@@ -314,7 +314,7 @@
 025;Christophe;CHAZALON;08:00;café d'accueil;Foyer;
 025;Christophe;CHAZALON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 025;Christophe;CHAZALON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-025;Christophe;CHAZALON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+025;Christophe;CHAZALON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 025;Christophe;CHAZALON;10:30;Pause;Foyer;
 025;Christophe;CHAZALON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 025;Christophe;CHAZALON;12:00;Déjeuner;Foyer;
@@ -327,7 +327,7 @@
 026;Laura;CHOUZY;08:00;café d'accueil;Foyer;
 026;Laura;CHOUZY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 026;Laura;CHOUZY;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-026;Laura;CHOUZY;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+026;Laura;CHOUZY;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 026;Laura;CHOUZY;10:30;Pause;Foyer;
 026;Laura;CHOUZY;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 026;Laura;CHOUZY;12:00;Déjeuner;Foyer;
@@ -340,7 +340,7 @@
 027;Marjorie;CLEMENT;08:00;café d'accueil;Foyer;
 027;Marjorie;CLEMENT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 027;Marjorie;CLEMENT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-027;Marjorie;CLEMENT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+027;Marjorie;CLEMENT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 027;Marjorie;CLEMENT;10:30;Pause;Foyer;
 027;Marjorie;CLEMENT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 027;Marjorie;CLEMENT;12:00;Déjeuner;Foyer;
@@ -353,7 +353,7 @@
 028;Valerie;CLUZEAU;08:00;café d'accueil;Foyer;
 028;Valerie;CLUZEAU;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 028;Valerie;CLUZEAU;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-028;Valerie;CLUZEAU;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+028;Valerie;CLUZEAU;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 028;Valerie;CLUZEAU;10:30;Pause;Foyer;
 028;Valerie;CLUZEAU;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 028;Valerie;CLUZEAU;12:00;Déjeuner;Foyer;
@@ -366,7 +366,7 @@
 029;Bertrand;COCHELIN;08:00;café d'accueil;Foyer;
 029;Bertrand;COCHELIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 029;Bertrand;COCHELIN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-029;Bertrand;COCHELIN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+029;Bertrand;COCHELIN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 029;Bertrand;COCHELIN;10:30;Pause;Foyer;
 029;Bertrand;COCHELIN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 029;Bertrand;COCHELIN;12:00;Déjeuner;Foyer;
@@ -379,7 +379,7 @@
 030;Valerie;COLLOT;08:00;café d'accueil;Foyer;
 030;Valerie;COLLOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 030;Valerie;COLLOT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-030;Valerie;COLLOT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+030;Valerie;COLLOT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 030;Valerie;COLLOT;10:30;Pause;Foyer;
 030;Valerie;COLLOT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 030;Valerie;COLLOT;12:00;Déjeuner;Foyer;
@@ -392,7 +392,7 @@
 031;Nicolas;COSTER;08:00;café d'accueil;Foyer;
 031;Nicolas;COSTER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 031;Nicolas;COSTER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-031;Nicolas;COSTER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+031;Nicolas;COSTER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 031;Nicolas;COSTER;10:30;Pause;Foyer;
 031;Nicolas;COSTER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 031;Nicolas;COSTER;12:00;Déjeuner;Foyer;
@@ -405,7 +405,7 @@
 032;Amandine;COTARD;08:00;café d'accueil;Foyer;
 032;Amandine;COTARD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 032;Amandine;COTARD;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-032;Amandine;COTARD;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+032;Amandine;COTARD;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 032;Amandine;COTARD;10:30;Pause;Foyer;
 032;Amandine;COTARD;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 032;Amandine;COTARD;12:00;Déjeuner;Foyer;
@@ -418,7 +418,7 @@
 033;Sandra;COUTANT;08:00;café d'accueil;Foyer;
 033;Sandra;COUTANT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 033;Sandra;COUTANT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-033;Sandra;COUTANT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+033;Sandra;COUTANT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 033;Sandra;COUTANT;10:30;Pause;Foyer;
 033;Sandra;COUTANT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 033;Sandra;COUTANT;12:00;Déjeuner;Foyer;
@@ -431,7 +431,7 @@
 034;Giuseppe;CURCI;08:00;café d'accueil;Foyer;
 034;Giuseppe;CURCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 034;Giuseppe;CURCI;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-034;Giuseppe;CURCI;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+034;Giuseppe;CURCI;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 034;Giuseppe;CURCI;10:30;Pause;Foyer;
 034;Giuseppe;CURCI;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 034;Giuseppe;CURCI;12:00;Déjeuner;Foyer;
@@ -444,7 +444,7 @@
 035;Laetitia;DAVID;08:00;café d'accueil;Foyer;
 035;Laetitia;DAVID;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 035;Laetitia;DAVID;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-035;Laetitia;DAVID;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+035;Laetitia;DAVID;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 035;Laetitia;DAVID;10:30;Pause;Foyer;
 035;Laetitia;DAVID;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 035;Laetitia;DAVID;12:00;Déjeuner;Foyer;
@@ -457,7 +457,7 @@
 036;Alban;DAZIN;08:00;café d'accueil;Foyer;
 036;Alban;DAZIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 036;Alban;DAZIN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-036;Alban;DAZIN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+036;Alban;DAZIN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 036;Alban;DAZIN;10:30;Pause;Foyer;
 036;Alban;DAZIN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 036;Alban;DAZIN;12:00;Déjeuner;Foyer;
@@ -470,7 +470,7 @@
 037;Benoit;DE LA TOUR DU PIN;08:00;café d'accueil;Foyer;
 037;Benoit;DE LA TOUR DU PIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-037;Benoit;DE LA TOUR DU PIN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+037;Benoit;DE LA TOUR DU PIN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 037;Benoit;DE LA TOUR DU PIN;10:30;Pause;Foyer;
 037;Benoit;DE LA TOUR DU PIN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 037;Benoit;DE LA TOUR DU PIN;12:00;Déjeuner;Foyer;
@@ -483,7 +483,7 @@
 038;Albin;DELEUZE;08:00;café d'accueil;Foyer;
 038;Albin;DELEUZE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 038;Albin;DELEUZE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-038;Albin;DELEUZE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+038;Albin;DELEUZE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 038;Albin;DELEUZE;10:30;Pause;Foyer;
 038;Albin;DELEUZE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 038;Albin;DELEUZE;12:00;Déjeuner;Foyer;
@@ -496,7 +496,7 @@
 039;Baptiste;DELPIERRE;08:00;café d'accueil;Foyer;
 039;Baptiste;DELPIERRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 039;Baptiste;DELPIERRE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-039;Baptiste;DELPIERRE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+039;Baptiste;DELPIERRE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 039;Baptiste;DELPIERRE;10:30;Pause;Foyer;
 039;Baptiste;DELPIERRE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 039;Baptiste;DELPIERRE;12:00;Déjeuner;Foyer;
@@ -509,7 +509,7 @@
 040;Sophie;DEMARQUAY;08:00;café d'accueil;Foyer;
 040;Sophie;DEMARQUAY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 040;Sophie;DEMARQUAY;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-040;Sophie;DEMARQUAY;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+040;Sophie;DEMARQUAY;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 040;Sophie;DEMARQUAY;10:30;Pause;Foyer;
 040;Sophie;DEMARQUAY;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 040;Sophie;DEMARQUAY;12:00;Déjeuner;Foyer;
@@ -522,7 +522,7 @@
 041;Michel;DENNEULIN;08:00;café d'accueil;Foyer;
 041;Michel;DENNEULIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 041;Michel;DENNEULIN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-041;Michel;DENNEULIN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+041;Michel;DENNEULIN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 041;Michel;DENNEULIN;10:30;Pause;Foyer;
 041;Michel;DENNEULIN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 041;Michel;DENNEULIN;12:00;Déjeuner;Foyer;
@@ -535,7 +535,7 @@
 042;Antoine;DRAGON;08:00;café d'accueil;Foyer;
 042;Antoine;DRAGON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 042;Antoine;DRAGON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-042;Antoine;DRAGON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+042;Antoine;DRAGON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 042;Antoine;DRAGON;10:30;Pause;Foyer;
 042;Antoine;DRAGON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 042;Antoine;DRAGON;12:00;Déjeuner;Foyer;
@@ -548,7 +548,7 @@
 043;Laurent;DUHEM;08:00;café d'accueil;Foyer;
 043;Laurent;DUHEM;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 043;Laurent;DUHEM;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-043;Laurent;DUHEM;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+043;Laurent;DUHEM;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 043;Laurent;DUHEM;10:30;Pause;Foyer;
 043;Laurent;DUHEM;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 043;Laurent;DUHEM;12:00;Déjeuner;Foyer;
@@ -561,7 +561,7 @@
 044;Carole;DUPONT;08:00;café d'accueil;Foyer;
 044;Carole;DUPONT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 044;Carole;DUPONT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-044;Carole;DUPONT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+044;Carole;DUPONT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 044;Carole;DUPONT;10:30;Pause;Foyer;
 044;Carole;DUPONT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 044;Carole;DUPONT;12:00;Déjeuner;Foyer;
@@ -574,7 +574,7 @@
 045;Albane;DURET FERRARI;08:00;café d'accueil;Foyer;
 045;Albane;DURET FERRARI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 045;Albane;DURET FERRARI;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-045;Albane;DURET FERRARI;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+045;Albane;DURET FERRARI;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 045;Albane;DURET FERRARI;10:30;Pause;Foyer;
 045;Albane;DURET FERRARI;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 045;Albane;DURET FERRARI;12:00;Déjeuner;Foyer;
@@ -587,7 +587,7 @@
 046;Antoine;DUVERGER;08:00;café d'accueil;Foyer;
 046;Antoine;DUVERGER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 046;Antoine;DUVERGER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-046;Antoine;DUVERGER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+046;Antoine;DUVERGER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 046;Antoine;DUVERGER;10:30;Pause;Foyer;
 046;Antoine;DUVERGER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 046;Antoine;DUVERGER;12:00;Déjeuner;Foyer;
@@ -600,7 +600,7 @@
 047;Jalile;EL BADSI;08:00;café d'accueil;Foyer;
 047;Jalile;EL BADSI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 047;Jalile;EL BADSI;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-047;Jalile;EL BADSI;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+047;Jalile;EL BADSI;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 047;Jalile;EL BADSI;10:30;Pause;Foyer;
 047;Jalile;EL BADSI;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 047;Jalile;EL BADSI;12:00;Déjeuner;Foyer;
@@ -613,7 +613,7 @@
 048;Jean-Claude;ELBAZIS;08:00;café d'accueil;Foyer;
 048;Jean-Claude;ELBAZIS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 048;Jean-Claude;ELBAZIS;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-048;Jean-Claude;ELBAZIS;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+048;Jean-Claude;ELBAZIS;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 048;Jean-Claude;ELBAZIS;10:30;Pause;Foyer;
 048;Jean-Claude;ELBAZIS;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 048;Jean-Claude;ELBAZIS;12:00;Déjeuner;Foyer;
@@ -626,7 +626,7 @@
 049;Loyse;FAROUX;08:00;café d'accueil;Foyer;
 049;Loyse;FAROUX;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 049;Loyse;FAROUX;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-049;Loyse;FAROUX;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+049;Loyse;FAROUX;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 049;Loyse;FAROUX;10:30;Pause;Foyer;
 049;Loyse;FAROUX;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 049;Loyse;FAROUX;12:00;Déjeuner;Foyer;
@@ -639,7 +639,7 @@
 050;Stanislas;FEIXAS;08:00;café d'accueil;Foyer;
 050;Stanislas;FEIXAS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 050;Stanislas;FEIXAS;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-050;Stanislas;FEIXAS;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+050;Stanislas;FEIXAS;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 050;Stanislas;FEIXAS;10:30;Pause;Foyer;
 050;Stanislas;FEIXAS;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 050;Stanislas;FEIXAS;12:00;Déjeuner;Foyer;
@@ -652,7 +652,7 @@
 051;Miguel;FERRER;08:00;café d'accueil;Foyer;
 051;Miguel;FERRER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 051;Miguel;FERRER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-051;Miguel;FERRER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+051;Miguel;FERRER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 051;Miguel;FERRER;10:30;Pause;Foyer;
 051;Miguel;FERRER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 051;Miguel;FERRER;12:00;Déjeuner;Foyer;
@@ -665,7 +665,7 @@
 052;Coralie;FOURNIER;08:00;café d'accueil;Foyer;
 052;Coralie;FOURNIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 052;Coralie;FOURNIER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-052;Coralie;FOURNIER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+052;Coralie;FOURNIER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 052;Coralie;FOURNIER;10:30;Pause;Foyer;
 052;Coralie;FOURNIER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 052;Coralie;FOURNIER;12:00;Déjeuner;Foyer;
@@ -678,7 +678,7 @@
 053;Annick;GAGNON;08:00;café d'accueil;Foyer;
 053;Annick;GAGNON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 053;Annick;GAGNON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-053;Annick;GAGNON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+053;Annick;GAGNON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 053;Annick;GAGNON;10:30;Pause;Foyer;
 053;Annick;GAGNON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 053;Annick;GAGNON;12:00;Déjeuner;Foyer;
@@ -691,7 +691,7 @@
 054;Armelle;GARY;08:00;café d'accueil;Foyer;
 054;Armelle;GARY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 054;Armelle;GARY;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-054;Armelle;GARY;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+054;Armelle;GARY;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 054;Armelle;GARY;10:30;Pause;Foyer;
 054;Armelle;GARY;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 054;Armelle;GARY;12:00;Déjeuner;Foyer;
@@ -704,7 +704,7 @@
 055;Cédric;GERMANI;08:00;café d'accueil;Foyer;
 055;Cédric;GERMANI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 055;Cédric;GERMANI;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-055;Cédric;GERMANI;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+055;Cédric;GERMANI;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 055;Cédric;GERMANI;10:30;Pause;Foyer;
 055;Cédric;GERMANI;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 055;Cédric;GERMANI;12:00;Déjeuner;Foyer;
@@ -717,7 +717,7 @@
 056;Alexandre;GHEERARDYN;08:00;café d'accueil;Foyer;
 056;Alexandre;GHEERARDYN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 056;Alexandre;GHEERARDYN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-056;Alexandre;GHEERARDYN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+056;Alexandre;GHEERARDYN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 056;Alexandre;GHEERARDYN;10:30;Pause;Foyer;
 056;Alexandre;GHEERARDYN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 056;Alexandre;GHEERARDYN;12:00;Déjeuner;Foyer;
@@ -730,7 +730,7 @@
 057;Sidney;GIRAUD;08:00;café d'accueil;Foyer;
 057;Sidney;GIRAUD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 057;Sidney;GIRAUD;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-057;Sidney;GIRAUD;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+057;Sidney;GIRAUD;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 057;Sidney;GIRAUD;10:30;Pause;Foyer;
 057;Sidney;GIRAUD;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 057;Sidney;GIRAUD;12:00;Déjeuner;Foyer;
@@ -743,7 +743,7 @@
 058;Caroline;GOLDFARB;08:00;café d'accueil;Foyer;
 058;Caroline;GOLDFARB;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 058;Caroline;GOLDFARB;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-058;Caroline;GOLDFARB;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+058;Caroline;GOLDFARB;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 058;Caroline;GOLDFARB;10:30;Pause;Foyer;
 058;Caroline;GOLDFARB;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 058;Caroline;GOLDFARB;12:00;Déjeuner;Foyer;
@@ -756,7 +756,7 @@
 059;Marina;GOURDON-DUBANT;08:00;café d'accueil;Foyer;
 059;Marina;GOURDON-DUBANT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 059;Marina;GOURDON-DUBANT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-059;Marina;GOURDON-DUBANT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+059;Marina;GOURDON-DUBANT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 059;Marina;GOURDON-DUBANT;10:30;Pause;Foyer;
 059;Marina;GOURDON-DUBANT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 059;Marina;GOURDON-DUBANT;12:00;Déjeuner;Foyer;
@@ -769,7 +769,7 @@
 060;Nicolas;GUEGUEN;08:00;café d'accueil;Foyer;
 060;Nicolas;GUEGUEN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 060;Nicolas;GUEGUEN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-060;Nicolas;GUEGUEN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+060;Nicolas;GUEGUEN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 060;Nicolas;GUEGUEN;10:30;Pause;Foyer;
 060;Nicolas;GUEGUEN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 060;Nicolas;GUEGUEN;12:00;Déjeuner;Foyer;
@@ -782,7 +782,7 @@
 061;Marine;GUERRET;08:00;café d'accueil;Foyer;
 061;Marine;GUERRET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 061;Marine;GUERRET;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-061;Marine;GUERRET;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+061;Marine;GUERRET;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 061;Marine;GUERRET;10:30;Pause;Foyer;
 061;Marine;GUERRET;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 061;Marine;GUERRET;12:00;Déjeuner;Foyer;
@@ -795,7 +795,7 @@
 062;Jeanne;GUERRIER;08:00;café d'accueil;Foyer;
 062;Jeanne;GUERRIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 062;Jeanne;GUERRIER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-062;Jeanne;GUERRIER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+062;Jeanne;GUERRIER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 062;Jeanne;GUERRIER;10:30;Pause;Foyer;
 062;Jeanne;GUERRIER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 062;Jeanne;GUERRIER;12:00;Déjeuner;Foyer;
@@ -808,7 +808,7 @@
 063;Eric;HAMON;08:00;café d'accueil;Foyer;
 063;Eric;HAMON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 063;Eric;HAMON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-063;Eric;HAMON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+063;Eric;HAMON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 063;Eric;HAMON;10:30;Pause;Foyer;
 063;Eric;HAMON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 063;Eric;HAMON;12:00;Déjeuner;Foyer;
@@ -821,7 +821,7 @@
 064;Sandrine;HAMOUR;08:00;café d'accueil;Foyer;
 064;Sandrine;HAMOUR;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 064;Sandrine;HAMOUR;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-064;Sandrine;HAMOUR;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+064;Sandrine;HAMOUR;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 064;Sandrine;HAMOUR;10:30;Pause;Foyer;
 064;Sandrine;HAMOUR;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 064;Sandrine;HAMOUR;12:00;Déjeuner;Foyer;
@@ -834,7 +834,7 @@
 065;Eugenie;HERCOUET;08:00;café d'accueil;Foyer;
 065;Eugenie;HERCOUET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 065;Eugenie;HERCOUET;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-065;Eugenie;HERCOUET;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+065;Eugenie;HERCOUET;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 065;Eugenie;HERCOUET;10:30;Pause;Foyer;
 065;Eugenie;HERCOUET;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 065;Eugenie;HERCOUET;12:00;Déjeuner;Foyer;
@@ -847,7 +847,7 @@
 066;Sie;HIEN;08:00;café d'accueil;Foyer;
 066;Sie;HIEN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 066;Sie;HIEN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-066;Sie;HIEN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+066;Sie;HIEN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 066;Sie;HIEN;10:30;Pause;Foyer;
 066;Sie;HIEN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 066;Sie;HIEN;12:00;Déjeuner;Foyer;
@@ -860,7 +860,7 @@
 067;Gemma;HILL;08:00;café d'accueil;Foyer;
 067;Gemma;HILL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 067;Gemma;HILL;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-067;Gemma;HILL;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+067;Gemma;HILL;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 067;Gemma;HILL;10:30;Pause;Foyer;
 067;Gemma;HILL;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 067;Gemma;HILL;12:00;Déjeuner;Foyer;
@@ -873,7 +873,7 @@
 068;Yannick;HOFFMANN;08:00;café d'accueil;Foyer;
 068;Yannick;HOFFMANN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 068;Yannick;HOFFMANN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-068;Yannick;HOFFMANN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+068;Yannick;HOFFMANN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 068;Yannick;HOFFMANN;10:30;Pause;Foyer;
 068;Yannick;HOFFMANN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 068;Yannick;HOFFMANN;12:00;Déjeuner;Foyer;
@@ -886,7 +886,7 @@
 069;Sandrine;HOLLER;08:00;café d'accueil;Foyer;
 069;Sandrine;HOLLER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 069;Sandrine;HOLLER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-069;Sandrine;HOLLER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+069;Sandrine;HOLLER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 069;Sandrine;HOLLER;10:30;Pause;Foyer;
 069;Sandrine;HOLLER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 069;Sandrine;HOLLER;12:00;Déjeuner;Foyer;
@@ -899,7 +899,7 @@
 070;Patrick;KERAEL;08:00;café d'accueil;Foyer;
 070;Patrick;KERAEL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 070;Patrick;KERAEL;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-070;Patrick;KERAEL;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+070;Patrick;KERAEL;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 070;Patrick;KERAEL;10:30;Pause;Foyer;
 070;Patrick;KERAEL;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 070;Patrick;KERAEL;12:00;Déjeuner;Foyer;
@@ -912,7 +912,7 @@
 071;Benjamin;KIRCHNER;08:00;café d'accueil;Foyer;
 071;Benjamin;KIRCHNER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 071;Benjamin;KIRCHNER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-071;Benjamin;KIRCHNER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+071;Benjamin;KIRCHNER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 071;Benjamin;KIRCHNER;10:30;Pause;Foyer;
 071;Benjamin;KIRCHNER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 071;Benjamin;KIRCHNER;12:00;Déjeuner;Foyer;
@@ -925,7 +925,7 @@
 072;Kirsty;KNIGHT;08:00;café d'accueil;Foyer;
 072;Kirsty;KNIGHT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 072;Kirsty;KNIGHT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-072;Kirsty;KNIGHT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+072;Kirsty;KNIGHT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 072;Kirsty;KNIGHT;10:30;Pause;Foyer;
 072;Kirsty;KNIGHT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 072;Kirsty;KNIGHT;12:00;Déjeuner;Foyer;
@@ -938,7 +938,7 @@
 073;Karine;LABAT;08:00;café d'accueil;Foyer;
 073;Karine;LABAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 073;Karine;LABAT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-073;Karine;LABAT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+073;Karine;LABAT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 073;Karine;LABAT;10:30;Pause;Foyer;
 073;Karine;LABAT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 073;Karine;LABAT;12:00;Déjeuner;Foyer;
@@ -951,7 +951,7 @@
 074;Agnes;LAISSE;08:00;café d'accueil;Foyer;
 074;Agnes;LAISSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 074;Agnes;LAISSE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-074;Agnes;LAISSE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+074;Agnes;LAISSE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 074;Agnes;LAISSE;10:30;Pause;Foyer;
 074;Agnes;LAISSE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 074;Agnes;LAISSE;12:00;Déjeuner;Foyer;
@@ -964,7 +964,7 @@
 075;Frederic;LANGENFELD;08:00;café d'accueil;Foyer;
 075;Frederic;LANGENFELD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 075;Frederic;LANGENFELD;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-075;Frederic;LANGENFELD;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+075;Frederic;LANGENFELD;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 075;Frederic;LANGENFELD;10:30;Pause;Foyer;
 075;Frederic;LANGENFELD;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 075;Frederic;LANGENFELD;12:00;Déjeuner;Foyer;
@@ -977,7 +977,7 @@
 076;Frederic;LASSALLE;08:00;café d'accueil;Foyer;
 076;Frederic;LASSALLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 076;Frederic;LASSALLE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-076;Frederic;LASSALLE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+076;Frederic;LASSALLE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 076;Frederic;LASSALLE;10:30;Pause;Foyer;
 076;Frederic;LASSALLE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 076;Frederic;LASSALLE;12:00;Déjeuner;Foyer;
@@ -990,7 +990,7 @@
 077;Eric;LE LANDAIS;08:00;café d'accueil;Foyer;
 077;Eric;LE LANDAIS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 077;Eric;LE LANDAIS;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-077;Eric;LE LANDAIS;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+077;Eric;LE LANDAIS;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 077;Eric;LE LANDAIS;10:30;Pause;Foyer;
 077;Eric;LE LANDAIS;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 077;Eric;LE LANDAIS;12:00;Déjeuner;Foyer;
@@ -1003,7 +1003,7 @@
 078;Nathalie;LE TALAER;08:00;café d'accueil;Foyer;
 078;Nathalie;LE TALAER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 078;Nathalie;LE TALAER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-078;Nathalie;LE TALAER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+078;Nathalie;LE TALAER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 078;Nathalie;LE TALAER;10:30;Pause;Foyer;
 078;Nathalie;LE TALAER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 078;Nathalie;LE TALAER;12:00;Déjeuner;Foyer;
@@ -1016,7 +1016,7 @@
 079;Romane;LEBRETON;08:00;café d'accueil;Foyer;
 079;Romane;LEBRETON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 079;Romane;LEBRETON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-079;Romane;LEBRETON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+079;Romane;LEBRETON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 079;Romane;LEBRETON;10:30;Pause;Foyer;
 079;Romane;LEBRETON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 079;Romane;LEBRETON;12:00;Déjeuner;Foyer;
@@ -1029,7 +1029,7 @@
 080;Lorraine;LECUSSAN;08:00;café d'accueil;Foyer;
 080;Lorraine;LECUSSAN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 080;Lorraine;LECUSSAN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-080;Lorraine;LECUSSAN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+080;Lorraine;LECUSSAN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 080;Lorraine;LECUSSAN;10:30;Pause;Foyer;
 080;Lorraine;LECUSSAN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 080;Lorraine;LECUSSAN;12:00;Déjeuner;Foyer;
@@ -1042,7 +1042,7 @@
 081;Ludovic;LEVANNIER;08:00;café d'accueil;Foyer;
 081;Ludovic;LEVANNIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 081;Ludovic;LEVANNIER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-081;Ludovic;LEVANNIER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+081;Ludovic;LEVANNIER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 081;Ludovic;LEVANNIER;10:30;Pause;Foyer;
 081;Ludovic;LEVANNIER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 081;Ludovic;LEVANNIER;12:00;Déjeuner;Foyer;
@@ -1055,7 +1055,7 @@
 082;Antoine;LEVASSOR;08:00;café d'accueil;Foyer;
 082;Antoine;LEVASSOR;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 082;Antoine;LEVASSOR;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-082;Antoine;LEVASSOR;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+082;Antoine;LEVASSOR;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 082;Antoine;LEVASSOR;10:30;Pause;Foyer;
 082;Antoine;LEVASSOR;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 082;Antoine;LEVASSOR;12:00;Déjeuner;Foyer;
@@ -1068,7 +1068,7 @@
 083;Mickael;LIDDELL;08:00;café d'accueil;Foyer;
 083;Mickael;LIDDELL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 083;Mickael;LIDDELL;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-083;Mickael;LIDDELL;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+083;Mickael;LIDDELL;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 083;Mickael;LIDDELL;10:30;Pause;Foyer;
 083;Mickael;LIDDELL;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 083;Mickael;LIDDELL;12:00;Déjeuner;Foyer;
@@ -1081,7 +1081,7 @@
 084;Alexandre;LIEURY;08:00;café d'accueil;Foyer;
 084;Alexandre;LIEURY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 084;Alexandre;LIEURY;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-084;Alexandre;LIEURY;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+084;Alexandre;LIEURY;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 084;Alexandre;LIEURY;10:30;Pause;Foyer;
 084;Alexandre;LIEURY;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 084;Alexandre;LIEURY;12:00;Déjeuner;Foyer;
@@ -1094,7 +1094,7 @@
 085;Aida;LOCQUETTE;08:00;café d'accueil;Foyer;
 085;Aida;LOCQUETTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 085;Aida;LOCQUETTE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-085;Aida;LOCQUETTE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+085;Aida;LOCQUETTE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 085;Aida;LOCQUETTE;10:30;Pause;Foyer;
 085;Aida;LOCQUETTE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 085;Aida;LOCQUETTE;12:00;Déjeuner;Foyer;
@@ -1107,7 +1107,7 @@
 086;Lenny;LOPEZ;08:00;café d'accueil;Foyer;
 086;Lenny;LOPEZ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 086;Lenny;LOPEZ;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-086;Lenny;LOPEZ;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+086;Lenny;LOPEZ;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 086;Lenny;LOPEZ;10:30;Pause;Foyer;
 086;Lenny;LOPEZ;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 086;Lenny;LOPEZ;12:00;Déjeuner;Foyer;
@@ -1120,7 +1120,7 @@
 087;Pascal;MACH;08:00;café d'accueil;Foyer;
 087;Pascal;MACH;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 087;Pascal;MACH;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-087;Pascal;MACH;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+087;Pascal;MACH;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 087;Pascal;MACH;10:30;Pause;Foyer;
 087;Pascal;MACH;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 087;Pascal;MACH;12:00;Déjeuner;Foyer;
@@ -1133,7 +1133,7 @@
 088;Jerome;MARION;08:00;café d'accueil;Foyer;
 088;Jerome;MARION;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 088;Jerome;MARION;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-088;Jerome;MARION;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+088;Jerome;MARION;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 088;Jerome;MARION;10:30;Pause;Foyer;
 088;Jerome;MARION;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 088;Jerome;MARION;12:00;Déjeuner;Foyer;
@@ -1146,7 +1146,7 @@
 089;Tom;MARMANDE;08:00;café d'accueil;Foyer;
 089;Tom;MARMANDE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 089;Tom;MARMANDE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-089;Tom;MARMANDE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+089;Tom;MARMANDE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 089;Tom;MARMANDE;10:30;Pause;Foyer;
 089;Tom;MARMANDE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 089;Tom;MARMANDE;12:00;Déjeuner;Foyer;
@@ -1159,7 +1159,7 @@
 090;Guillaume;MARTIN;08:00;café d'accueil;Foyer;
 090;Guillaume;MARTIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 090;Guillaume;MARTIN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-090;Guillaume;MARTIN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+090;Guillaume;MARTIN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 090;Guillaume;MARTIN;10:30;Pause;Foyer;
 090;Guillaume;MARTIN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 090;Guillaume;MARTIN;12:00;Déjeuner;Foyer;
@@ -1172,7 +1172,7 @@
 091;Denis;MASSE;08:00;café d'accueil;Foyer;
 091;Denis;MASSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 091;Denis;MASSE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-091;Denis;MASSE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+091;Denis;MASSE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 091;Denis;MASSE;10:30;Pause;Foyer;
 091;Denis;MASSE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 091;Denis;MASSE;12:00;Déjeuner;Foyer;
@@ -1185,7 +1185,7 @@
 092;Edwige;MAUGENDRE;08:00;café d'accueil;Foyer;
 092;Edwige;MAUGENDRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 092;Edwige;MAUGENDRE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-092;Edwige;MAUGENDRE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+092;Edwige;MAUGENDRE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 092;Edwige;MAUGENDRE;10:30;Pause;Foyer;
 092;Edwige;MAUGENDRE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 092;Edwige;MAUGENDRE;12:00;Déjeuner;Foyer;
@@ -1198,7 +1198,7 @@
 093;Alexis;MEHRENBERGER;08:00;café d'accueil;Foyer;
 093;Alexis;MEHRENBERGER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 093;Alexis;MEHRENBERGER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-093;Alexis;MEHRENBERGER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+093;Alexis;MEHRENBERGER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 093;Alexis;MEHRENBERGER;10:30;Pause;Foyer;
 093;Alexis;MEHRENBERGER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 093;Alexis;MEHRENBERGER;12:00;Déjeuner;Foyer;
@@ -1211,7 +1211,7 @@
 094;Sandra;MELLIER;08:00;café d'accueil;Foyer;
 094;Sandra;MELLIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 094;Sandra;MELLIER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-094;Sandra;MELLIER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+094;Sandra;MELLIER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 094;Sandra;MELLIER;10:30;Pause;Foyer;
 094;Sandra;MELLIER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 094;Sandra;MELLIER;12:00;Déjeuner;Foyer;
@@ -1224,7 +1224,7 @@
 095;Aldona;MENERET;08:00;café d'accueil;Foyer;
 095;Aldona;MENERET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 095;Aldona;MENERET;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-095;Aldona;MENERET;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+095;Aldona;MENERET;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 095;Aldona;MENERET;10:30;Pause;Foyer;
 095;Aldona;MENERET;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 095;Aldona;MENERET;12:00;Déjeuner;Foyer;
@@ -1237,7 +1237,7 @@
 096;Marie-Anne;MICHON;08:00;café d'accueil;Foyer;
 096;Marie-Anne;MICHON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 096;Marie-Anne;MICHON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-096;Marie-Anne;MICHON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+096;Marie-Anne;MICHON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 096;Marie-Anne;MICHON;10:30;Pause;Foyer;
 096;Marie-Anne;MICHON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 096;Marie-Anne;MICHON;12:00;Déjeuner;Foyer;
@@ -1250,7 +1250,7 @@
 097;Lionel;MORENO;08:00;café d'accueil;Foyer;
 097;Lionel;MORENO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 097;Lionel;MORENO;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-097;Lionel;MORENO;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+097;Lionel;MORENO;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 097;Lionel;MORENO;10:30;Pause;Foyer;
 097;Lionel;MORENO;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 097;Lionel;MORENO;12:00;Déjeuner;Foyer;
@@ -1263,7 +1263,7 @@
 098;Alexandre;MOUTET;08:00;café d'accueil;Foyer;
 098;Alexandre;MOUTET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 098;Alexandre;MOUTET;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-098;Alexandre;MOUTET;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+098;Alexandre;MOUTET;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 098;Alexandre;MOUTET;10:30;Pause;Foyer;
 098;Alexandre;MOUTET;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 098;Alexandre;MOUTET;12:00;Déjeuner;Foyer;
@@ -1276,7 +1276,7 @@
 099;Pascal;NOTTE;08:00;café d'accueil;Foyer;
 099;Pascal;NOTTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 099;Pascal;NOTTE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-099;Pascal;NOTTE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+099;Pascal;NOTTE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 099;Pascal;NOTTE;10:30;Pause;Foyer;
 099;Pascal;NOTTE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 099;Pascal;NOTTE;12:00;Déjeuner;Foyer;
@@ -1289,7 +1289,7 @@
 100;Thomas;OLIVERO;08:00;café d'accueil;Foyer;
 100;Thomas;OLIVERO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 100;Thomas;OLIVERO;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-100;Thomas;OLIVERO;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+100;Thomas;OLIVERO;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 100;Thomas;OLIVERO;10:30;Pause;Foyer;
 100;Thomas;OLIVERO;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 100;Thomas;OLIVERO;12:00;Déjeuner;Foyer;
@@ -1302,7 +1302,7 @@
 101;Elisabeth;PALACIO;08:00;café d'accueil;Foyer;
 101;Elisabeth;PALACIO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 101;Elisabeth;PALACIO;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-101;Elisabeth;PALACIO;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+101;Elisabeth;PALACIO;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 101;Elisabeth;PALACIO;10:30;Pause;Foyer;
 101;Elisabeth;PALACIO;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 101;Elisabeth;PALACIO;12:00;Déjeuner;Foyer;
@@ -1315,7 +1315,7 @@
 102;Julien;PECHALAT;08:00;café d'accueil;Foyer;
 102;Julien;PECHALAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 102;Julien;PECHALAT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-102;Julien;PECHALAT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+102;Julien;PECHALAT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 102;Julien;PECHALAT;10:30;Pause;Foyer;
 102;Julien;PECHALAT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 102;Julien;PECHALAT;12:00;Déjeuner;Foyer;
@@ -1328,7 +1328,7 @@
 103;Laura;PEUPIER;08:00;café d'accueil;Foyer;
 103;Laura;PEUPIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 103;Laura;PEUPIER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-103;Laura;PEUPIER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+103;Laura;PEUPIER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 103;Laura;PEUPIER;10:30;Pause;Foyer;
 103;Laura;PEUPIER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 103;Laura;PEUPIER;12:00;Déjeuner;Foyer;
@@ -1341,7 +1341,7 @@
 104;Jonathan;PINSON;08:00;café d'accueil;Foyer;
 104;Jonathan;PINSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 104;Jonathan;PINSON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-104;Jonathan;PINSON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+104;Jonathan;PINSON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 104;Jonathan;PINSON;10:30;Pause;Foyer;
 104;Jonathan;PINSON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 104;Jonathan;PINSON;12:00;Déjeuner;Foyer;
@@ -1354,7 +1354,7 @@
 105;Christophe;PLISSON;08:00;café d'accueil;Foyer;
 105;Christophe;PLISSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 105;Christophe;PLISSON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-105;Christophe;PLISSON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+105;Christophe;PLISSON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 105;Christophe;PLISSON;10:30;Pause;Foyer;
 105;Christophe;PLISSON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 105;Christophe;PLISSON;12:00;Déjeuner;Foyer;
@@ -1367,7 +1367,7 @@
 106;Gilles;POILVET;08:00;café d'accueil;Foyer;
 106;Gilles;POILVET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 106;Gilles;POILVET;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-106;Gilles;POILVET;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+106;Gilles;POILVET;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 106;Gilles;POILVET;10:30;Pause;Foyer;
 106;Gilles;POILVET;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 106;Gilles;POILVET;12:00;Déjeuner;Foyer;
@@ -1380,7 +1380,7 @@
 107;Frederic;PONCET;08:00;café d'accueil;Foyer;
 107;Frederic;PONCET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 107;Frederic;PONCET;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-107;Frederic;PONCET;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+107;Frederic;PONCET;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 107;Frederic;PONCET;10:30;Pause;Foyer;
 107;Frederic;PONCET;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 107;Frederic;PONCET;12:00;Déjeuner;Foyer;
@@ -1393,7 +1393,7 @@
 108;Yongqian-Christine;PONT;08:00;café d'accueil;Foyer;
 108;Yongqian-Christine;PONT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 108;Yongqian-Christine;PONT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-108;Yongqian-Christine;PONT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+108;Yongqian-Christine;PONT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 108;Yongqian-Christine;PONT;10:30;Pause;Foyer;
 108;Yongqian-Christine;PONT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 108;Yongqian-Christine;PONT;12:00;Déjeuner;Foyer;
@@ -1406,7 +1406,7 @@
 109;Nicolas;POZNIAK;08:00;café d'accueil;Foyer;
 109;Nicolas;POZNIAK;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 109;Nicolas;POZNIAK;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-109;Nicolas;POZNIAK;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+109;Nicolas;POZNIAK;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 109;Nicolas;POZNIAK;10:30;Pause;Foyer;
 109;Nicolas;POZNIAK;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 109;Nicolas;POZNIAK;12:00;Déjeuner;Foyer;
@@ -1419,7 +1419,7 @@
 110;Emmanuel;QUIL;08:00;café d'accueil;Foyer;
 110;Emmanuel;QUIL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 110;Emmanuel;QUIL;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-110;Emmanuel;QUIL;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+110;Emmanuel;QUIL;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 110;Emmanuel;QUIL;10:30;Pause;Foyer;
 110;Emmanuel;QUIL;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 110;Emmanuel;QUIL;12:00;Déjeuner;Foyer;
@@ -1432,7 +1432,7 @@
 111;Ely;RAKOTOBE;08:00;café d'accueil;Foyer;
 111;Ely;RAKOTOBE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 111;Ely;RAKOTOBE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-111;Ely;RAKOTOBE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+111;Ely;RAKOTOBE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 111;Ely;RAKOTOBE;10:30;Pause;Foyer;
 111;Ely;RAKOTOBE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 111;Ely;RAKOTOBE;12:00;Déjeuner;Foyer;
@@ -1445,7 +1445,7 @@
 112;Isabelle;RAULT;08:00;café d'accueil;Foyer;
 112;Isabelle;RAULT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 112;Isabelle;RAULT;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-112;Isabelle;RAULT;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+112;Isabelle;RAULT;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 112;Isabelle;RAULT;10:30;Pause;Foyer;
 112;Isabelle;RAULT;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 112;Isabelle;RAULT;12:00;Déjeuner;Foyer;
@@ -1458,7 +1458,7 @@
 113;Samuel;RENEVRET;08:00;café d'accueil;Foyer;
 113;Samuel;RENEVRET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 113;Samuel;RENEVRET;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-113;Samuel;RENEVRET;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+113;Samuel;RENEVRET;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 113;Samuel;RENEVRET;10:30;Pause;Foyer;
 113;Samuel;RENEVRET;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 113;Samuel;RENEVRET;12:00;Déjeuner;Foyer;
@@ -1471,7 +1471,7 @@
 114;Delphine;RICHER;08:00;café d'accueil;Foyer;
 114;Delphine;RICHER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 114;Delphine;RICHER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-114;Delphine;RICHER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+114;Delphine;RICHER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 114;Delphine;RICHER;10:30;Pause;Foyer;
 114;Delphine;RICHER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 114;Delphine;RICHER;12:00;Déjeuner;Foyer;
@@ -1484,7 +1484,7 @@
 115;Céline;ROCHE;08:00;café d'accueil;Foyer;
 115;Céline;ROCHE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 115;Céline;ROCHE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-115;Céline;ROCHE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+115;Céline;ROCHE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 115;Céline;ROCHE;10:30;Pause;Foyer;
 115;Céline;ROCHE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 115;Céline;ROCHE;12:00;Déjeuner;Foyer;
@@ -1497,7 +1497,7 @@
 116;Paul;ROGER-MACHART;08:00;café d'accueil;Foyer;
 116;Paul;ROGER-MACHART;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 116;Paul;ROGER-MACHART;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-116;Paul;ROGER-MACHART;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+116;Paul;ROGER-MACHART;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 116;Paul;ROGER-MACHART;10:30;Pause;Foyer;
 116;Paul;ROGER-MACHART;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 116;Paul;ROGER-MACHART;12:00;Déjeuner;Foyer;
@@ -1510,7 +1510,7 @@
 117;Francine;ROYER CAILLEAUX;08:00;café d'accueil;Foyer;
 117;Francine;ROYER CAILLEAUX;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 117;Francine;ROYER CAILLEAUX;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-117;Francine;ROYER CAILLEAUX;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+117;Francine;ROYER CAILLEAUX;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 117;Francine;ROYER CAILLEAUX;10:30;Pause;Foyer;
 117;Francine;ROYER CAILLEAUX;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 117;Francine;ROYER CAILLEAUX;12:00;Déjeuner;Foyer;
@@ -1523,7 +1523,7 @@
 118;Nubia;RUIZ;08:00;café d'accueil;Foyer;
 118;Nubia;RUIZ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 118;Nubia;RUIZ;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-118;Nubia;RUIZ;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+118;Nubia;RUIZ;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 118;Nubia;RUIZ;10:30;Pause;Foyer;
 118;Nubia;RUIZ;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 118;Nubia;RUIZ;12:00;Déjeuner;Foyer;
@@ -1536,7 +1536,7 @@
 119;Nicolas;SALLE;08:00;café d'accueil;Foyer;
 119;Nicolas;SALLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 119;Nicolas;SALLE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-119;Nicolas;SALLE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+119;Nicolas;SALLE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 119;Nicolas;SALLE;10:30;Pause;Foyer;
 119;Nicolas;SALLE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 119;Nicolas;SALLE;12:00;Déjeuner;Foyer;
@@ -1549,7 +1549,7 @@
 120;Remi;SCHUWER;08:00;café d'accueil;Foyer;
 120;Remi;SCHUWER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 120;Remi;SCHUWER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-120;Remi;SCHUWER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+120;Remi;SCHUWER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 120;Remi;SCHUWER;10:30;Pause;Foyer;
 120;Remi;SCHUWER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 120;Remi;SCHUWER;12:00;Déjeuner;Foyer;
@@ -1562,7 +1562,7 @@
 121;Denis;SERVOLE;08:00;café d'accueil;Foyer;
 121;Denis;SERVOLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 121;Denis;SERVOLE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-121;Denis;SERVOLE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+121;Denis;SERVOLE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 121;Denis;SERVOLE;10:30;Pause;Foyer;
 121;Denis;SERVOLE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 121;Denis;SERVOLE;12:00;Déjeuner;Foyer;
@@ -1575,7 +1575,7 @@
 122;Steve;SOSSON;08:00;café d'accueil;Foyer;
 122;Steve;SOSSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 122;Steve;SOSSON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-122;Steve;SOSSON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+122;Steve;SOSSON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 122;Steve;SOSSON;10:30;Pause;Foyer;
 122;Steve;SOSSON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 122;Steve;SOSSON;12:00;Déjeuner;Foyer;
@@ -1588,7 +1588,7 @@
 123;Adam;SOVA;08:00;café d'accueil;Foyer;
 123;Adam;SOVA;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 123;Adam;SOVA;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-123;Adam;SOVA;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+123;Adam;SOVA;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 123;Adam;SOVA;10:30;Pause;Foyer;
 123;Adam;SOVA;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 123;Adam;SOVA;12:00;Déjeuner;Foyer;
@@ -1601,7 +1601,7 @@
 124;Pierre Marie;SOYER;08:00;café d'accueil;Foyer;
 124;Pierre Marie;SOYER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 124;Pierre Marie;SOYER;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-124;Pierre Marie;SOYER;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+124;Pierre Marie;SOYER;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 124;Pierre Marie;SOYER;10:30;Pause;Foyer;
 124;Pierre Marie;SOYER;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 124;Pierre Marie;SOYER;12:00;Déjeuner;Foyer;
@@ -1614,7 +1614,7 @@
 125;Alexandre;STEPHAN;08:00;café d'accueil;Foyer;
 125;Alexandre;STEPHAN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 125;Alexandre;STEPHAN;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-125;Alexandre;STEPHAN;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+125;Alexandre;STEPHAN;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 125;Alexandre;STEPHAN;10:30;Pause;Foyer;
 125;Alexandre;STEPHAN;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 125;Alexandre;STEPHAN;12:00;Déjeuner;Foyer;
@@ -1627,7 +1627,7 @@
 126;Helene;TANCHOUX;08:00;café d'accueil;Foyer;
 126;Helene;TANCHOUX;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 126;Helene;TANCHOUX;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-126;Helene;TANCHOUX;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+126;Helene;TANCHOUX;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 126;Helene;TANCHOUX;10:30;Pause;Foyer;
 126;Helene;TANCHOUX;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 126;Helene;TANCHOUX;12:00;Déjeuner;Foyer;
@@ -1640,7 +1640,7 @@
 127;Catherine;TAOUDI;08:00;café d'accueil;Foyer;
 127;Catherine;TAOUDI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 127;Catherine;TAOUDI;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-127;Catherine;TAOUDI;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+127;Catherine;TAOUDI;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 127;Catherine;TAOUDI;10:30;Pause;Foyer;
 127;Catherine;TAOUDI;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 127;Catherine;TAOUDI;12:00;Déjeuner;Foyer;
@@ -1653,7 +1653,7 @@
 128;Patrick-M;THOMAS;08:00;café d'accueil;Foyer;
 128;Patrick-M;THOMAS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 128;Patrick-M;THOMAS;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-128;Patrick-M;THOMAS;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+128;Patrick-M;THOMAS;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 128;Patrick-M;THOMAS;10:30;Pause;Foyer;
 128;Patrick-M;THOMAS;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 128;Patrick-M;THOMAS;12:00;Déjeuner;Foyer;
@@ -1666,7 +1666,7 @@
 129;Sophie;TOURAINE;08:00;café d'accueil;Foyer;
 129;Sophie;TOURAINE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 129;Sophie;TOURAINE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-129;Sophie;TOURAINE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+129;Sophie;TOURAINE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 129;Sophie;TOURAINE;10:30;Pause;Foyer;
 129;Sophie;TOURAINE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 129;Sophie;TOURAINE;12:00;Déjeuner;Foyer;
@@ -1679,7 +1679,7 @@
 130;Anne;VANHOUTTE;08:00;café d'accueil;Foyer;
 130;Anne;VANHOUTTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 130;Anne;VANHOUTTE;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-130;Anne;VANHOUTTE;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+130;Anne;VANHOUTTE;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 130;Anne;VANHOUTTE;10:30;Pause;Foyer;
 130;Anne;VANHOUTTE;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 130;Anne;VANHOUTTE;12:00;Déjeuner;Foyer;
@@ -1692,7 +1692,7 @@
 131;Adrien;VIAUD;08:00;café d'accueil;Foyer;
 131;Adrien;VIAUD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 131;Adrien;VIAUD;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-131;Adrien;VIAUD;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+131;Adrien;VIAUD;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 131;Adrien;VIAUD;10:30;Pause;Foyer;
 131;Adrien;VIAUD;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 131;Adrien;VIAUD;12:00;Déjeuner;Foyer;
@@ -1705,7 +1705,7 @@
 132;James;WILSON;08:00;café d'accueil;Foyer;
 132;James;WILSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 132;James;WILSON;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-132;James;WILSON;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+132;James;WILSON;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 132;James;WILSON;10:30;Pause;Foyer;
 132;James;WILSON;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 132;James;WILSON;12:00;Déjeuner;Foyer;
@@ -1718,7 +1718,7 @@
 133;Kevin;WONG;08:00;café d'accueil;Foyer;
 133;Kevin;WONG;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 133;Kevin;WONG;08:45;Présentation de l'agenda - Giuseppe CURCI;;
-133;Kevin;WONG;09:00;LUMEN - Christine BASSE, Marie-Anne MICHON, Loyse FAROUX, Valérie CLUZEAU;;
+133;Kevin;WONG;09:00;LUMEN - Christine BASSE & Marie-Anne MICHON & Loyse FAROUX & Valérie CLUZEAU;;
 133;Kevin;WONG;10:30;Pause;Foyer;
 133;Kevin;WONG;11:00;Témoignage - Philippe COUTEAUX;Foyer;
 133;Kevin;WONG;12:00;Déjeuner;Foyer;
