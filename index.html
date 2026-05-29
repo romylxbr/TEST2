@@ -342,7 +342,7 @@
             ${a.heure ? `<span class="break-time">${a.heure}</span>` : ''}
           </div>`;
       } else {
-        const hasBody = a.groupe?.trim() || a.details?.trim();
+        const hasBody = a.groupe?.trim();
         html += `
           <div class="session">
             <div class="session-bar">
@@ -352,7 +352,6 @@
             </div>
             ${hasBody ? `<ul class="session-body">
               ${a.groupe  ? `<li><span class="group-number">${a.groupe}</span></li>` : ''}
-              ${a.details ? `<li>${a.details}</li>` : ''}
             </ul>` : ''}
           </div>`;
       }
