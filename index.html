@@ -6,10 +6,8 @@
   <title>Séminaire Finance 2026</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-
     html, body { margin:0; padding:0; }
     :root{ --card-max-w: 680px; --blue-dark: #1a2f5e; --blue-mid: #2d4a8a; --blue-light: #4a7fd4; --accent: #e8f0fe; }
-
     body{
       background: linear-gradient(135deg, #0f1f4a 0%, #1a2f5e 50%, #0d1b3e 100%);
       min-height: 100vh;
@@ -20,7 +18,6 @@
       box-sizing:border-box;
     }
     *,*::before,*::after{ box-sizing:inherit; }
-
     #page-accueil h1{
       font-size: 2rem;
       font-weight: 700;
@@ -32,7 +29,6 @@
       margin: 0 0 1.5em;
       font-size: 0.95rem;
     }
-
     form, #planning{
       background:#fff;
       color:#000;
@@ -44,7 +40,6 @@
       max-width: var(--card-max-w);
       word-break:break-word;
     }
-
     form { text-align: left; }
     form label {
       display: block;
@@ -86,9 +81,7 @@
     button.btn-main:hover { opacity: 0.9; transform: translateY(-1px); }
     button.btn-main:active { transform: translateY(0); }
     #message-erreur{ color:#e53e3e; font-size: 0.88rem; margin-top: 0.75em; min-height: 1.2em; }
-
     #planning { text-align:left; margin: 2em auto; padding: 1.75em; }
-
     .plan-header{
       display: flex;
       justify-content: space-between;
@@ -109,6 +102,14 @@
       font-weight: 500;
       color: var(--blue-light);
     }
+    /* MODIFICATION 2 : identifiant sous le nom */
+    .plan-titles .participant-id {
+      margin: 0.25em 0 0;
+      font-size: 0.78em;
+      font-weight: 600;
+      color: #888;
+      letter-spacing: 0.04em;
+    }
     .plan-badge{
       text-align:center;
       border: 2px solid var(--blue-mid);
@@ -122,10 +123,8 @@
       flex-shrink: 0;
       margin-left: 1em;
     }
-
     /* SESSION NORMALE */
     .session { margin-bottom: 0.75em; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.07); }
-
     .session-bar{
       display:flex;
       align-items: center;
@@ -137,11 +136,12 @@
       font-size: 0.9em;
     }
     .session-bar .session-title { flex:1 1 auto; }
+    /* MODIFICATION 1 : lieux en bleu clair vif */
     .session-bar .session-location{
       font-size: 0.8em;
-      font-weight: 400;
-      opacity: 0.8;
-      background: rgba(255,255,255,0.15);
+      font-weight: 600;
+      color: #4fc3f7;
+      background: rgba(79,195,247,0.15);
       padding: 2px 8px;
       border-radius: 20px;
       white-space: nowrap;
@@ -154,7 +154,6 @@
       border-radius: 20px;
       white-space: nowrap;
     }
-
     .session-body{
       background: #f8faff;
       list-style: none;
@@ -169,9 +168,7 @@
       color: #444;
       line-height: 1.5;
     }
-
     .group-number{ color: var(--blue-mid); font-weight: 600; }
-
     /* SESSION PAUSE / DÉJEUNER */
     .session-break {
       margin-bottom: 0.75em;
@@ -198,12 +195,13 @@
       white-space: nowrap;
       color: #555;
     }
+    /* MODIFICATION 1 : lieu pause en bleu clair vif */
     .session-break .break-location {
       font-size: 0.8em;
-      color: #999;
+      color: #2196f3;
       font-style: italic;
+      font-weight: 600;
     }
-
     .session-footer{
       text-align: center;
       margin-top: 1.5em;
@@ -214,7 +212,6 @@
       font-size: 0.88em;
       font-weight: 500;
     }
-
     .btn-back{
       background: rgba(255,255,255,0.15);
       color: #fff;
@@ -229,14 +226,12 @@
       width: auto;
     }
     .btn-back:hover { background: rgba(255,255,255,0.25); }
-
     @media(max-width:480px){
       body { padding: 1em 0.75em; }
       form, #planning { padding: 1.25em; }
       .session-bar { font-size: 0.85em; flex-wrap: wrap; }
       #page-accueil h1 { font-size: 1.6rem; }
     }
-
     @page { margin: 8mm; }
     @media print{
       body { background: #fff; padding: 0; }
@@ -248,7 +243,6 @@
   </style>
 </head>
 <body>
-
 <div id="page-accueil">
   <h1>Votre agenda personnalisé</h1>
   <p class="subtitle">Séminaire Finance · 11 Juin 2026</p>
@@ -261,7 +255,6 @@
     <p id="message-erreur"></p>
   </form>
 </div>
-
 <div id="page-planning" style="display:none;">
   <button class="btn-back" onclick="retourAccueil()">← Retour</button>
   <div id="planning">
@@ -269,6 +262,7 @@
       <div class="plan-titles">
         <h2>Séminaire Finance 2026</h2>
         <h3 id="nom-participant"></h3>
+        <p class="participant-id" id="id-participant"></p>
       </div>
       <div class="plan-badge">SÉMINAIRE<br>FINANCE<br>11 JUIN 2026<br>✈ SAFRAN</div>
     </div>
@@ -276,10 +270,8 @@
     <p class="session-footer">Fin de la journée à 17h30</p>
   </div>
 </div>
-
 <script>
   let donneesCSV = [];
-
   fetch('planning.csv')
     .then(r => r.text())
     .then(texte => {
@@ -288,7 +280,6 @@
     .catch(() => {
       console.warn("Impossible de charger planning.csv");
     });
-
   function parseCSV(texte) {
     const lignes = texte.trim().split('\n');
     const entetes = lignes[0].split(';').map(e => e.trim().replace(/"/g,''));
@@ -299,54 +290,47 @@
       return obj;
     });
   }
-
   function normaliser(txt) {
     return (txt || '').toLowerCase()
       .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
       .trim();
   }
-
   function estPauseOuDejeuner(activite) {
     const a = normaliser(activite);
     return a.startsWith('pause') || a.startsWith('dejeuner') || a.startsWith('déjeuner');
   }
-
   function iconeBreak(activite) {
     const a = normaliser(activite);
     if (a.startsWith('dejeuner') || a.startsWith('déjeuner')) return '🍽️';
     return '☕';
   }
-
   function chercherPlanning() {
     const prenom = normaliser(document.getElementById('prenom').value);
     const nom    = normaliser(document.getElementById('nom').value);
-
     if (!prenom || !nom) {
       document.getElementById('message-erreur').textContent =
         'Veuillez entrer votre prénom et votre nom.';
       return;
     }
-
     const resultats = donneesCSV.filter(ligne =>
       normaliser(ligne.prenom) === prenom &&
       normaliser(ligne.nom)    === nom
     );
-
     if (resultats.length === 0) {
       document.getElementById('message-erreur').textContent =
         "Aucun planning trouvé. Vérifiez l'orthographe de votre nom.";
       return;
     }
-
     afficherPlanning(resultats);
   }
-
   function afficherPlanning(activites) {
     const prenomAffiche = activites[0].prenom;
     const nomAffiche    = activites[0].nom.toUpperCase();
+    const idAffiche     = activites[0].id;
     document.getElementById('nom-participant').textContent =
       prenomAffiche + ' ' + nomAffiche;
-
+    document.getElementById('id-participant').textContent =
+      idAffiche ? 'Identifiant : ' + idAffiche : '';
     let html = '';
     activites.forEach(a => {
       if (estPauseOuDejeuner(a.activite)) {
@@ -373,23 +357,20 @@
           </div>`;
       }
     });
-
     document.getElementById('contenu-planning').innerHTML = html;
     document.getElementById('page-accueil').style.display  = 'none';
     document.getElementById('page-planning').style.display = 'block';
     window.scrollTo(0, 0);
   }
-
   function retourAccueil() {
     document.getElementById('page-accueil').style.display  = 'block';
     document.getElementById('page-planning').style.display = 'none';
     document.getElementById('message-erreur').textContent  = '';
   }
-
   document.addEventListener('keydown', e => {
     if (e.key === 'Enter') chercherPlanning();
   });
 </script>
-
 </body>
 </html>
+
