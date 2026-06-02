@@ -1,5 +1,5 @@
 id;prenom;nom;heure;activite;lieu;groupe
-001;Marie-Line;ADER;08:00;Café d'accueil;Auditorium Foyer;
+001;Marie-Line;ADER;08:00;Café d'accueil;Foyer;
 001;Marie-Line;ADER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 001;Marie-Line;ADER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 001;Marie-Line;ADER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
@@ -12,7 +12,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 001;Marie-Line;ADER;15:45;Pause;Foyer;
 001;Marie-Line;ADER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 001;Marie-Line;ADER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-002;Anne;AUPIC;08:00;Café d'accueil;Auditorium Foyer;
+002;Anne;AUPIC;08:00;Café d'accueil;Foyer;
 002;Anne;AUPIC;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 002;Anne;AUPIC;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 002;Anne;AUPIC;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 5;
@@ -25,7 +25,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 002;Anne;AUPIC;15:45;Pause;Foyer;
 002;Anne;AUPIC;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 002;Anne;AUPIC;17:00;Remise des Prix & Conclusion;Grand Amphi;
-003;Claire;BAILEY;08:00;Café d'accueil;Auditorium Foyer;
+003;Claire;BAILEY;08:00;Café d'accueil;Foyer;
 003;Claire;BAILEY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 003;Claire;BAILEY;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 003;Claire;BAILEY;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2;
@@ -38,7 +38,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 003;Claire;BAILEY;15:45;Pause;Foyer;
 003;Claire;BAILEY;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 003;Claire;BAILEY;17:00;Remise des Prix & Conclusion;Grand Amphi;
-004;Valerie;BAILLAT;08:00;Café d'accueil;Auditorium Foyer;
+004;Valerie;BAILLAT;08:00;Café d'accueil;Foyer;
 004;Valerie;BAILLAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 004;Valerie;BAILLAT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 004;Valerie;BAILLAT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4;
@@ -51,7 +51,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 004;Valerie;BAILLAT;15:45;Pause;Foyer;
 004;Valerie;BAILLAT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 004;Valerie;BAILLAT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-005;Pascal;BANTEGNIE;08:00;Café d'accueil;Auditorium Foyer;
+005;Pascal;BANTEGNIE;08:00;Café d'accueil;Foyer;
 005;Pascal;BANTEGNIE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 005;Pascal;BANTEGNIE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 005;Pascal;BANTEGNIE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -64,7 +64,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 005;Pascal;BANTEGNIE;15:45;Pause;Foyer;
 005;Pascal;BANTEGNIE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 005;Pascal;BANTEGNIE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-006;Justine;BARRE;08:00;Café d'accueil;Auditorium Foyer;
+006;Justine;BARRE;08:00;Café d'accueil;Foyer;
 006;Justine;BARRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 006;Justine;BARRE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 006;Justine;BARRE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
@@ -77,7 +77,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 006;Justine;BARRE;15:45;Pause;Foyer;
 006;Justine;BARRE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 006;Justine;BARRE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-007;Christine;BASSE;08:00;Café d'accueil;Auditorium Foyer;
+007;Christine;BASSE;08:00;Café d'accueil;Foyer;
 007;Christine;BASSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 007;Christine;BASSE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 007;Christine;BASSE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2;
@@ -90,7 +90,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 007;Christine;BASSE;15:45;Pause;Foyer;
 007;Christine;BASSE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 007;Christine;BASSE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-008;Geoffroy;BASSET-CHERCOT;08:00;Café d'accueil;Auditorium Foyer;
+008;Geoffroy;BASSET-CHERCOT;08:00;Café d'accueil;Foyer;
 008;Geoffroy;BASSET-CHERCOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 008;Geoffroy;BASSET-CHERCOT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 008;Geoffroy;BASSET-CHERCOT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3;
@@ -103,7 +103,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 008;Geoffroy;BASSET-CHERCOT;15:45;Pause;Foyer;
 008;Geoffroy;BASSET-CHERCOT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 008;Geoffroy;BASSET-CHERCOT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-009;Cyril;BAUME;08:00;Café d'accueil;Auditorium Foyer;
+009;Cyril;BAUME;08:00;Café d'accueil;Foyer;
 009;Cyril;BAUME;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 009;Cyril;BAUME;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 009;Cyril;BAUME;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
@@ -116,7 +116,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 009;Cyril;BAUME;15:45;Pause;Foyer;
 009;Cyril;BAUME;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 009;Cyril;BAUME;17:00;Remise des Prix & Conclusion;Grand Amphi;
-010;Deborah;BECKERS;08:00;Café d'accueil;Auditorium Foyer;
+010;Deborah;BECKERS;08:00;Café d'accueil;Foyer;
 010;Deborah;BECKERS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 010;Deborah;BECKERS;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 010;Deborah;BECKERS;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 5;
@@ -129,7 +129,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 010;Deborah;BECKERS;15:45;Pause;Foyer;
 010;Deborah;BECKERS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 010;Deborah;BECKERS;17:00;Remise des Prix & Conclusion;Grand Amphi;
-011;Sophie;BERTHELIER;08:00;Café d'accueil;Auditorium Foyer;
+011;Sophie;BERTHELIER;08:00;Café d'accueil;Foyer;
 011;Sophie;BERTHELIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 011;Sophie;BERTHELIER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 011;Sophie;BERTHELIER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 5;
@@ -142,7 +142,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 011;Sophie;BERTHELIER;15:45;Pause;Foyer;
 011;Sophie;BERTHELIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 011;Sophie;BERTHELIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-012;Coline;BLAISOT;08:00;Café d'accueil;Auditorium Foyer;
+012;Coline;BLAISOT;08:00;Café d'accueil;Foyer;
 012;Coline;BLAISOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 012;Coline;BLAISOT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 012;Coline;BLAISOT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -155,7 +155,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 012;Coline;BLAISOT;15:45;Pause;Foyer;
 012;Coline;BLAISOT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 012;Coline;BLAISOT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-013;Olivier;BLAT;08:00;Café d'accueil;Auditorium Foyer;
+013;Olivier;BLAT;08:00;Café d'accueil;Foyer;
 013;Olivier;BLAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 013;Olivier;BLAT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 013;Olivier;BLAT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -168,7 +168,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 013;Olivier;BLAT;15:45;Pause;Foyer;
 013;Olivier;BLAT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 013;Olivier;BLAT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-014;Sandie;BOCQUIER;08:00;Café d'accueil;Auditorium Foyer;
+014;Sandie;BOCQUIER;08:00;Café d'accueil;Foyer;
 014;Sandie;BOCQUIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 014;Sandie;BOCQUIER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 014;Sandie;BOCQUIER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -181,7 +181,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 014;Sandie;BOCQUIER;15:45;Pause;Foyer;
 014;Sandie;BOCQUIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 014;Sandie;BOCQUIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-015;Gildas;BODOLEC;08:00;Café d'accueil;Auditorium Foyer;
+015;Gildas;BODOLEC;08:00;Café d'accueil;Foyer;
 015;Gildas;BODOLEC;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 015;Gildas;BODOLEC;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 015;Gildas;BODOLEC;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -194,7 +194,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 015;Gildas;BODOLEC;15:45;Pause;Foyer;
 015;Gildas;BODOLEC;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 015;Gildas;BODOLEC;17:00;Remise des Prix & Conclusion;Grand Amphi;
-016;Nathalie;BOSCHETTI;08:00;Café d'accueil;Auditorium Foyer;
+016;Nathalie;BOSCHETTI;08:00;Café d'accueil;Foyer;
 016;Nathalie;BOSCHETTI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 016;Nathalie;BOSCHETTI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 016;Nathalie;BOSCHETTI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -207,7 +207,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 016;Nathalie;BOSCHETTI;15:45;Pause;Foyer;
 016;Nathalie;BOSCHETTI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 016;Nathalie;BOSCHETTI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-017;Alexis;BOUDJEMAA;08:00;Café d'accueil;Auditorium Foyer;
+017;Alexis;BOUDJEMAA;08:00;Café d'accueil;Foyer;
 017;Alexis;BOUDJEMAA;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 017;Alexis;BOUDJEMAA;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 017;Alexis;BOUDJEMAA;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -220,7 +220,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 017;Alexis;BOUDJEMAA;15:45;Pause;Foyer;
 017;Alexis;BOUDJEMAA;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 017;Alexis;BOUDJEMAA;17:00;Remise des Prix & Conclusion;Grand Amphi;
-018;Carole;BOUREL;08:00;Café d'accueil;Auditorium Foyer;
+018;Carole;BOUREL;08:00;Café d'accueil;Foyer;
 018;Carole;BOUREL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 018;Carole;BOUREL;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 018;Carole;BOUREL;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -233,7 +233,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 018;Carole;BOUREL;15:45;Pause;Foyer;
 018;Carole;BOUREL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 018;Carole;BOUREL;17:00;Remise des Prix & Conclusion;Grand Amphi;
-019;Julie;BOYER;08:00;Café d'accueil;Auditorium Foyer;
+019;Julie;BOYER;08:00;Café d'accueil;Foyer;
 019;Julie;BOYER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 019;Julie;BOYER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 019;Julie;BOYER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -246,7 +246,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 019;Julie;BOYER;15:45;Pause;Foyer;
 019;Julie;BOYER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 019;Julie;BOYER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-020;Vanessa;BREYTON;08:00;Café d'accueil;Auditorium Foyer;
+020;Vanessa;BREYTON;08:00;Café d'accueil;Foyer;
 020;Vanessa;BREYTON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 020;Vanessa;BREYTON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 020;Vanessa;BREYTON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -259,7 +259,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 020;Vanessa;BREYTON;15:45;Pause;Foyer;
 020;Vanessa;BREYTON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 020;Vanessa;BREYTON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-021;Gabriel;CANET;08:00;Café d'accueil;Auditorium Foyer;
+021;Gabriel;CANET;08:00;Café d'accueil;Foyer;
 021;Gabriel;CANET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 021;Gabriel;CANET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 021;Gabriel;CANET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -272,7 +272,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 021;Gabriel;CANET;15:45;Pause;Foyer;
 021;Gabriel;CANET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 021;Gabriel;CANET;17:00;Remise des Prix & Conclusion;Grand Amphi;
-022;Philippe;CARBONNEL;08:00;Café d'accueil;Auditorium Foyer;
+022;Philippe;CARBONNEL;08:00;Café d'accueil;Foyer;
 022;Philippe;CARBONNEL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 022;Philippe;CARBONNEL;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 022;Philippe;CARBONNEL;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -285,7 +285,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 022;Philippe;CARBONNEL;15:45;Pause;Foyer;
 022;Philippe;CARBONNEL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 022;Philippe;CARBONNEL;17:00;Remise des Prix & Conclusion;Grand Amphi;
-023;Héléne;CENCI;08:00;Café d'accueil;Auditorium Foyer;
+023;Héléne;CENCI;08:00;Café d'accueil;Foyer;
 023;Héléne;CENCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 023;Héléne;CENCI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 023;Héléne;CENCI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -298,7 +298,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 023;Héléne;CENCI;15:45;Pause;Foyer;
 023;Héléne;CENCI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 023;Héléne;CENCI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-024;Aurelie;CHAMBON;08:00;Café d'accueil;Auditorium Foyer;
+024;Aurelie;CHAMBON;08:00;Café d'accueil;Foyer;
 024;Aurelie;CHAMBON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 024;Aurelie;CHAMBON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 024;Aurelie;CHAMBON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -311,7 +311,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 024;Aurelie;CHAMBON;15:45;Pause;Foyer;
 024;Aurelie;CHAMBON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 024;Aurelie;CHAMBON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-025;Cecile;CHAUVIN;08:00;Café d'accueil;Auditorium Foyer;
+025;Cecile;CHAUVIN;08:00;Café d'accueil;Foyer;
 025;Cecile;CHAUVIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 025;Cecile;CHAUVIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 025;Cecile;CHAUVIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -324,7 +324,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 025;Cecile;CHAUVIN;15:45;Pause;Foyer;
 025;Cecile;CHAUVIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 025;Cecile;CHAUVIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-026;Christophe;CHAZALON;08:00;Café d'accueil;Auditorium Foyer;
+026;Christophe;CHAZALON;08:00;Café d'accueil;Foyer;
 026;Christophe;CHAZALON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 026;Christophe;CHAZALON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 026;Christophe;CHAZALON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -337,7 +337,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 026;Christophe;CHAZALON;15:45;Pause;Foyer;
 026;Christophe;CHAZALON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 026;Christophe;CHAZALON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-027;Marjorie;CLEMENT;08:00;Café d'accueil;Auditorium Foyer;
+027;Marjorie;CLEMENT;08:00;Café d'accueil;Foyer;
 027;Marjorie;CLEMENT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 027;Marjorie;CLEMENT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 027;Marjorie;CLEMENT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -350,7 +350,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 027;Marjorie;CLEMENT;15:45;Pause;Foyer;
 027;Marjorie;CLEMENT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 027;Marjorie;CLEMENT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-028;Valerie;CLUZEAU;08:00;Café d'accueil;Auditorium Foyer;
+028;Valerie;CLUZEAU;08:00;Café d'accueil;Foyer;
 028;Valerie;CLUZEAU;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 028;Valerie;CLUZEAU;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 028;Valerie;CLUZEAU;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -363,7 +363,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 028;Valerie;CLUZEAU;15:45;Pause;Foyer;
 028;Valerie;CLUZEAU;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 028;Valerie;CLUZEAU;17:00;Remise des Prix & Conclusion;Grand Amphi;
-029;Bertrand;COCHELIN;08:00;Café d'accueil;Auditorium Foyer;
+029;Bertrand;COCHELIN;08:00;Café d'accueil;Foyer;
 029;Bertrand;COCHELIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 029;Bertrand;COCHELIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 029;Bertrand;COCHELIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -376,7 +376,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 029;Bertrand;COCHELIN;15:45;Pause;Foyer;
 029;Bertrand;COCHELIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 029;Bertrand;COCHELIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-030;Valerie;COLLOT;08:00;Café d'accueil;Auditorium Foyer;
+030;Valerie;COLLOT;08:00;Café d'accueil;Foyer;
 030;Valerie;COLLOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 030;Valerie;COLLOT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 030;Valerie;COLLOT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -389,7 +389,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 030;Valerie;COLLOT;15:45;Pause;Foyer;
 030;Valerie;COLLOT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 030;Valerie;COLLOT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-031;Nicolas;COSTER;08:00;Café d'accueil;Auditorium Foyer;
+031;Nicolas;COSTER;08:00;Café d'accueil;Foyer;
 031;Nicolas;COSTER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 031;Nicolas;COSTER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 031;Nicolas;COSTER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -402,7 +402,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 031;Nicolas;COSTER;15:45;Pause;Foyer;
 031;Nicolas;COSTER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 031;Nicolas;COSTER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-032;Amandine;COTARD;08:00;Café d'accueil;Auditorium Foyer;
+032;Amandine;COTARD;08:00;Café d'accueil;Foyer;
 032;Amandine;COTARD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 032;Amandine;COTARD;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 032;Amandine;COTARD;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -415,7 +415,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 032;Amandine;COTARD;15:45;Pause;Foyer;
 032;Amandine;COTARD;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 032;Amandine;COTARD;17:00;Remise des Prix & Conclusion;Grand Amphi;
-033;Sandra;COUTANT;08:00;Café d'accueil;Auditorium Foyer;
+033;Sandra;COUTANT;08:00;Café d'accueil;Foyer;
 033;Sandra;COUTANT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 033;Sandra;COUTANT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 033;Sandra;COUTANT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -428,7 +428,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 033;Sandra;COUTANT;15:45;Pause;Foyer;
 033;Sandra;COUTANT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 033;Sandra;COUTANT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-034;Giuseppe;CURCI;08:00;Café d'accueil;Auditorium Foyer;
+034;Giuseppe;CURCI;08:00;Café d'accueil;Foyer;
 034;Giuseppe;CURCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 034;Giuseppe;CURCI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 034;Giuseppe;CURCI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -441,7 +441,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 034;Giuseppe;CURCI;15:45;Pause;Foyer;
 034;Giuseppe;CURCI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 034;Giuseppe;CURCI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-035;Laetitia;DAVID;08:00;Café d'accueil;Auditorium Foyer;
+035;Laetitia;DAVID;08:00;Café d'accueil;Foyer;
 035;Laetitia;DAVID;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 035;Laetitia;DAVID;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 035;Laetitia;DAVID;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -454,7 +454,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 035;Laetitia;DAVID;15:45;Pause;Foyer;
 035;Laetitia;DAVID;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 035;Laetitia;DAVID;17:00;Remise des Prix & Conclusion;Grand Amphi;
-036;Alban;DAZIN;08:00;Café d'accueil;Auditorium Foyer;
+036;Alban;DAZIN;08:00;Café d'accueil;Foyer;
 036;Alban;DAZIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 036;Alban;DAZIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 036;Alban;DAZIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -467,7 +467,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 036;Alban;DAZIN;15:45;Pause;Foyer;
 036;Alban;DAZIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 036;Alban;DAZIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-037;Benoit;DE LA TOUR DU PIN;08:00;Café d'accueil;Auditorium Foyer;
+037;Benoit;DE LA TOUR DU PIN;08:00;Café d'accueil;Foyer;
 037;Benoit;DE LA TOUR DU PIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -480,7 +480,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 037;Benoit;DE LA TOUR DU PIN;15:45;Pause;Foyer;
 037;Benoit;DE LA TOUR DU PIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-038;Albin;DELEUZE;08:00;Café d'accueil;Auditorium Foyer;
+038;Albin;DELEUZE;08:00;Café d'accueil;Foyer;
 038;Albin;DELEUZE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 038;Albin;DELEUZE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 038;Albin;DELEUZE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -493,7 +493,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 038;Albin;DELEUZE;15:45;Pause;Foyer;
 038;Albin;DELEUZE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 038;Albin;DELEUZE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-039;Baptiste;DELPIERRE;08:00;Café d'accueil;Auditorium Foyer;
+039;Baptiste;DELPIERRE;08:00;Café d'accueil;Foyer;
 039;Baptiste;DELPIERRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 039;Baptiste;DELPIERRE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 039;Baptiste;DELPIERRE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -506,7 +506,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 039;Baptiste;DELPIERRE;15:45;Pause;Foyer;
 039;Baptiste;DELPIERRE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 039;Baptiste;DELPIERRE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-040;Sophie / Orsatelli;DEMARQUAY;08:00;Café d'accueil;Auditorium Foyer;
+040;Sophie / Orsatelli;DEMARQUAY;08:00;Café d'accueil;Foyer;
 040;Sophie / Orsatelli;DEMARQUAY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 040;Sophie / Orsatelli;DEMARQUAY;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 040;Sophie / Orsatelli;DEMARQUAY;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -519,7 +519,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 040;Sophie / Orsatelli;DEMARQUAY;15:45;Pause;Foyer;
 040;Sophie / Orsatelli;DEMARQUAY;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 040;Sophie / Orsatelli;DEMARQUAY;17:00;Remise des Prix & Conclusion;Grand Amphi;
-041;Michel;DENNEULIN;08:00;Café d'accueil;Auditorium Foyer;
+041;Michel;DENNEULIN;08:00;Café d'accueil;Foyer;
 041;Michel;DENNEULIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 041;Michel;DENNEULIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 041;Michel;DENNEULIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -532,7 +532,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 041;Michel;DENNEULIN;15:45;Pause;Foyer;
 041;Michel;DENNEULIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 041;Michel;DENNEULIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-042;Antoine;DRAGON;08:00;Café d'accueil;Auditorium Foyer;
+042;Antoine;DRAGON;08:00;Café d'accueil;Foyer;
 042;Antoine;DRAGON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 042;Antoine;DRAGON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 042;Antoine;DRAGON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -545,7 +545,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 042;Antoine;DRAGON;15:45;Pause;Foyer;
 042;Antoine;DRAGON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 042;Antoine;DRAGON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-043;Laurent;DUHEM;08:00;Café d'accueil;Auditorium Foyer;
+043;Laurent;DUHEM;08:00;Café d'accueil;Foyer;
 043;Laurent;DUHEM;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 043;Laurent;DUHEM;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 043;Laurent;DUHEM;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -558,7 +558,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 043;Laurent;DUHEM;15:45;Pause;Foyer;
 043;Laurent;DUHEM;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 043;Laurent;DUHEM;17:00;Remise des Prix & Conclusion;Grand Amphi;
-044;Carole;DUPONT;08:00;Café d'accueil;Auditorium Foyer;
+044;Carole;DUPONT;08:00;Café d'accueil;Foyer;
 044;Carole;DUPONT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 044;Carole;DUPONT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 044;Carole;DUPONT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -571,7 +571,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 044;Carole;DUPONT;15:45;Pause;Foyer;
 044;Carole;DUPONT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 044;Carole;DUPONT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-045;Albane;DURET FERRARI;08:00;Café d'accueil;Auditorium Foyer;
+045;Albane;DURET FERRARI;08:00;Café d'accueil;Foyer;
 045;Albane;DURET FERRARI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 045;Albane;DURET FERRARI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 045;Albane;DURET FERRARI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -584,7 +584,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 045;Albane;DURET FERRARI;15:45;Pause;Foyer;
 045;Albane;DURET FERRARI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 045;Albane;DURET FERRARI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-046;Antoine;DUVERGER;08:00;Café d'accueil;Auditorium Foyer;
+046;Antoine;DUVERGER;08:00;Café d'accueil;Foyer;
 046;Antoine;DUVERGER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 046;Antoine;DUVERGER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 046;Antoine;DUVERGER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -597,7 +597,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 046;Antoine;DUVERGER;15:45;Pause;Foyer;
 046;Antoine;DUVERGER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 046;Antoine;DUVERGER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-047;Jalile;EL BADSI;08:00;Café d'accueil;Auditorium Foyer;
+047;Jalile;EL BADSI;08:00;Café d'accueil;Foyer;
 047;Jalile;EL BADSI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 047;Jalile;EL BADSI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 047;Jalile;EL BADSI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -610,7 +610,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 047;Jalile;EL BADSI;15:45;Pause;Foyer;
 047;Jalile;EL BADSI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 047;Jalile;EL BADSI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-048;Jean-Claude;ELBAZIS;08:00;Café d'accueil;Auditorium Foyer;
+048;Jean-Claude;ELBAZIS;08:00;Café d'accueil;Foyer;
 048;Jean-Claude;ELBAZIS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 048;Jean-Claude;ELBAZIS;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 048;Jean-Claude;ELBAZIS;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -623,7 +623,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 048;Jean-Claude;ELBAZIS;15:45;Pause;Foyer;
 048;Jean-Claude;ELBAZIS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 048;Jean-Claude;ELBAZIS;17:00;Remise des Prix & Conclusion;Grand Amphi;
-049;Maxime;ESCOI;08:00;Café d'accueil;Auditorium Foyer;
+049;Maxime;ESCOI;08:00;Café d'accueil;Foyer;
 049;Maxime;ESCOI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 049;Maxime;ESCOI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 049;Maxime;ESCOI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -636,7 +636,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 049;Maxime;ESCOI;15:45;Pause;Foyer;
 049;Maxime;ESCOI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 049;Maxime;ESCOI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-050;Loyse;FAROUX;08:00;Café d'accueil;Auditorium Foyer;
+050;Loyse;FAROUX;08:00;Café d'accueil;Foyer;
 050;Loyse;FAROUX;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 050;Loyse;FAROUX;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 050;Loyse;FAROUX;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -649,7 +649,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 050;Loyse;FAROUX;15:45;Pause;Foyer;
 050;Loyse;FAROUX;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 050;Loyse;FAROUX;17:00;Remise des Prix & Conclusion;Grand Amphi;
-051;Stanislas;FEIXAS;08:00;Café d'accueil;Auditorium Foyer;
+051;Stanislas;FEIXAS;08:00;Café d'accueil;Foyer;
 051;Stanislas;FEIXAS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 051;Stanislas;FEIXAS;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 051;Stanislas;FEIXAS;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -662,7 +662,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 051;Stanislas;FEIXAS;15:45;Pause;Foyer;
 051;Stanislas;FEIXAS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 051;Stanislas;FEIXAS;17:00;Remise des Prix & Conclusion;Grand Amphi;
-052;Miguel;FERRER;08:00;Café d'accueil;Auditorium Foyer;
+052;Miguel;FERRER;08:00;Café d'accueil;Foyer;
 052;Miguel;FERRER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 052;Miguel;FERRER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 052;Miguel;FERRER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -675,7 +675,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 052;Miguel;FERRER;15:45;Pause;Foyer;
 052;Miguel;FERRER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 052;Miguel;FERRER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-053;Coralie;FOURNIER;08:00;Café d'accueil;Auditorium Foyer;
+053;Coralie;FOURNIER;08:00;Café d'accueil;Foyer;
 053;Coralie;FOURNIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 053;Coralie;FOURNIER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 053;Coralie;FOURNIER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -688,7 +688,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 053;Coralie;FOURNIER;15:45;Pause;Foyer;
 053;Coralie;FOURNIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 053;Coralie;FOURNIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-054;Annick;GAGNON;08:00;Café d'accueil;Auditorium Foyer;
+054;Annick;GAGNON;08:00;Café d'accueil;Foyer;
 054;Annick;GAGNON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 054;Annick;GAGNON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 054;Annick;GAGNON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -701,7 +701,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 054;Annick;GAGNON;15:45;Pause;Foyer;
 054;Annick;GAGNON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 054;Annick;GAGNON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-055;Cédric;GERMANI;08:00;Café d'accueil;Auditorium Foyer;
+055;Cédric;GERMANI;08:00;Café d'accueil;Foyer;
 055;Cédric;GERMANI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 055;Cédric;GERMANI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 055;Cédric;GERMANI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -714,7 +714,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 055;Cédric;GERMANI;15:45;Pause;Foyer;
 055;Cédric;GERMANI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 055;Cédric;GERMANI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-056;Alexandre;GHEERARDYN;08:00;Café d'accueil;Auditorium Foyer;
+056;Alexandre;GHEERARDYN;08:00;Café d'accueil;Foyer;
 056;Alexandre;GHEERARDYN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 056;Alexandre;GHEERARDYN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 056;Alexandre;GHEERARDYN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -727,7 +727,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 056;Alexandre;GHEERARDYN;15:45;Pause;Foyer;
 056;Alexandre;GHEERARDYN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 056;Alexandre;GHEERARDYN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-057;Sidney;GIRAUD;08:00;Café d'accueil;Auditorium Foyer;
+057;Sidney;GIRAUD;08:00;Café d'accueil;Foyer;
 057;Sidney;GIRAUD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 057;Sidney;GIRAUD;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 057;Sidney;GIRAUD;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -740,7 +740,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 057;Sidney;GIRAUD;15:45;Pause;Foyer;
 057;Sidney;GIRAUD;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 057;Sidney;GIRAUD;17:00;Remise des Prix & Conclusion;Grand Amphi;
-058;Caroline;GOLDFARB;08:00;Café d'accueil;Auditorium Foyer;
+058;Caroline;GOLDFARB;08:00;Café d'accueil;Foyer;
 058;Caroline;GOLDFARB;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 058;Caroline;GOLDFARB;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 058;Caroline;GOLDFARB;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -753,7 +753,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 058;Caroline;GOLDFARB;15:45;Pause;Foyer;
 058;Caroline;GOLDFARB;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 058;Caroline;GOLDFARB;17:00;Remise des Prix & Conclusion;Grand Amphi;
-059;Marina;GOURDON-DUBANT;08:00;Café d'accueil;Auditorium Foyer;
+059;Marina;GOURDON-DUBANT;08:00;Café d'accueil;Foyer;
 059;Marina;GOURDON-DUBANT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 059;Marina;GOURDON-DUBANT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 059;Marina;GOURDON-DUBANT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -766,7 +766,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 059;Marina;GOURDON-DUBANT;15:45;Pause;Foyer;
 059;Marina;GOURDON-DUBANT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 059;Marina;GOURDON-DUBANT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-060;Nicolas;GUEGUEN;08:00;Café d'accueil;Auditorium Foyer;
+060;Nicolas;GUEGUEN;08:00;Café d'accueil;Foyer;
 060;Nicolas;GUEGUEN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 060;Nicolas;GUEGUEN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 060;Nicolas;GUEGUEN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -779,7 +779,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 060;Nicolas;GUEGUEN;15:45;Pause;Foyer;
 060;Nicolas;GUEGUEN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 060;Nicolas;GUEGUEN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-061;Marine;GUERRET;08:00;Café d'accueil;Auditorium Foyer;
+061;Marine;GUERRET;08:00;Café d'accueil;Foyer;
 061;Marine;GUERRET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 061;Marine;GUERRET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 061;Marine;GUERRET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -792,7 +792,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 061;Marine;GUERRET;15:45;Pause;Foyer;
 061;Marine;GUERRET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 061;Marine;GUERRET;17:00;Remise des Prix & Conclusion;Grand Amphi;
-062;Jeanne;GUERRIER;08:00;Café d'accueil;Auditorium Foyer;
+062;Jeanne;GUERRIER;08:00;Café d'accueil;Foyer;
 062;Jeanne;GUERRIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 062;Jeanne;GUERRIER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 062;Jeanne;GUERRIER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -805,7 +805,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 062;Jeanne;GUERRIER;15:45;Pause;Foyer;
 062;Jeanne;GUERRIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 062;Jeanne;GUERRIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-063;Eric;HAMON;08:00;Café d'accueil;Auditorium Foyer;
+063;Eric;HAMON;08:00;Café d'accueil;Foyer;
 063;Eric;HAMON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 063;Eric;HAMON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 063;Eric;HAMON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -818,7 +818,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 063;Eric;HAMON;15:45;Pause;Foyer;
 063;Eric;HAMON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 063;Eric;HAMON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-064;Sandrine;HAMOUR;08:00;Café d'accueil;Auditorium Foyer;
+064;Sandrine;HAMOUR;08:00;Café d'accueil;Foyer;
 064;Sandrine;HAMOUR;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 064;Sandrine;HAMOUR;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 064;Sandrine;HAMOUR;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -831,7 +831,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 064;Sandrine;HAMOUR;15:45;Pause;Foyer;
 064;Sandrine;HAMOUR;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 064;Sandrine;HAMOUR;17:00;Remise des Prix & Conclusion;Grand Amphi;
-065;Eugenie;HERCOUET;08:00;Café d'accueil;Auditorium Foyer;
+065;Eugenie;HERCOUET;08:00;Café d'accueil;Foyer;
 065;Eugenie;HERCOUET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 065;Eugenie;HERCOUET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 065;Eugenie;HERCOUET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -844,7 +844,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 065;Eugenie;HERCOUET;15:45;Pause;Foyer;
 065;Eugenie;HERCOUET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 065;Eugenie;HERCOUET;17:00;Remise des Prix & Conclusion;Grand Amphi;
-066;Sie;HIEN;08:00;Café d'accueil;Auditorium Foyer;
+066;Sie;HIEN;08:00;Café d'accueil;Foyer;
 066;Sie;HIEN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 066;Sie;HIEN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 066;Sie;HIEN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -857,7 +857,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 066;Sie;HIEN;15:45;Pause;Foyer;
 066;Sie;HIEN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 066;Sie;HIEN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-067;Gemma;HILL;08:00;Café d'accueil;Auditorium Foyer;
+067;Gemma;HILL;08:00;Café d'accueil;Foyer;
 067;Gemma;HILL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 067;Gemma;HILL;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 067;Gemma;HILL;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -870,7 +870,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 067;Gemma;HILL;15:45;Pause;Foyer;
 067;Gemma;HILL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 067;Gemma;HILL;17:00;Remise des Prix & Conclusion;Grand Amphi;
-068;Yannick;HOFFMANN;08:00;Café d'accueil;Auditorium Foyer;
+068;Yannick;HOFFMANN;08:00;Café d'accueil;Foyer;
 068;Yannick;HOFFMANN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 068;Yannick;HOFFMANN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 068;Yannick;HOFFMANN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -883,7 +883,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 068;Yannick;HOFFMANN;15:45;Pause;Foyer;
 068;Yannick;HOFFMANN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 068;Yannick;HOFFMANN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-069;Benjamin;KIRCHNER;08:00;Café d'accueil;Auditorium Foyer;
+069;Benjamin;KIRCHNER;08:00;Café d'accueil;Foyer;
 069;Benjamin;KIRCHNER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 069;Benjamin;KIRCHNER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 069;Benjamin;KIRCHNER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -896,7 +896,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 069;Benjamin;KIRCHNER;15:45;Pause;Foyer;
 069;Benjamin;KIRCHNER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 069;Benjamin;KIRCHNER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-070;Karine;LABAT;08:00;Café d'accueil;Auditorium Foyer;
+070;Karine;LABAT;08:00;Café d'accueil;Foyer;
 070;Karine;LABAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 070;Karine;LABAT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 070;Karine;LABAT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -909,7 +909,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 070;Karine;LABAT;15:45;Pause;Foyer;
 070;Karine;LABAT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 070;Karine;LABAT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-071;Agnes;LAISSE;08:00;Café d'accueil;Auditorium Foyer;
+071;Agnes;LAISSE;08:00;Café d'accueil;Foyer;
 071;Agnes;LAISSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 071;Agnes;LAISSE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 071;Agnes;LAISSE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -922,7 +922,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 071;Agnes;LAISSE;15:45;Pause;Foyer;
 071;Agnes;LAISSE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 071;Agnes;LAISSE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-072;Frederic;LANGENFELD;08:00;Café d'accueil;Auditorium Foyer;
+072;Frederic;LANGENFELD;08:00;Café d'accueil;Foyer;
 072;Frederic;LANGENFELD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 072;Frederic;LANGENFELD;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 072;Frederic;LANGENFELD;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -935,7 +935,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 072;Frederic;LANGENFELD;15:45;Pause;Foyer;
 072;Frederic;LANGENFELD;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 072;Frederic;LANGENFELD;17:00;Remise des Prix & Conclusion;Grand Amphi;
-073;Frederic;LASSALLE;08:00;Café d'accueil;Auditorium Foyer;
+073;Frederic;LASSALLE;08:00;Café d'accueil;Foyer;
 073;Frederic;LASSALLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 073;Frederic;LASSALLE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 073;Frederic;LASSALLE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -948,7 +948,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 073;Frederic;LASSALLE;15:45;Pause;Foyer;
 073;Frederic;LASSALLE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 073;Frederic;LASSALLE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-074;Eric;LE LANDAIS;08:00;Café d'accueil;Auditorium Foyer;
+074;Eric;LE LANDAIS;08:00;Café d'accueil;Foyer;
 074;Eric;LE LANDAIS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 074;Eric;LE LANDAIS;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 074;Eric;LE LANDAIS;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -961,7 +961,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 074;Eric;LE LANDAIS;15:45;Pause;Foyer;
 074;Eric;LE LANDAIS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 074;Eric;LE LANDAIS;17:00;Remise des Prix & Conclusion;Grand Amphi;
-075;Nathalie;LE TALAER;08:00;Café d'accueil;Auditorium Foyer;
+075;Nathalie;LE TALAER;08:00;Café d'accueil;Foyer;
 075;Nathalie;LE TALAER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 075;Nathalie;LE TALAER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 075;Nathalie;LE TALAER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -974,7 +974,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 075;Nathalie;LE TALAER;15:45;Pause;Foyer;
 075;Nathalie;LE TALAER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 075;Nathalie;LE TALAER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-076;Romane;LEBRETON;08:00;Café d'accueil;Auditorium Foyer;
+076;Romane;LEBRETON;08:00;Café d'accueil;Foyer;
 076;Romane;LEBRETON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 076;Romane;LEBRETON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 076;Romane;LEBRETON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -987,7 +987,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 076;Romane;LEBRETON;15:45;Pause;Foyer;
 076;Romane;LEBRETON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 076;Romane;LEBRETON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-077;Lorraine;LECUSSAN;08:00;Café d'accueil;Auditorium Foyer;
+077;Lorraine;LECUSSAN;08:00;Café d'accueil;Foyer;
 077;Lorraine;LECUSSAN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 077;Lorraine;LECUSSAN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 077;Lorraine;LECUSSAN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1000,7 +1000,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 077;Lorraine;LECUSSAN;15:45;Pause;Foyer;
 077;Lorraine;LECUSSAN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 077;Lorraine;LECUSSAN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-078;Ludovic;LEVANNIER;08:00;Café d'accueil;Auditorium Foyer;
+078;Ludovic;LEVANNIER;08:00;Café d'accueil;Foyer;
 078;Ludovic;LEVANNIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 078;Ludovic;LEVANNIER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 078;Ludovic;LEVANNIER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1013,7 +1013,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 078;Ludovic;LEVANNIER;15:45;Pause;Foyer;
 078;Ludovic;LEVANNIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 078;Ludovic;LEVANNIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-079;Antoine;LEVASSOR;08:00;Café d'accueil;Auditorium Foyer;
+079;Antoine;LEVASSOR;08:00;Café d'accueil;Foyer;
 079;Antoine;LEVASSOR;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 079;Antoine;LEVASSOR;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 079;Antoine;LEVASSOR;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1026,7 +1026,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 079;Antoine;LEVASSOR;15:45;Pause;Foyer;
 079;Antoine;LEVASSOR;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 079;Antoine;LEVASSOR;17:00;Remise des Prix & Conclusion;Grand Amphi;
-080;Mickael;LIDDELL;08:00;Café d'accueil;Auditorium Foyer;
+080;Mickael;LIDDELL;08:00;Café d'accueil;Foyer;
 080;Mickael;LIDDELL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 080;Mickael;LIDDELL;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 080;Mickael;LIDDELL;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1039,7 +1039,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 080;Mickael;LIDDELL;15:45;Pause;Foyer;
 080;Mickael;LIDDELL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 080;Mickael;LIDDELL;17:00;Remise des Prix & Conclusion;Grand Amphi;
-081;Alexandre;LIEURY;08:00;Café d'accueil;Auditorium Foyer;
+081;Alexandre;LIEURY;08:00;Café d'accueil;Foyer;
 081;Alexandre;LIEURY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 081;Alexandre;LIEURY;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 081;Alexandre;LIEURY;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1052,7 +1052,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 081;Alexandre;LIEURY;15:45;Pause;Foyer;
 081;Alexandre;LIEURY;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 081;Alexandre;LIEURY;17:00;Remise des Prix & Conclusion;Grand Amphi;
-082;Aida;LOCQUETTE;08:00;Café d'accueil;Auditorium Foyer;
+082;Aida;LOCQUETTE;08:00;Café d'accueil;Foyer;
 082;Aida;LOCQUETTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 082;Aida;LOCQUETTE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 082;Aida;LOCQUETTE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1065,7 +1065,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 082;Aida;LOCQUETTE;15:45;Pause;Foyer;
 082;Aida;LOCQUETTE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 082;Aida;LOCQUETTE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-083;Lenny;LOPEZ;08:00;Café d'accueil;Auditorium Foyer;
+083;Lenny;LOPEZ;08:00;Café d'accueil;Foyer;
 083;Lenny;LOPEZ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 083;Lenny;LOPEZ;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 083;Lenny;LOPEZ;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1078,7 +1078,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 083;Lenny;LOPEZ;15:45;Pause;Foyer;
 083;Lenny;LOPEZ;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 083;Lenny;LOPEZ;17:00;Remise des Prix & Conclusion;Grand Amphi;
-084;Pascal;MACH;08:00;Café d'accueil;Auditorium Foyer;
+084;Pascal;MACH;08:00;Café d'accueil;Foyer;
 084;Pascal;MACH;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 084;Pascal;MACH;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 084;Pascal;MACH;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1091,7 +1091,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 084;Pascal;MACH;15:45;Pause;Foyer;
 084;Pascal;MACH;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 084;Pascal;MACH;17:00;Remise des Prix & Conclusion;Grand Amphi;
-085;Jerome;MARION;08:00;Café d'accueil;Auditorium Foyer;
+085;Jerome;MARION;08:00;Café d'accueil;Foyer;
 085;Jerome;MARION;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 085;Jerome;MARION;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 085;Jerome;MARION;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1104,7 +1104,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 085;Jerome;MARION;15:45;Pause;Foyer;
 085;Jerome;MARION;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 085;Jerome;MARION;17:00;Remise des Prix & Conclusion;Grand Amphi;
-086;Tom;MARMANDE;08:00;Café d'accueil;Auditorium Foyer;
+086;Tom;MARMANDE;08:00;Café d'accueil;Foyer;
 086;Tom;MARMANDE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 086;Tom;MARMANDE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 086;Tom;MARMANDE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1117,7 +1117,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 086;Tom;MARMANDE;15:45;Pause;Foyer;
 086;Tom;MARMANDE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 086;Tom;MARMANDE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-087;Guillaume;MARTIN;08:00;Café d'accueil;Auditorium Foyer;
+087;Guillaume;MARTIN;08:00;Café d'accueil;Foyer;
 087;Guillaume;MARTIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 087;Guillaume;MARTIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 087;Guillaume;MARTIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1130,7 +1130,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 087;Guillaume;MARTIN;15:45;Pause;Foyer;
 087;Guillaume;MARTIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 087;Guillaume;MARTIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
-088;Rodolfo;MARTINEZ;08:00;Café d'accueil;Auditorium Foyer;
+088;Rodolfo;MARTINEZ;08:00;Café d'accueil;Foyer;
 088;Rodolfo;MARTINEZ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 088;Rodolfo;MARTINEZ;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 088;Rodolfo;MARTINEZ;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1143,7 +1143,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 088;Rodolfo;MARTINEZ;15:45;Pause;Foyer;
 088;Rodolfo;MARTINEZ;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 088;Rodolfo;MARTINEZ;17:00;Remise des Prix & Conclusion;Grand Amphi;
-089;Denis;MASSE;08:00;Café d'accueil;Auditorium Foyer;
+089;Denis;MASSE;08:00;Café d'accueil;Foyer;
 089;Denis;MASSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 089;Denis;MASSE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 089;Denis;MASSE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1156,7 +1156,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 089;Denis;MASSE;15:45;Pause;Foyer;
 089;Denis;MASSE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 089;Denis;MASSE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-090;Edwige;MAUGENDRE;08:00;Café d'accueil;Auditorium Foyer;
+090;Edwige;MAUGENDRE;08:00;Café d'accueil;Foyer;
 090;Edwige;MAUGENDRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 090;Edwige;MAUGENDRE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 090;Edwige;MAUGENDRE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1169,7 +1169,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 090;Edwige;MAUGENDRE;15:45;Pause;Foyer;
 090;Edwige;MAUGENDRE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 090;Edwige;MAUGENDRE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-091;Alexis;MEHRENBERGER;08:00;Café d'accueil;Auditorium Foyer;
+091;Alexis;MEHRENBERGER;08:00;Café d'accueil;Foyer;
 091;Alexis;MEHRENBERGER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 091;Alexis;MEHRENBERGER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 091;Alexis;MEHRENBERGER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1182,7 +1182,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 091;Alexis;MEHRENBERGER;15:45;Pause;Foyer;
 091;Alexis;MEHRENBERGER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 091;Alexis;MEHRENBERGER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-092;Aldona;MENERET;08:00;Café d'accueil;Auditorium Foyer;
+092;Aldona;MENERET;08:00;Café d'accueil;Foyer;
 092;Aldona;MENERET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 092;Aldona;MENERET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 092;Aldona;MENERET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1195,7 +1195,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 092;Aldona;MENERET;15:45;Pause;Foyer;
 092;Aldona;MENERET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 092;Aldona;MENERET;17:00;Remise des Prix & Conclusion;Grand Amphi;
-093;Sebastien;MERCADIE;08:00;Café d'accueil;Auditorium Foyer;
+093;Sebastien;MERCADIE;08:00;Café d'accueil;Foyer;
 093;Sebastien;MERCADIE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 093;Sebastien;MERCADIE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 093;Sebastien;MERCADIE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1208,7 +1208,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 093;Sebastien;MERCADIE;15:45;Pause;Foyer;
 093;Sebastien;MERCADIE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 093;Sebastien;MERCADIE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-094;Zayna;MERNISSI;08:00;Café d'accueil;Auditorium Foyer;
+094;Zayna;MERNISSI;08:00;Café d'accueil;Foyer;
 094;Zayna;MERNISSI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 094;Zayna;MERNISSI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 094;Zayna;MERNISSI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1221,7 +1221,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 094;Zayna;MERNISSI;15:45;Pause;Foyer;
 094;Zayna;MERNISSI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 094;Zayna;MERNISSI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-095;Marie-Anne;MICHON;08:00;Café d'accueil;Auditorium Foyer;
+095;Marie-Anne;MICHON;08:00;Café d'accueil;Foyer;
 095;Marie-Anne;MICHON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 095;Marie-Anne;MICHON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 095;Marie-Anne;MICHON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1234,7 +1234,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 095;Marie-Anne;MICHON;15:45;Pause;Foyer;
 095;Marie-Anne;MICHON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 095;Marie-Anne;MICHON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-096;Lionel;MORENO;08:00;Café d'accueil;Auditorium Foyer;
+096;Lionel;MORENO;08:00;Café d'accueil;Foyer;
 096;Lionel;MORENO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 096;Lionel;MORENO;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 096;Lionel;MORENO;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1247,7 +1247,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 096;Lionel;MORENO;15:45;Pause;Foyer;
 096;Lionel;MORENO;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 096;Lionel;MORENO;17:00;Remise des Prix & Conclusion;Grand Amphi;
-097;Alexandre;MOUTET;08:00;Café d'accueil;Auditorium Foyer;
+097;Alexandre;MOUTET;08:00;Café d'accueil;Foyer;
 097;Alexandre;MOUTET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 097;Alexandre;MOUTET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 097;Alexandre;MOUTET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1260,7 +1260,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 097;Alexandre;MOUTET;15:45;Pause;Foyer;
 097;Alexandre;MOUTET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 097;Alexandre;MOUTET;17:00;Remise des Prix & Conclusion;Grand Amphi;
-098;Pascal;NOTTE;08:00;Café d'accueil;Auditorium Foyer;
+098;Pascal;NOTTE;08:00;Café d'accueil;Foyer;
 098;Pascal;NOTTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 098;Pascal;NOTTE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 098;Pascal;NOTTE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1273,7 +1273,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 098;Pascal;NOTTE;15:45;Pause;Foyer;
 098;Pascal;NOTTE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 098;Pascal;NOTTE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-099;Thomas;OLIVERO;08:00;Café d'accueil;Auditorium Foyer;
+099;Thomas;OLIVERO;08:00;Café d'accueil;Foyer;
 099;Thomas;OLIVERO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 099;Thomas;OLIVERO;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 099;Thomas;OLIVERO;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1286,7 +1286,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 099;Thomas;OLIVERO;15:45;Pause;Foyer;
 099;Thomas;OLIVERO;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 099;Thomas;OLIVERO;17:00;Remise des Prix & Conclusion;Grand Amphi;
-100;Elisabeth;PALACIO;08:00;Café d'accueil;Auditorium Foyer;
+100;Elisabeth;PALACIO;08:00;Café d'accueil;Foyer;
 100;Elisabeth;PALACIO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 100;Elisabeth;PALACIO;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 100;Elisabeth;PALACIO;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1299,7 +1299,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 100;Elisabeth;PALACIO;15:45;Pause;Foyer;
 100;Elisabeth;PALACIO;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 100;Elisabeth;PALACIO;17:00;Remise des Prix & Conclusion;Grand Amphi;
-101;Julien;PECHALAT;08:00;Café d'accueil;Auditorium Foyer;
+101;Julien;PECHALAT;08:00;Café d'accueil;Foyer;
 101;Julien;PECHALAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 101;Julien;PECHALAT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 101;Julien;PECHALAT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1312,7 +1312,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 101;Julien;PECHALAT;15:45;Pause;Foyer;
 101;Julien;PECHALAT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 101;Julien;PECHALAT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-102;Marc;PELLE;08:00;Café d'accueil;Auditorium Foyer;
+102;Marc;PELLE;08:00;Café d'accueil;Foyer;
 102;Marc;PELLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 102;Marc;PELLE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 102;Marc;PELLE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1325,7 +1325,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 102;Marc;PELLE;15:45;Pause;Foyer;
 102;Marc;PELLE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 102;Marc;PELLE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-103;Laura;PEUPIER;08:00;Café d'accueil;Auditorium Foyer;
+103;Laura;PEUPIER;08:00;Café d'accueil;Foyer;
 103;Laura;PEUPIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 103;Laura;PEUPIER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 103;Laura;PEUPIER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1338,7 +1338,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 103;Laura;PEUPIER;15:45;Pause;Foyer;
 103;Laura;PEUPIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 103;Laura;PEUPIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-104;Jonathan;PINSON;08:00;Café d'accueil;Auditorium Foyer;
+104;Jonathan;PINSON;08:00;Café d'accueil;Foyer;
 104;Jonathan;PINSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 104;Jonathan;PINSON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 104;Jonathan;PINSON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1351,7 +1351,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 104;Jonathan;PINSON;15:45;Pause;Foyer;
 104;Jonathan;PINSON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 104;Jonathan;PINSON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-105;Christophe;PLISSON;08:00;Café d'accueil;Auditorium Foyer;
+105;Christophe;PLISSON;08:00;Café d'accueil;Foyer;
 105;Christophe;PLISSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 105;Christophe;PLISSON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 105;Christophe;PLISSON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1364,7 +1364,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 105;Christophe;PLISSON;15:45;Pause;Foyer;
 105;Christophe;PLISSON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 105;Christophe;PLISSON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-106;Gilles;POILVET;08:00;Café d'accueil;Auditorium Foyer;
+106;Gilles;POILVET;08:00;Café d'accueil;Foyer;
 106;Gilles;POILVET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 106;Gilles;POILVET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 106;Gilles;POILVET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1377,7 +1377,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 106;Gilles;POILVET;15:45;Pause;Foyer;
 106;Gilles;POILVET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 106;Gilles;POILVET;17:00;Remise des Prix & Conclusion;Grand Amphi;
-107;Frederic;PONCET;08:00;Café d'accueil;Auditorium Foyer;
+107;Frederic;PONCET;08:00;Café d'accueil;Foyer;
 107;Frederic;PONCET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 107;Frederic;PONCET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 107;Frederic;PONCET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1390,7 +1390,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 107;Frederic;PONCET;15:45;Pause;Foyer;
 107;Frederic;PONCET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 107;Frederic;PONCET;17:00;Remise des Prix & Conclusion;Grand Amphi;
-108;Yongqian-Christine;PONT;08:00;Café d'accueil;Auditorium Foyer;
+108;Yongqian-Christine;PONT;08:00;Café d'accueil;Foyer;
 108;Yongqian-Christine;PONT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 108;Yongqian-Christine;PONT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 108;Yongqian-Christine;PONT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1403,7 +1403,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 108;Yongqian-Christine;PONT;15:45;Pause;Foyer;
 108;Yongqian-Christine;PONT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 108;Yongqian-Christine;PONT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-109;Nicolas;POZNIAK;08:00;Café d'accueil;Auditorium Foyer;
+109;Nicolas;POZNIAK;08:00;Café d'accueil;Foyer;
 109;Nicolas;POZNIAK;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 109;Nicolas;POZNIAK;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 109;Nicolas;POZNIAK;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1416,7 +1416,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 109;Nicolas;POZNIAK;15:45;Pause;Foyer;
 109;Nicolas;POZNIAK;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 109;Nicolas;POZNIAK;17:00;Remise des Prix & Conclusion;Grand Amphi;
-110;Emmanuel;QUIL;08:00;Café d'accueil;Auditorium Foyer;
+110;Emmanuel;QUIL;08:00;Café d'accueil;Foyer;
 110;Emmanuel;QUIL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 110;Emmanuel;QUIL;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 110;Emmanuel;QUIL;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1429,7 +1429,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 110;Emmanuel;QUIL;15:45;Pause;Foyer;
 110;Emmanuel;QUIL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 110;Emmanuel;QUIL;17:00;Remise des Prix & Conclusion;Grand Amphi;
-111;Ely;RAKOTOBE;08:00;Café d'accueil;Auditorium Foyer;
+111;Ely;RAKOTOBE;08:00;Café d'accueil;Foyer;
 111;Ely;RAKOTOBE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 111;Ely;RAKOTOBE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 111;Ely;RAKOTOBE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1442,7 +1442,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 111;Ely;RAKOTOBE;15:45;Pause;Foyer;
 111;Ely;RAKOTOBE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 111;Ely;RAKOTOBE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-112;Isabelle;RAULT;08:00;Café d'accueil;Auditorium Foyer;
+112;Isabelle;RAULT;08:00;Café d'accueil;Foyer;
 112;Isabelle;RAULT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 112;Isabelle;RAULT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 112;Isabelle;RAULT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1455,7 +1455,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 112;Isabelle;RAULT;15:45;Pause;Foyer;
 112;Isabelle;RAULT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 112;Isabelle;RAULT;17:00;Remise des Prix & Conclusion;Grand Amphi;
-113;Samuel;RENEVRET;08:00;Café d'accueil;Auditorium Foyer;
+113;Samuel;RENEVRET;08:00;Café d'accueil;Foyer;
 113;Samuel;RENEVRET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 113;Samuel;RENEVRET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 113;Samuel;RENEVRET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1468,7 +1468,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 113;Samuel;RENEVRET;15:45;Pause;Foyer;
 113;Samuel;RENEVRET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 113;Samuel;RENEVRET;17:00;Remise des Prix & Conclusion;Grand Amphi;
-114;Delphine;RICHER;08:00;Café d'accueil;Auditorium Foyer;
+114;Delphine;RICHER;08:00;Café d'accueil;Foyer;
 114;Delphine;RICHER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 114;Delphine;RICHER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 114;Delphine;RICHER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1481,7 +1481,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 114;Delphine;RICHER;15:45;Pause;Foyer;
 114;Delphine;RICHER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 114;Delphine;RICHER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-115;Céline;ROCHE;08:00;Café d'accueil;Auditorium Foyer;
+115;Céline;ROCHE;08:00;Café d'accueil;Foyer;
 115;Céline;ROCHE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 115;Céline;ROCHE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 115;Céline;ROCHE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1494,7 +1494,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 115;Céline;ROCHE;15:45;Pause;Foyer;
 115;Céline;ROCHE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 115;Céline;ROCHE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-116;Paul;ROGER-MACHART;08:00;Café d'accueil;Auditorium Foyer;
+116;Paul;ROGER-MACHART;08:00;Café d'accueil;Foyer;
 116;Paul;ROGER-MACHART;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 116;Paul;ROGER-MACHART;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 116;Paul;ROGER-MACHART;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1507,7 +1507,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 116;Paul;ROGER-MACHART;15:45;Pause;Foyer;
 116;Paul;ROGER-MACHART;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 116;Paul;ROGER-MACHART;17:00;Remise des Prix & Conclusion;Grand Amphi;
-117;Jose Manuel;ROMERO;08:00;Café d'accueil;Auditorium Foyer;
+117;Jose Manuel;ROMERO;08:00;Café d'accueil;Foyer;
 117;Jose Manuel;ROMERO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 117;Jose Manuel;ROMERO;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 117;Jose Manuel;ROMERO;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1520,7 +1520,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 117;Jose Manuel;ROMERO;15:45;Pause;Foyer;
 117;Jose Manuel;ROMERO;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 117;Jose Manuel;ROMERO;17:00;Remise des Prix & Conclusion;Grand Amphi;
-118;Nubia;RUIZ;08:00;Café d'accueil;Auditorium Foyer;
+118;Nubia;RUIZ;08:00;Café d'accueil;Foyer;
 118;Nubia;RUIZ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 118;Nubia;RUIZ;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 118;Nubia;RUIZ;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1533,7 +1533,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 118;Nubia;RUIZ;15:45;Pause;Foyer;
 118;Nubia;RUIZ;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 118;Nubia;RUIZ;17:00;Remise des Prix & Conclusion;Grand Amphi;
-119;Nicolas;SALLE;08:00;Café d'accueil;Auditorium Foyer;
+119;Nicolas;SALLE;08:00;Café d'accueil;Foyer;
 119;Nicolas;SALLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 119;Nicolas;SALLE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 119;Nicolas;SALLE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1546,7 +1546,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 119;Nicolas;SALLE;15:45;Pause;Foyer;
 119;Nicolas;SALLE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 119;Nicolas;SALLE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-120;Remi;SCHUWER;08:00;Café d'accueil;Auditorium Foyer;
+120;Remi;SCHUWER;08:00;Café d'accueil;Foyer;
 120;Remi;SCHUWER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 120;Remi;SCHUWER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 120;Remi;SCHUWER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1559,7 +1559,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 120;Remi;SCHUWER;15:45;Pause;Foyer;
 120;Remi;SCHUWER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 120;Remi;SCHUWER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-121;Denis;SERVOLE;08:00;Café d'accueil;Auditorium Foyer;
+121;Denis;SERVOLE;08:00;Café d'accueil;Foyer;
 121;Denis;SERVOLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 121;Denis;SERVOLE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 121;Denis;SERVOLE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1572,7 +1572,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 121;Denis;SERVOLE;15:45;Pause;Foyer;
 121;Denis;SERVOLE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 121;Denis;SERVOLE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-122;Steve;SOSSON;08:00;Café d'accueil;Auditorium Foyer;
+122;Steve;SOSSON;08:00;Café d'accueil;Foyer;
 122;Steve;SOSSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 122;Steve;SOSSON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 122;Steve;SOSSON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1585,7 +1585,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 122;Steve;SOSSON;15:45;Pause;Foyer;
 122;Steve;SOSSON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 122;Steve;SOSSON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-123;Adam;SOVA;08:00;Café d'accueil;Auditorium Foyer;
+123;Adam;SOVA;08:00;Café d'accueil;Foyer;
 123;Adam;SOVA;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 123;Adam;SOVA;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 123;Adam;SOVA;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1598,7 +1598,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 123;Adam;SOVA;15:45;Pause;Foyer;
 123;Adam;SOVA;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 123;Adam;SOVA;17:00;Remise des Prix & Conclusion;Grand Amphi;
-124;Pierre Marie;SOYER;08:00;Café d'accueil;Auditorium Foyer;
+124;Pierre Marie;SOYER;08:00;Café d'accueil;Foyer;
 124;Pierre Marie;SOYER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 124;Pierre Marie;SOYER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 124;Pierre Marie;SOYER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1611,7 +1611,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 124;Pierre Marie;SOYER;15:45;Pause;Foyer;
 124;Pierre Marie;SOYER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 124;Pierre Marie;SOYER;17:00;Remise des Prix & Conclusion;Grand Amphi;
-125;Helene;TANCHOUX;08:00;Café d'accueil;Auditorium Foyer;
+125;Helene;TANCHOUX;08:00;Café d'accueil;Foyer;
 125;Helene;TANCHOUX;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 125;Helene;TANCHOUX;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 125;Helene;TANCHOUX;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1624,7 +1624,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 125;Helene;TANCHOUX;15:45;Pause;Foyer;
 125;Helene;TANCHOUX;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 125;Helene;TANCHOUX;17:00;Remise des Prix & Conclusion;Grand Amphi;
-126;Catherine;TAOUDI;08:00;Café d'accueil;Auditorium Foyer;
+126;Catherine;TAOUDI;08:00;Café d'accueil;Foyer;
 126;Catherine;TAOUDI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 126;Catherine;TAOUDI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 126;Catherine;TAOUDI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1637,7 +1637,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 126;Catherine;TAOUDI;15:45;Pause;Foyer;
 126;Catherine;TAOUDI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 126;Catherine;TAOUDI;17:00;Remise des Prix & Conclusion;Grand Amphi;
-127;Patrick-M;THOMAS;08:00;Café d'accueil;Auditorium Foyer;
+127;Patrick-M;THOMAS;08:00;Café d'accueil;Foyer;
 127;Patrick-M;THOMAS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 127;Patrick-M;THOMAS;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 127;Patrick-M;THOMAS;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1650,7 +1650,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 127;Patrick-M;THOMAS;15:45;Pause;Foyer;
 127;Patrick-M;THOMAS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 127;Patrick-M;THOMAS;17:00;Remise des Prix & Conclusion;Grand Amphi;
-128;Sophie;TOURAINE;08:00;Café d'accueil;Auditorium Foyer;
+128;Sophie;TOURAINE;08:00;Café d'accueil;Foyer;
 128;Sophie;TOURAINE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 128;Sophie;TOURAINE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 128;Sophie;TOURAINE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1663,7 +1663,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 128;Sophie;TOURAINE;15:45;Pause;Foyer;
 128;Sophie;TOURAINE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 128;Sophie;TOURAINE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-129;Arnaud;TRESARRIEU-BESINCQ;08:00;Café d'accueil;Auditorium Foyer;
+129;Arnaud;TRESARRIEU-BESINCQ;08:00;Café d'accueil;Foyer;
 129;Arnaud;TRESARRIEU-BESINCQ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 129;Arnaud;TRESARRIEU-BESINCQ;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 129;Arnaud;TRESARRIEU-BESINCQ;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1676,7 +1676,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 129;Arnaud;TRESARRIEU-BESINCQ;15:45;Pause;Foyer;
 129;Arnaud;TRESARRIEU-BESINCQ;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 129;Arnaud;TRESARRIEU-BESINCQ;17:00;Remise des Prix & Conclusion;Grand Amphi;
-130;Anne;VANHOUTTE;08:00;Café d'accueil;Auditorium Foyer;
+130;Anne;VANHOUTTE;08:00;Café d'accueil;Foyer;
 130;Anne;VANHOUTTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 130;Anne;VANHOUTTE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 130;Anne;VANHOUTTE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1689,7 +1689,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 130;Anne;VANHOUTTE;15:45;Pause;Foyer;
 130;Anne;VANHOUTTE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 130;Anne;VANHOUTTE;17:00;Remise des Prix & Conclusion;Grand Amphi;
-131;Adrien;VIAUD;08:00;Café d'accueil;Auditorium Foyer;
+131;Adrien;VIAUD;08:00;Café d'accueil;Foyer;
 131;Adrien;VIAUD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 131;Adrien;VIAUD;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 131;Adrien;VIAUD;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1702,7 +1702,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 131;Adrien;VIAUD;15:45;Pause;Foyer;
 131;Adrien;VIAUD;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 131;Adrien;VIAUD;17:00;Remise des Prix & Conclusion;Grand Amphi;
-132;Justine;VILLEVAL;08:00;Café d'accueil;Auditorium Foyer;
+132;Justine;VILLEVAL;08:00;Café d'accueil;Foyer;
 132;Justine;VILLEVAL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 132;Justine;VILLEVAL;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 132;Justine;VILLEVAL;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1715,7 +1715,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 132;Justine;VILLEVAL;15:45;Pause;Foyer;
 132;Justine;VILLEVAL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 132;Justine;VILLEVAL;17:00;Remise des Prix & Conclusion;Grand Amphi;
-133;James;WILSON;08:00;Café d'accueil;Auditorium Foyer;
+133;James;WILSON;08:00;Café d'accueil;Foyer;
 133;James;WILSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 133;James;WILSON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 133;James;WILSON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
@@ -1728,7 +1728,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 133;James;WILSON;15:45;Pause;Foyer;
 133;James;WILSON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
 133;James;WILSON;17:00;Remise des Prix & Conclusion;Grand Amphi;
-134;Kevin;WONG;08:00;Café d'accueil;Auditorium Foyer;
+134;Kevin;WONG;08:00;Café d'accueil;Foyer;
 134;Kevin;WONG;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 134;Kevin;WONG;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
 134;Kevin;WONG;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;
