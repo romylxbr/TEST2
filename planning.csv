@@ -10,7 +10,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 001;Marie-Line;ADER;14:30;Pause;Foyer;
 001;Marie-Line;ADER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 001;Marie-Line;ADER;15:45;Pause;Foyer;
-001;Marie-Line;ADER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+001;Marie-Line;ADER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 001;Marie-Line;ADER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 002;Anne;AUPIC;08:00;Café d'accueil;Foyer;
 002;Anne;AUPIC;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -23,7 +23,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 002;Anne;AUPIC;14:30;Pause;Foyer;
 002;Anne;AUPIC;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 002;Anne;AUPIC;15:45;Pause;Foyer;
-002;Anne;AUPIC;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+002;Anne;AUPIC;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 002;Anne;AUPIC;17:00;Remise des Prix & Conclusion;Grand Amphi;
 003;Claire;BAILEY;08:00;Café d'accueil;Foyer;
 003;Claire;BAILEY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -36,7 +36,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 003;Claire;BAILEY;14:30;Pause;Foyer;
 003;Claire;BAILEY;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 003;Claire;BAILEY;15:45;Pause;Foyer;
-003;Claire;BAILEY;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+003;Claire;BAILEY;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 003;Claire;BAILEY;17:00;Remise des Prix & Conclusion;Grand Amphi;
 004;Valerie;BAILLAT;08:00;Café d'accueil;Foyer;
 004;Valerie;BAILLAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -49,7 +49,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 004;Valerie;BAILLAT;14:30;Pause;Foyer;
 004;Valerie;BAILLAT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 004;Valerie;BAILLAT;15:45;Pause;Foyer;
-004;Valerie;BAILLAT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+004;Valerie;BAILLAT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 004;Valerie;BAILLAT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 005;Pascal;BANTEGNIE;08:00;Café d'accueil;Foyer;
 005;Pascal;BANTEGNIE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -62,7 +62,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 005;Pascal;BANTEGNIE;14:30;Pause;Foyer;
 005;Pascal;BANTEGNIE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 005;Pascal;BANTEGNIE;15:45;Pause;Foyer;
-005;Pascal;BANTEGNIE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+005;Pascal;BANTEGNIE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 005;Pascal;BANTEGNIE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 006;Justine;BARRE;08:00;Café d'accueil;Foyer;
 006;Justine;BARRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -75,7 +75,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 006;Justine;BARRE;14:30;Pause;Foyer;
 006;Justine;BARRE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 006;Justine;BARRE;15:45;Pause;Foyer;
-006;Justine;BARRE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+006;Justine;BARRE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 006;Justine;BARRE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 007;Christine;BASSE;08:00;Café d'accueil;Foyer;
 007;Christine;BASSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -88,7 +88,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 007;Christine;BASSE;14:30;Pause;Foyer;
 007;Christine;BASSE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 007;Christine;BASSE;15:45;Pause;Foyer;
-007;Christine;BASSE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+007;Christine;BASSE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 007;Christine;BASSE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 008;Geoffroy;BASSET-CHERCOT;08:00;Café d'accueil;Foyer;
 008;Geoffroy;BASSET-CHERCOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -101,7 +101,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 008;Geoffroy;BASSET-CHERCOT;14:30;Pause;Foyer;
 008;Geoffroy;BASSET-CHERCOT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 008;Geoffroy;BASSET-CHERCOT;15:45;Pause;Foyer;
-008;Geoffroy;BASSET-CHERCOT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+008;Geoffroy;BASSET-CHERCOT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 008;Geoffroy;BASSET-CHERCOT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 009;Cyril;BAUME;08:00;Café d'accueil;Foyer;
 009;Cyril;BAUME;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -114,7 +114,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 009;Cyril;BAUME;14:30;Pause;Foyer;
 009;Cyril;BAUME;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 009;Cyril;BAUME;15:45;Pause;Foyer;
-009;Cyril;BAUME;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+009;Cyril;BAUME;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 009;Cyril;BAUME;17:00;Remise des Prix & Conclusion;Grand Amphi;
 010;Deborah;BECKERS;08:00;Café d'accueil;Foyer;
 010;Deborah;BECKERS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -127,7 +127,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 010;Deborah;BECKERS;14:30;Pause;Foyer;
 010;Deborah;BECKERS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 010;Deborah;BECKERS;15:45;Pause;Foyer;
-010;Deborah;BECKERS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+010;Deborah;BECKERS;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 010;Deborah;BECKERS;17:00;Remise des Prix & Conclusion;Grand Amphi;
 011;Sophie;BERTHELIER;08:00;Café d'accueil;Foyer;
 011;Sophie;BERTHELIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -140,7 +140,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 011;Sophie;BERTHELIER;14:30;Pause;Foyer;
 011;Sophie;BERTHELIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 011;Sophie;BERTHELIER;15:45;Pause;Foyer;
-011;Sophie;BERTHELIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+011;Sophie;BERTHELIER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 011;Sophie;BERTHELIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 012;Coline;BLAISOT;08:00;Café d'accueil;Foyer;
 012;Coline;BLAISOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -153,7 +153,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 012;Coline;BLAISOT;14:30;Pause;Foyer;
 012;Coline;BLAISOT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 012;Coline;BLAISOT;15:45;Pause;Foyer;
-012;Coline;BLAISOT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+012;Coline;BLAISOT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 012;Coline;BLAISOT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 013;Olivier;BLAT;08:00;Café d'accueil;Foyer;
 013;Olivier;BLAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -166,7 +166,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 013;Olivier;BLAT;14:30;Pause;Foyer;
 013;Olivier;BLAT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 013;Olivier;BLAT;15:45;Pause;Foyer;
-013;Olivier;BLAT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+013;Olivier;BLAT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 013;Olivier;BLAT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 014;Sandie;BOCQUIER;08:00;Café d'accueil;Foyer;
 014;Sandie;BOCQUIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -179,7 +179,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 014;Sandie;BOCQUIER;14:30;Pause;Foyer;
 014;Sandie;BOCQUIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 014;Sandie;BOCQUIER;15:45;Pause;Foyer;
-014;Sandie;BOCQUIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+014;Sandie;BOCQUIER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 014;Sandie;BOCQUIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 015;Gildas;BODOLEC;08:00;Café d'accueil;Foyer;
 015;Gildas;BODOLEC;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -192,7 +192,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 015;Gildas;BODOLEC;14:30;Pause;Foyer;
 015;Gildas;BODOLEC;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 015;Gildas;BODOLEC;15:45;Pause;Foyer;
-015;Gildas;BODOLEC;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+015;Gildas;BODOLEC;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 015;Gildas;BODOLEC;17:00;Remise des Prix & Conclusion;Grand Amphi;
 016;Nathalie;BOSCHETTI;08:00;Café d'accueil;Foyer;
 016;Nathalie;BOSCHETTI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -205,7 +205,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 016;Nathalie;BOSCHETTI;14:30;Pause;Foyer;
 016;Nathalie;BOSCHETTI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 016;Nathalie;BOSCHETTI;15:45;Pause;Foyer;
-016;Nathalie;BOSCHETTI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+016;Nathalie;BOSCHETTI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 016;Nathalie;BOSCHETTI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 017;Alexis;BOUDJEMAA;08:00;Café d'accueil;Foyer;
 017;Alexis;BOUDJEMAA;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -218,7 +218,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 017;Alexis;BOUDJEMAA;14:30;Pause;Foyer;
 017;Alexis;BOUDJEMAA;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 017;Alexis;BOUDJEMAA;15:45;Pause;Foyer;
-017;Alexis;BOUDJEMAA;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+017;Alexis;BOUDJEMAA;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 017;Alexis;BOUDJEMAA;17:00;Remise des Prix & Conclusion;Grand Amphi;
 018;Carole;BOUREL;08:00;Café d'accueil;Foyer;
 018;Carole;BOUREL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -231,7 +231,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 018;Carole;BOUREL;14:30;Pause;Foyer;
 018;Carole;BOUREL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 018;Carole;BOUREL;15:45;Pause;Foyer;
-018;Carole;BOUREL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+018;Carole;BOUREL;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 018;Carole;BOUREL;17:00;Remise des Prix & Conclusion;Grand Amphi;
 019;Julie;BOYER;08:00;Café d'accueil;Foyer;
 019;Julie;BOYER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -244,7 +244,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 019;Julie;BOYER;14:30;Pause;Foyer;
 019;Julie;BOYER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 019;Julie;BOYER;15:45;Pause;Foyer;
-019;Julie;BOYER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+019;Julie;BOYER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 019;Julie;BOYER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 020;Vanessa;BREYTON;08:00;Café d'accueil;Foyer;
 020;Vanessa;BREYTON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -257,7 +257,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 020;Vanessa;BREYTON;14:30;Pause;Foyer;
 020;Vanessa;BREYTON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 020;Vanessa;BREYTON;15:45;Pause;Foyer;
-020;Vanessa;BREYTON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+020;Vanessa;BREYTON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 020;Vanessa;BREYTON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 021;Gabriel;CANET;08:00;Café d'accueil;Foyer;
 021;Gabriel;CANET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -270,7 +270,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 021;Gabriel;CANET;14:30;Pause;Foyer;
 021;Gabriel;CANET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 021;Gabriel;CANET;15:45;Pause;Foyer;
-021;Gabriel;CANET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+021;Gabriel;CANET;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 021;Gabriel;CANET;17:00;Remise des Prix & Conclusion;Grand Amphi;
 022;Philippe;CARBONNEL;08:00;Café d'accueil;Foyer;
 022;Philippe;CARBONNEL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -283,7 +283,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 022;Philippe;CARBONNEL;14:30;Pause;Foyer;
 022;Philippe;CARBONNEL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 022;Philippe;CARBONNEL;15:45;Pause;Foyer;
-022;Philippe;CARBONNEL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+022;Philippe;CARBONNEL;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 022;Philippe;CARBONNEL;17:00;Remise des Prix & Conclusion;Grand Amphi;
 023;Héléne;CENCI;08:00;Café d'accueil;Foyer;
 023;Héléne;CENCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -296,7 +296,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 023;Héléne;CENCI;14:30;Pause;Foyer;
 023;Héléne;CENCI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 023;Héléne;CENCI;15:45;Pause;Foyer;
-023;Héléne;CENCI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+023;Héléne;CENCI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 023;Héléne;CENCI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 024;Aurelie;CHAMBON;08:00;Café d'accueil;Foyer;
 024;Aurelie;CHAMBON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -309,7 +309,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 024;Aurelie;CHAMBON;14:30;Pause;Foyer;
 024;Aurelie;CHAMBON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 024;Aurelie;CHAMBON;15:45;Pause;Foyer;
-024;Aurelie;CHAMBON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+024;Aurelie;CHAMBON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 024;Aurelie;CHAMBON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 025;Cecile;CHAUVIN;08:00;Café d'accueil;Foyer;
 025;Cecile;CHAUVIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -322,7 +322,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 025;Cecile;CHAUVIN;14:30;Pause;Foyer;
 025;Cecile;CHAUVIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 025;Cecile;CHAUVIN;15:45;Pause;Foyer;
-025;Cecile;CHAUVIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+025;Cecile;CHAUVIN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 025;Cecile;CHAUVIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 026;Christophe;CHAZALON;08:00;Café d'accueil;Foyer;
 026;Christophe;CHAZALON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -335,7 +335,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 026;Christophe;CHAZALON;14:30;Pause;Foyer;
 026;Christophe;CHAZALON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 026;Christophe;CHAZALON;15:45;Pause;Foyer;
-026;Christophe;CHAZALON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+026;Christophe;CHAZALON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 026;Christophe;CHAZALON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 027;Marjorie;CLEMENT;08:00;Café d'accueil;Foyer;
 027;Marjorie;CLEMENT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -348,7 +348,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 027;Marjorie;CLEMENT;14:30;Pause;Foyer;
 027;Marjorie;CLEMENT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 027;Marjorie;CLEMENT;15:45;Pause;Foyer;
-027;Marjorie;CLEMENT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+027;Marjorie;CLEMENT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 027;Marjorie;CLEMENT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 028;Valerie;CLUZEAU;08:00;Café d'accueil;Foyer;
 028;Valerie;CLUZEAU;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -361,7 +361,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 028;Valerie;CLUZEAU;14:30;Pause;Foyer;
 028;Valerie;CLUZEAU;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 028;Valerie;CLUZEAU;15:45;Pause;Foyer;
-028;Valerie;CLUZEAU;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+028;Valerie;CLUZEAU;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 028;Valerie;CLUZEAU;17:00;Remise des Prix & Conclusion;Grand Amphi;
 029;Bertrand;COCHELIN;08:00;Café d'accueil;Foyer;
 029;Bertrand;COCHELIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -374,7 +374,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 029;Bertrand;COCHELIN;14:30;Pause;Foyer;
 029;Bertrand;COCHELIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 029;Bertrand;COCHELIN;15:45;Pause;Foyer;
-029;Bertrand;COCHELIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+029;Bertrand;COCHELIN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 029;Bertrand;COCHELIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 030;Valerie;COLLOT;08:00;Café d'accueil;Foyer;
 030;Valerie;COLLOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -387,7 +387,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 030;Valerie;COLLOT;14:30;Pause;Foyer;
 030;Valerie;COLLOT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 030;Valerie;COLLOT;15:45;Pause;Foyer;
-030;Valerie;COLLOT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+030;Valerie;COLLOT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 030;Valerie;COLLOT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 031;Nicolas;COSTER;08:00;Café d'accueil;Foyer;
 031;Nicolas;COSTER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -400,7 +400,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 031;Nicolas;COSTER;14:30;Pause;Foyer;
 031;Nicolas;COSTER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 031;Nicolas;COSTER;15:45;Pause;Foyer;
-031;Nicolas;COSTER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+031;Nicolas;COSTER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 031;Nicolas;COSTER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 032;Amandine;COTARD;08:00;Café d'accueil;Foyer;
 032;Amandine;COTARD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -413,7 +413,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 032;Amandine;COTARD;14:30;Pause;Foyer;
 032;Amandine;COTARD;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 032;Amandine;COTARD;15:45;Pause;Foyer;
-032;Amandine;COTARD;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+032;Amandine;COTARD;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 032;Amandine;COTARD;17:00;Remise des Prix & Conclusion;Grand Amphi;
 033;Sandra;COUTANT;08:00;Café d'accueil;Foyer;
 033;Sandra;COUTANT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -426,7 +426,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 033;Sandra;COUTANT;14:30;Pause;Foyer;
 033;Sandra;COUTANT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 033;Sandra;COUTANT;15:45;Pause;Foyer;
-033;Sandra;COUTANT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+033;Sandra;COUTANT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 033;Sandra;COUTANT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 034;Giuseppe;CURCI;08:00;Café d'accueil;Foyer;
 034;Giuseppe;CURCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -439,7 +439,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 034;Giuseppe;CURCI;14:30;Pause;Foyer;
 034;Giuseppe;CURCI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 034;Giuseppe;CURCI;15:45;Pause;Foyer;
-034;Giuseppe;CURCI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+034;Giuseppe;CURCI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 034;Giuseppe;CURCI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 035;Laetitia;DAVID;08:00;Café d'accueil;Foyer;
 035;Laetitia;DAVID;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -452,7 +452,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 035;Laetitia;DAVID;14:30;Pause;Foyer;
 035;Laetitia;DAVID;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 035;Laetitia;DAVID;15:45;Pause;Foyer;
-035;Laetitia;DAVID;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+035;Laetitia;DAVID;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 035;Laetitia;DAVID;17:00;Remise des Prix & Conclusion;Grand Amphi;
 036;Alban;DAZIN;08:00;Café d'accueil;Foyer;
 036;Alban;DAZIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -465,7 +465,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 036;Alban;DAZIN;14:30;Pause;Foyer;
 036;Alban;DAZIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 036;Alban;DAZIN;15:45;Pause;Foyer;
-036;Alban;DAZIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+036;Alban;DAZIN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 036;Alban;DAZIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;08:00;Café d'accueil;Foyer;
 037;Benoit;DE LA TOUR DU PIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -478,7 +478,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 037;Benoit;DE LA TOUR DU PIN;14:30;Pause;Foyer;
 037;Benoit;DE LA TOUR DU PIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 037;Benoit;DE LA TOUR DU PIN;15:45;Pause;Foyer;
-037;Benoit;DE LA TOUR DU PIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+037;Benoit;DE LA TOUR DU PIN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 038;Albin;DELEUZE;08:00;Café d'accueil;Foyer;
 038;Albin;DELEUZE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -491,7 +491,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 038;Albin;DELEUZE;14:30;Pause;Foyer;
 038;Albin;DELEUZE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 038;Albin;DELEUZE;15:45;Pause;Foyer;
-038;Albin;DELEUZE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+038;Albin;DELEUZE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 038;Albin;DELEUZE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 039;Baptiste;DELPIERRE;08:00;Café d'accueil;Foyer;
 039;Baptiste;DELPIERRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -504,7 +504,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 039;Baptiste;DELPIERRE;14:30;Pause;Foyer;
 039;Baptiste;DELPIERRE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 039;Baptiste;DELPIERRE;15:45;Pause;Foyer;
-039;Baptiste;DELPIERRE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+039;Baptiste;DELPIERRE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 039;Baptiste;DELPIERRE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 040;Sophie;ORSATELLI;08:00;Café d'accueil;Foyer;
 040;Sophie;ORSATELLI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -517,7 +517,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 040;Sophie;ORSATELLI;14:30;Pause;Foyer;
 040;Sophie;ORSATELLI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 040;Sophie;ORSATELLI;15:45;Pause;Foyer;
-040;Sophie;ORSATELLI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+040;Sophie;ORSATELLI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 040;Sophie;ORSATELLI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 041;Michel;DENNEULIN;08:00;Café d'accueil;Foyer;
 041;Michel;DENNEULIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -530,7 +530,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 041;Michel;DENNEULIN;14:30;Pause;Foyer;
 041;Michel;DENNEULIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 041;Michel;DENNEULIN;15:45;Pause;Foyer;
-041;Michel;DENNEULIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+041;Michel;DENNEULIN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 041;Michel;DENNEULIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 042;Antoine;DRAGON;08:00;Café d'accueil;Foyer;
 042;Antoine;DRAGON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -543,7 +543,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 042;Antoine;DRAGON;14:30;Pause;Foyer;
 042;Antoine;DRAGON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 042;Antoine;DRAGON;15:45;Pause;Foyer;
-042;Antoine;DRAGON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+042;Antoine;DRAGON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 042;Antoine;DRAGON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 043;Laurent;DUHEM;08:00;Café d'accueil;Foyer;
 043;Laurent;DUHEM;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -556,7 +556,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 043;Laurent;DUHEM;14:30;Pause;Foyer;
 043;Laurent;DUHEM;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 043;Laurent;DUHEM;15:45;Pause;Foyer;
-043;Laurent;DUHEM;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+043;Laurent;DUHEM;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 043;Laurent;DUHEM;17:00;Remise des Prix & Conclusion;Grand Amphi;
 044;Carole;DUPONT;08:00;Café d'accueil;Foyer;
 044;Carole;DUPONT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -569,7 +569,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 044;Carole;DUPONT;14:30;Pause;Foyer;
 044;Carole;DUPONT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 044;Carole;DUPONT;15:45;Pause;Foyer;
-044;Carole;DUPONT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+044;Carole;DUPONT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 044;Carole;DUPONT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 045;Albane;DURET FERRARI;08:00;Café d'accueil;Foyer;
 045;Albane;DURET FERRARI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -582,7 +582,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 045;Albane;DURET FERRARI;14:30;Pause;Foyer;
 045;Albane;DURET FERRARI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 045;Albane;DURET FERRARI;15:45;Pause;Foyer;
-045;Albane;DURET FERRARI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+045;Albane;DURET FERRARI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 045;Albane;DURET FERRARI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 046;Antoine;DUVERGER;08:00;Café d'accueil;Foyer;
 046;Antoine;DUVERGER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -595,7 +595,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 046;Antoine;DUVERGER;14:30;Pause;Foyer;
 046;Antoine;DUVERGER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 046;Antoine;DUVERGER;15:45;Pause;Foyer;
-046;Antoine;DUVERGER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+046;Antoine;DUVERGER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 046;Antoine;DUVERGER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 047;Jalile;EL BADSI;08:00;Café d'accueil;Foyer;
 047;Jalile;EL BADSI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -608,7 +608,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 047;Jalile;EL BADSI;14:30;Pause;Foyer;
 047;Jalile;EL BADSI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 047;Jalile;EL BADSI;15:45;Pause;Foyer;
-047;Jalile;EL BADSI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+047;Jalile;EL BADSI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 047;Jalile;EL BADSI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 048;Jean-Claude;ELBAZIS;08:00;Café d'accueil;Foyer;
 048;Jean-Claude;ELBAZIS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -621,7 +621,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 048;Jean-Claude;ELBAZIS;14:30;Pause;Foyer;
 048;Jean-Claude;ELBAZIS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 048;Jean-Claude;ELBAZIS;15:45;Pause;Foyer;
-048;Jean-Claude;ELBAZIS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+048;Jean-Claude;ELBAZIS;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 048;Jean-Claude;ELBAZIS;17:00;Remise des Prix & Conclusion;Grand Amphi;
 049;Maxime;ESCOI;08:00;Café d'accueil;Foyer;
 049;Maxime;ESCOI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -634,7 +634,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 049;Maxime;ESCOI;14:30;Pause;Foyer;
 049;Maxime;ESCOI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 049;Maxime;ESCOI;15:45;Pause;Foyer;
-049;Maxime;ESCOI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+049;Maxime;ESCOI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 049;Maxime;ESCOI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 050;Loyse;FAROUX;08:00;Café d'accueil;Foyer;
 050;Loyse;FAROUX;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -647,7 +647,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 050;Loyse;FAROUX;14:30;Pause;Foyer;
 050;Loyse;FAROUX;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 050;Loyse;FAROUX;15:45;Pause;Foyer;
-050;Loyse;FAROUX;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+050;Loyse;FAROUX;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 050;Loyse;FAROUX;17:00;Remise des Prix & Conclusion;Grand Amphi;
 051;Stanislas;FEIXAS;08:00;Café d'accueil;Foyer;
 051;Stanislas;FEIXAS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -660,7 +660,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 051;Stanislas;FEIXAS;14:30;Pause;Foyer;
 051;Stanislas;FEIXAS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 051;Stanislas;FEIXAS;15:45;Pause;Foyer;
-051;Stanislas;FEIXAS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+051;Stanislas;FEIXAS;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 051;Stanislas;FEIXAS;17:00;Remise des Prix & Conclusion;Grand Amphi;
 052;Miguel;FERRER;08:00;Café d'accueil;Foyer;
 052;Miguel;FERRER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -673,7 +673,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 052;Miguel;FERRER;14:30;Pause;Foyer;
 052;Miguel;FERRER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 052;Miguel;FERRER;15:45;Pause;Foyer;
-052;Miguel;FERRER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+052;Miguel;FERRER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 052;Miguel;FERRER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 053;Coralie;FOURNIER;08:00;Café d'accueil;Foyer;
 053;Coralie;FOURNIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -686,7 +686,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 053;Coralie;FOURNIER;14:30;Pause;Foyer;
 053;Coralie;FOURNIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 053;Coralie;FOURNIER;15:45;Pause;Foyer;
-053;Coralie;FOURNIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+053;Coralie;FOURNIER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 053;Coralie;FOURNIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 054;Annick;GAGNON;08:00;Café d'accueil;Foyer;
 054;Annick;GAGNON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -699,7 +699,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 054;Annick;GAGNON;14:30;Pause;Foyer;
 054;Annick;GAGNON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 054;Annick;GAGNON;15:45;Pause;Foyer;
-054;Annick;GAGNON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+054;Annick;GAGNON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 054;Annick;GAGNON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 055;Cédric;GERMANI;08:00;Café d'accueil;Foyer;
 055;Cédric;GERMANI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -712,7 +712,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 055;Cédric;GERMANI;14:30;Pause;Foyer;
 055;Cédric;GERMANI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe4;
 055;Cédric;GERMANI;15:45;Pause;Foyer;
-055;Cédric;GERMANI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+055;Cédric;GERMANI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 055;Cédric;GERMANI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 056;Alexandre;GHEERARDYN;08:00;Café d'accueil;Foyer;
 056;Alexandre;GHEERARDYN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -725,7 +725,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 056;Alexandre;GHEERARDYN;14:30;Pause;Foyer;
 056;Alexandre;GHEERARDYN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 056;Alexandre;GHEERARDYN;15:45;Pause;Foyer;
-056;Alexandre;GHEERARDYN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+056;Alexandre;GHEERARDYN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 056;Alexandre;GHEERARDYN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 057;Sidney;GIRAUD;08:00;Café d'accueil;Foyer;
 057;Sidney;GIRAUD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -738,7 +738,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 057;Sidney;GIRAUD;14:30;Pause;Foyer;
 057;Sidney;GIRAUD;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 057;Sidney;GIRAUD;15:45;Pause;Foyer;
-057;Sidney;GIRAUD;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+057;Sidney;GIRAUD;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 057;Sidney;GIRAUD;17:00;Remise des Prix & Conclusion;Grand Amphi;
 058;Caroline;GOLDFARB;08:00;Café d'accueil;Foyer;
 058;Caroline;GOLDFARB;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -751,7 +751,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 058;Caroline;GOLDFARB;14:30;Pause;Foyer;
 058;Caroline;GOLDFARB;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 058;Caroline;GOLDFARB;15:45;Pause;Foyer;
-058;Caroline;GOLDFARB;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+058;Caroline;GOLDFARB;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 058;Caroline;GOLDFARB;17:00;Remise des Prix & Conclusion;Grand Amphi;
 059;Marina;GOURDON-DUBANT;08:00;Café d'accueil;Foyer;
 059;Marina;GOURDON-DUBANT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -764,7 +764,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 059;Marina;GOURDON-DUBANT;14:30;Pause;Foyer;
 059;Marina;GOURDON-DUBANT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 059;Marina;GOURDON-DUBANT;15:45;Pause;Foyer;
-059;Marina;GOURDON-DUBANT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+059;Marina;GOURDON-DUBANT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 059;Marina;GOURDON-DUBANT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 060;Nicolas;GUEGUEN;08:00;Café d'accueil;Foyer;
 060;Nicolas;GUEGUEN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -777,7 +777,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 060;Nicolas;GUEGUEN;14:30;Pause;Foyer;
 060;Nicolas;GUEGUEN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 060;Nicolas;GUEGUEN;15:45;Pause;Foyer;
-060;Nicolas;GUEGUEN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+060;Nicolas;GUEGUEN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 060;Nicolas;GUEGUEN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 061;Marine;GUERRET;08:00;Café d'accueil;Foyer;
 061;Marine;GUERRET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -790,7 +790,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 061;Marine;GUERRET;14:30;Pause;Foyer;
 061;Marine;GUERRET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 061;Marine;GUERRET;15:45;Pause;Foyer;
-061;Marine;GUERRET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+061;Marine;GUERRET;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 061;Marine;GUERRET;17:00;Remise des Prix & Conclusion;Grand Amphi;
 062;Jeanne;GUERRIER;08:00;Café d'accueil;Foyer;
 062;Jeanne;GUERRIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -803,7 +803,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 062;Jeanne;GUERRIER;14:30;Pause;Foyer;
 062;Jeanne;GUERRIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 062;Jeanne;GUERRIER;15:45;Pause;Foyer;
-062;Jeanne;GUERRIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+062;Jeanne;GUERRIER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 062;Jeanne;GUERRIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 063;Eric;HAMON;08:00;Café d'accueil;Foyer;
 063;Eric;HAMON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -816,7 +816,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 063;Eric;HAMON;14:30;Pause;Foyer;
 063;Eric;HAMON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 063;Eric;HAMON;15:45;Pause;Foyer;
-063;Eric;HAMON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+063;Eric;HAMON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 063;Eric;HAMON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 064;Sandrine;HAMOUR;08:00;Café d'accueil;Foyer;
 064;Sandrine;HAMOUR;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -829,7 +829,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 064;Sandrine;HAMOUR;14:30;Pause;Foyer;
 064;Sandrine;HAMOUR;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 064;Sandrine;HAMOUR;15:45;Pause;Foyer;
-064;Sandrine;HAMOUR;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+064;Sandrine;HAMOUR;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 064;Sandrine;HAMOUR;17:00;Remise des Prix & Conclusion;Grand Amphi;
 065;Eugenie;HERCOUET;08:00;Café d'accueil;Foyer;
 065;Eugenie;HERCOUET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -842,7 +842,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 065;Eugenie;HERCOUET;14:30;Pause;Foyer;
 065;Eugenie;HERCOUET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 065;Eugenie;HERCOUET;15:45;Pause;Foyer;
-065;Eugenie;HERCOUET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+065;Eugenie;HERCOUET;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 065;Eugenie;HERCOUET;17:00;Remise des Prix & Conclusion;Grand Amphi;
 066;Sie;HIEN;08:00;Café d'accueil;Foyer;
 066;Sie;HIEN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -855,7 +855,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 066;Sie;HIEN;14:30;Pause;Foyer;
 066;Sie;HIEN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 066;Sie;HIEN;15:45;Pause;Foyer;
-066;Sie;HIEN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+066;Sie;HIEN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 066;Sie;HIEN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 067;Gemma;HILL;08:00;Café d'accueil;Foyer;
 067;Gemma;HILL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -868,7 +868,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 067;Gemma;HILL;14:30;Pause;Foyer;
 067;Gemma;HILL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 067;Gemma;HILL;15:45;Pause;Foyer;
-067;Gemma;HILL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+067;Gemma;HILL;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 067;Gemma;HILL;17:00;Remise des Prix & Conclusion;Grand Amphi;
 068;Yannick;HOFFMANN;08:00;Café d'accueil;Foyer;
 068;Yannick;HOFFMANN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -881,7 +881,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 068;Yannick;HOFFMANN;14:30;Pause;Foyer;
 068;Yannick;HOFFMANN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 068;Yannick;HOFFMANN;15:45;Pause;Foyer;
-068;Yannick;HOFFMANN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+068;Yannick;HOFFMANN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 068;Yannick;HOFFMANN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 069;Benjamin;KIRCHNER;08:00;Café d'accueil;Foyer;
 069;Benjamin;KIRCHNER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -894,7 +894,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 069;Benjamin;KIRCHNER;14:30;Pause;Foyer;
 069;Benjamin;KIRCHNER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 069;Benjamin;KIRCHNER;15:45;Pause;Foyer;
-069;Benjamin;KIRCHNER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+069;Benjamin;KIRCHNER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 069;Benjamin;KIRCHNER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 070;Karine;LABAT;08:00;Café d'accueil;Foyer;
 070;Karine;LABAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -907,7 +907,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 070;Karine;LABAT;14:30;Pause;Foyer;
 070;Karine;LABAT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 070;Karine;LABAT;15:45;Pause;Foyer;
-070;Karine;LABAT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+070;Karine;LABAT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 070;Karine;LABAT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 071;Agnes;LAISSE;08:00;Café d'accueil;Foyer;
 071;Agnes;LAISSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -920,7 +920,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 071;Agnes;LAISSE;14:30;Pause;Foyer;
 071;Agnes;LAISSE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 071;Agnes;LAISSE;15:45;Pause;Foyer;
-071;Agnes;LAISSE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+071;Agnes;LAISSE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 071;Agnes;LAISSE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 072;Frederic;LANGENFELD;08:00;Café d'accueil;Foyer;
 072;Frederic;LANGENFELD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -933,7 +933,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 072;Frederic;LANGENFELD;14:30;Pause;Foyer;
 072;Frederic;LANGENFELD;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 072;Frederic;LANGENFELD;15:45;Pause;Foyer;
-072;Frederic;LANGENFELD;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+072;Frederic;LANGENFELD;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 072;Frederic;LANGENFELD;17:00;Remise des Prix & Conclusion;Grand Amphi;
 073;Frederic;LASSALLE;08:00;Café d'accueil;Foyer;
 073;Frederic;LASSALLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -946,7 +946,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 073;Frederic;LASSALLE;14:30;Pause;Foyer;
 073;Frederic;LASSALLE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 073;Frederic;LASSALLE;15:45;Pause;Foyer;
-073;Frederic;LASSALLE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+073;Frederic;LASSALLE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 073;Frederic;LASSALLE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 074;Eric;LE LANDAIS;08:00;Café d'accueil;Foyer;
 074;Eric;LE LANDAIS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -959,7 +959,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 074;Eric;LE LANDAIS;14:30;Pause;Foyer;
 074;Eric;LE LANDAIS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 074;Eric;LE LANDAIS;15:45;Pause;Foyer;
-074;Eric;LE LANDAIS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+074;Eric;LE LANDAIS;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 074;Eric;LE LANDAIS;17:00;Remise des Prix & Conclusion;Grand Amphi;
 075;Nathalie;LE TALAER;08:00;Café d'accueil;Foyer;
 075;Nathalie;LE TALAER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -972,7 +972,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 075;Nathalie;LE TALAER;14:30;Pause;Foyer;
 075;Nathalie;LE TALAER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 075;Nathalie;LE TALAER;15:45;Pause;Foyer;
-075;Nathalie;LE TALAER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+075;Nathalie;LE TALAER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 075;Nathalie;LE TALAER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 076;Romane;LEBRETON;08:00;Café d'accueil;Foyer;
 076;Romane;LEBRETON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -985,7 +985,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 076;Romane;LEBRETON;14:30;Pause;Foyer;
 076;Romane;LEBRETON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 076;Romane;LEBRETON;15:45;Pause;Foyer;
-076;Romane;LEBRETON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+076;Romane;LEBRETON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 076;Romane;LEBRETON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 077;Lorraine;LECUSSAN;08:00;Café d'accueil;Foyer;
 077;Lorraine;LECUSSAN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -998,7 +998,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 077;Lorraine;LECUSSAN;14:30;Pause;Foyer;
 077;Lorraine;LECUSSAN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 077;Lorraine;LECUSSAN;15:45;Pause;Foyer;
-077;Lorraine;LECUSSAN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+077;Lorraine;LECUSSAN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 077;Lorraine;LECUSSAN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 078;Ludovic;LEVANNIER;08:00;Café d'accueil;Foyer;
 078;Ludovic;LEVANNIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1011,7 +1011,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 078;Ludovic;LEVANNIER;14:30;Pause;Foyer;
 078;Ludovic;LEVANNIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 078;Ludovic;LEVANNIER;15:45;Pause;Foyer;
-078;Ludovic;LEVANNIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+078;Ludovic;LEVANNIER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 078;Ludovic;LEVANNIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 079;Antoine;LEVASSOR;08:00;Café d'accueil;Foyer;
 079;Antoine;LEVASSOR;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1024,7 +1024,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 079;Antoine;LEVASSOR;14:30;Pause;Foyer;
 079;Antoine;LEVASSOR;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 079;Antoine;LEVASSOR;15:45;Pause;Foyer;
-079;Antoine;LEVASSOR;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+079;Antoine;LEVASSOR;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 079;Antoine;LEVASSOR;17:00;Remise des Prix & Conclusion;Grand Amphi;
 080;Mickael;LIDDELL;08:00;Café d'accueil;Foyer;
 080;Mickael;LIDDELL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1037,7 +1037,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 080;Mickael;LIDDELL;14:30;Pause;Foyer;
 080;Mickael;LIDDELL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 080;Mickael;LIDDELL;15:45;Pause;Foyer;
-080;Mickael;LIDDELL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+080;Mickael;LIDDELL;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 080;Mickael;LIDDELL;17:00;Remise des Prix & Conclusion;Grand Amphi;
 081;Alexandre;LIEURY;08:00;Café d'accueil;Foyer;
 081;Alexandre;LIEURY;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1050,7 +1050,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 081;Alexandre;LIEURY;14:30;Pause;Foyer;
 081;Alexandre;LIEURY;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 081;Alexandre;LIEURY;15:45;Pause;Foyer;
-081;Alexandre;LIEURY;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+081;Alexandre;LIEURY;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 081;Alexandre;LIEURY;17:00;Remise des Prix & Conclusion;Grand Amphi;
 082;Aida;LOCQUETTE;08:00;Café d'accueil;Foyer;
 082;Aida;LOCQUETTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1063,7 +1063,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 082;Aida;LOCQUETTE;14:30;Pause;Foyer;
 082;Aida;LOCQUETTE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 082;Aida;LOCQUETTE;15:45;Pause;Foyer;
-082;Aida;LOCQUETTE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+082;Aida;LOCQUETTE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 082;Aida;LOCQUETTE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 083;Lenny;LOPEZ;08:00;Café d'accueil;Foyer;
 083;Lenny;LOPEZ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1076,7 +1076,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 083;Lenny;LOPEZ;14:30;Pause;Foyer;
 083;Lenny;LOPEZ;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 083;Lenny;LOPEZ;15:45;Pause;Foyer;
-083;Lenny;LOPEZ;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+083;Lenny;LOPEZ;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 083;Lenny;LOPEZ;17:00;Remise des Prix & Conclusion;Grand Amphi;
 084;Pascal;MACH;08:00;Café d'accueil;Foyer;
 084;Pascal;MACH;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1089,7 +1089,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 084;Pascal;MACH;14:30;Pause;Foyer;
 084;Pascal;MACH;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 084;Pascal;MACH;15:45;Pause;Foyer;
-084;Pascal;MACH;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+084;Pascal;MACH;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 084;Pascal;MACH;17:00;Remise des Prix & Conclusion;Grand Amphi;
 085;Jerome;MARION;08:00;Café d'accueil;Foyer;
 085;Jerome;MARION;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1102,7 +1102,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 085;Jerome;MARION;14:30;Pause;Foyer;
 085;Jerome;MARION;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 085;Jerome;MARION;15:45;Pause;Foyer;
-085;Jerome;MARION;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+085;Jerome;MARION;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 085;Jerome;MARION;17:00;Remise des Prix & Conclusion;Grand Amphi;
 086;Tom;MARMANDE;08:00;Café d'accueil;Foyer;
 086;Tom;MARMANDE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1115,7 +1115,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 086;Tom;MARMANDE;14:30;Pause;Foyer;
 086;Tom;MARMANDE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 086;Tom;MARMANDE;15:45;Pause;Foyer;
-086;Tom;MARMANDE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+086;Tom;MARMANDE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 086;Tom;MARMANDE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 087;Guillaume;MARTIN;08:00;Café d'accueil;Foyer;
 087;Guillaume;MARTIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1128,7 +1128,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 087;Guillaume;MARTIN;14:30;Pause;Foyer;
 087;Guillaume;MARTIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 087;Guillaume;MARTIN;15:45;Pause;Foyer;
-087;Guillaume;MARTIN;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+087;Guillaume;MARTIN;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 087;Guillaume;MARTIN;17:00;Remise des Prix & Conclusion;Grand Amphi;
 088;Rodolfo;MARTINEZ;08:00;Café d'accueil;Foyer;
 088;Rodolfo;MARTINEZ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1141,7 +1141,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 088;Rodolfo;MARTINEZ;14:30;Pause;Foyer;
 088;Rodolfo;MARTINEZ;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 088;Rodolfo;MARTINEZ;15:45;Pause;Foyer;
-088;Rodolfo;MARTINEZ;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+088;Rodolfo;MARTINEZ;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 088;Rodolfo;MARTINEZ;17:00;Remise des Prix & Conclusion;Grand Amphi;
 089;Denis;MASSE;08:00;Café d'accueil;Foyer;
 089;Denis;MASSE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1154,7 +1154,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 089;Denis;MASSE;14:30;Pause;Foyer;
 089;Denis;MASSE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 089;Denis;MASSE;15:45;Pause;Foyer;
-089;Denis;MASSE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+089;Denis;MASSE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 089;Denis;MASSE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 090;Edwige;MAUGENDRE;08:00;Café d'accueil;Foyer;
 090;Edwige;MAUGENDRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1167,7 +1167,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 090;Edwige;MAUGENDRE;14:30;Pause;Foyer;
 090;Edwige;MAUGENDRE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 090;Edwige;MAUGENDRE;15:45;Pause;Foyer;
-090;Edwige;MAUGENDRE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+090;Edwige;MAUGENDRE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 090;Edwige;MAUGENDRE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 091;Alexis;MEHRENBERGER;08:00;Café d'accueil;Foyer;
 091;Alexis;MEHRENBERGER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1180,7 +1180,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 091;Alexis;MEHRENBERGER;14:30;Pause;Foyer;
 091;Alexis;MEHRENBERGER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 091;Alexis;MEHRENBERGER;15:45;Pause;Foyer;
-091;Alexis;MEHRENBERGER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+091;Alexis;MEHRENBERGER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 091;Alexis;MEHRENBERGER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 092;Aldona;MENERET;08:00;Café d'accueil;Foyer;
 092;Aldona;MENERET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1193,7 +1193,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 092;Aldona;MENERET;14:30;Pause;Foyer;
 092;Aldona;MENERET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 092;Aldona;MENERET;15:45;Pause;Foyer;
-092;Aldona;MENERET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+092;Aldona;MENERET;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 092;Aldona;MENERET;17:00;Remise des Prix & Conclusion;Grand Amphi;
 093;Sebastien;MERCADIE;08:00;Café d'accueil;Foyer;
 093;Sebastien;MERCADIE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1206,7 +1206,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 093;Sebastien;MERCADIE;14:30;Pause;Foyer;
 093;Sebastien;MERCADIE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 093;Sebastien;MERCADIE;15:45;Pause;Foyer;
-093;Sebastien;MERCADIE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+093;Sebastien;MERCADIE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 093;Sebastien;MERCADIE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 094;Zayna;MERNISSI;08:00;Café d'accueil;Foyer;
 094;Zayna;MERNISSI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1219,7 +1219,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 094;Zayna;MERNISSI;14:30;Pause;Foyer;
 094;Zayna;MERNISSI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 094;Zayna;MERNISSI;15:45;Pause;Foyer;
-094;Zayna;MERNISSI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+094;Zayna;MERNISSI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 094;Zayna;MERNISSI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 095;Marie-Anne;MICHON;08:00;Café d'accueil;Foyer;
 095;Marie-Anne;MICHON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1232,7 +1232,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 095;Marie-Anne;MICHON;14:30;Pause;Foyer;
 095;Marie-Anne;MICHON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 095;Marie-Anne;MICHON;15:45;Pause;Foyer;
-095;Marie-Anne;MICHON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+095;Marie-Anne;MICHON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 095;Marie-Anne;MICHON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 096;Lionel;MORENO;08:00;Café d'accueil;Foyer;
 096;Lionel;MORENO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1245,7 +1245,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 096;Lionel;MORENO;14:30;Pause;Foyer;
 096;Lionel;MORENO;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 096;Lionel;MORENO;15:45;Pause;Foyer;
-096;Lionel;MORENO;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+096;Lionel;MORENO;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 096;Lionel;MORENO;17:00;Remise des Prix & Conclusion;Grand Amphi;
 097;Alexandre;MOUTET;08:00;Café d'accueil;Foyer;
 097;Alexandre;MOUTET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1258,7 +1258,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 097;Alexandre;MOUTET;14:30;Pause;Foyer;
 097;Alexandre;MOUTET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 097;Alexandre;MOUTET;15:45;Pause;Foyer;
-097;Alexandre;MOUTET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+097;Alexandre;MOUTET;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 097;Alexandre;MOUTET;17:00;Remise des Prix & Conclusion;Grand Amphi;
 098;Pascal;NOTTE;08:00;Café d'accueil;Foyer;
 098;Pascal;NOTTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1271,7 +1271,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 098;Pascal;NOTTE;14:30;Pause;Foyer;
 098;Pascal;NOTTE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 098;Pascal;NOTTE;15:45;Pause;Foyer;
-098;Pascal;NOTTE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+098;Pascal;NOTTE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 098;Pascal;NOTTE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 099;Thomas;OLIVERO;08:00;Café d'accueil;Foyer;
 099;Thomas;OLIVERO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1284,7 +1284,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 099;Thomas;OLIVERO;14:30;Pause;Foyer;
 099;Thomas;OLIVERO;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 099;Thomas;OLIVERO;15:45;Pause;Foyer;
-099;Thomas;OLIVERO;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+099;Thomas;OLIVERO;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 099;Thomas;OLIVERO;17:00;Remise des Prix & Conclusion;Grand Amphi;
 100;Elisabeth;PALACIO;08:00;Café d'accueil;Foyer;
 100;Elisabeth;PALACIO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1297,7 +1297,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 100;Elisabeth;PALACIO;14:30;Pause;Foyer;
 100;Elisabeth;PALACIO;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 100;Elisabeth;PALACIO;15:45;Pause;Foyer;
-100;Elisabeth;PALACIO;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+100;Elisabeth;PALACIO;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 100;Elisabeth;PALACIO;17:00;Remise des Prix & Conclusion;Grand Amphi;
 101;Julien;PECHALAT;08:00;Café d'accueil;Foyer;
 101;Julien;PECHALAT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1310,7 +1310,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 101;Julien;PECHALAT;14:30;Pause;Foyer;
 101;Julien;PECHALAT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 101;Julien;PECHALAT;15:45;Pause;Foyer;
-101;Julien;PECHALAT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+101;Julien;PECHALAT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 101;Julien;PECHALAT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 102;Marc;PELLE;08:00;Café d'accueil;Foyer;
 102;Marc;PELLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1323,7 +1323,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 102;Marc;PELLE;14:30;Pause;Foyer;
 102;Marc;PELLE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 102;Marc;PELLE;15:45;Pause;Foyer;
-102;Marc;PELLE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+102;Marc;PELLE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 102;Marc;PELLE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 103;Laura;PEUPIER;08:00;Café d'accueil;Foyer;
 103;Laura;PEUPIER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1336,7 +1336,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 103;Laura;PEUPIER;14:30;Pause;Foyer;
 103;Laura;PEUPIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 103;Laura;PEUPIER;15:45;Pause;Foyer;
-103;Laura;PEUPIER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+103;Laura;PEUPIER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 103;Laura;PEUPIER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 104;Jonathan;PINSON;08:00;Café d'accueil;Foyer;
 104;Jonathan;PINSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1349,7 +1349,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 104;Jonathan;PINSON;14:30;Pause;Foyer;
 104;Jonathan;PINSON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 104;Jonathan;PINSON;15:45;Pause;Foyer;
-104;Jonathan;PINSON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+104;Jonathan;PINSON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 104;Jonathan;PINSON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 105;Christophe;PLISSON;08:00;Café d'accueil;Foyer;
 105;Christophe;PLISSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1362,7 +1362,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 105;Christophe;PLISSON;14:30;Pause;Foyer;
 105;Christophe;PLISSON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 105;Christophe;PLISSON;15:45;Pause;Foyer;
-105;Christophe;PLISSON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+105;Christophe;PLISSON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 105;Christophe;PLISSON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 106;Gilles;POILVET;08:00;Café d'accueil;Foyer;
 106;Gilles;POILVET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1375,7 +1375,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 106;Gilles;POILVET;14:30;Pause;Foyer;
 106;Gilles;POILVET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 106;Gilles;POILVET;15:45;Pause;Foyer;
-106;Gilles;POILVET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+106;Gilles;POILVET;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 106;Gilles;POILVET;17:00;Remise des Prix & Conclusion;Grand Amphi;
 107;Frederic;PONCET;08:00;Café d'accueil;Foyer;
 107;Frederic;PONCET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1388,7 +1388,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 107;Frederic;PONCET;14:30;Pause;Foyer;
 107;Frederic;PONCET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 107;Frederic;PONCET;15:45;Pause;Foyer;
-107;Frederic;PONCET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+107;Frederic;PONCET;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 107;Frederic;PONCET;17:00;Remise des Prix & Conclusion;Grand Amphi;
 108;Yongqian-Christine;PONT;08:00;Café d'accueil;Foyer;
 108;Yongqian-Christine;PONT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1401,7 +1401,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 108;Yongqian-Christine;PONT;14:30;Pause;Foyer;
 108;Yongqian-Christine;PONT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 108;Yongqian-Christine;PONT;15:45;Pause;Foyer;
-108;Yongqian-Christine;PONT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+108;Yongqian-Christine;PONT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 108;Yongqian-Christine;PONT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 109;Nicolas;POZNIAK;08:00;Café d'accueil;Foyer;
 109;Nicolas;POZNIAK;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1414,7 +1414,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 109;Nicolas;POZNIAK;14:30;Pause;Foyer;
 109;Nicolas;POZNIAK;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 109;Nicolas;POZNIAK;15:45;Pause;Foyer;
-109;Nicolas;POZNIAK;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+109;Nicolas;POZNIAK;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 109;Nicolas;POZNIAK;17:00;Remise des Prix & Conclusion;Grand Amphi;
 110;Emmanuel;QUIL;08:00;Café d'accueil;Foyer;
 110;Emmanuel;QUIL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1427,7 +1427,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 110;Emmanuel;QUIL;14:30;Pause;Foyer;
 110;Emmanuel;QUIL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 110;Emmanuel;QUIL;15:45;Pause;Foyer;
-110;Emmanuel;QUIL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+110;Emmanuel;QUIL;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 110;Emmanuel;QUIL;17:00;Remise des Prix & Conclusion;Grand Amphi;
 111;Ely;RAKOTOBE;08:00;Café d'accueil;Foyer;
 111;Ely;RAKOTOBE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1440,7 +1440,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 111;Ely;RAKOTOBE;14:30;Pause;Foyer;
 111;Ely;RAKOTOBE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 111;Ely;RAKOTOBE;15:45;Pause;Foyer;
-111;Ely;RAKOTOBE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+111;Ely;RAKOTOBE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 111;Ely;RAKOTOBE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 112;Isabelle;RAULT;08:00;Café d'accueil;Foyer;
 112;Isabelle;RAULT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1453,7 +1453,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 112;Isabelle;RAULT;14:30;Pause;Foyer;
 112;Isabelle;RAULT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 112;Isabelle;RAULT;15:45;Pause;Foyer;
-112;Isabelle;RAULT;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+112;Isabelle;RAULT;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 112;Isabelle;RAULT;17:00;Remise des Prix & Conclusion;Grand Amphi;
 113;Samuel;RENEVRET;08:00;Café d'accueil;Foyer;
 113;Samuel;RENEVRET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1466,7 +1466,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 113;Samuel;RENEVRET;14:30;Pause;Foyer;
 113;Samuel;RENEVRET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 113;Samuel;RENEVRET;15:45;Pause;Foyer;
-113;Samuel;RENEVRET;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+113;Samuel;RENEVRET;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 113;Samuel;RENEVRET;17:00;Remise des Prix & Conclusion;Grand Amphi;
 114;Delphine;RICHER;08:00;Café d'accueil;Foyer;
 114;Delphine;RICHER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1479,7 +1479,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 114;Delphine;RICHER;14:30;Pause;Foyer;
 114;Delphine;RICHER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 114;Delphine;RICHER;15:45;Pause;Foyer;
-114;Delphine;RICHER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+114;Delphine;RICHER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 114;Delphine;RICHER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 115;Céline;ROCHE;08:00;Café d'accueil;Foyer;
 115;Céline;ROCHE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1492,7 +1492,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 115;Céline;ROCHE;14:30;Pause;Foyer;
 115;Céline;ROCHE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 115;Céline;ROCHE;15:45;Pause;Foyer;
-115;Céline;ROCHE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+115;Céline;ROCHE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 115;Céline;ROCHE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 116;Paul;ROGER-MACHART;08:00;Café d'accueil;Foyer;
 116;Paul;ROGER-MACHART;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1505,7 +1505,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 116;Paul;ROGER-MACHART;14:30;Pause;Foyer;
 116;Paul;ROGER-MACHART;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 116;Paul;ROGER-MACHART;15:45;Pause;Foyer;
-116;Paul;ROGER-MACHART;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+116;Paul;ROGER-MACHART;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 116;Paul;ROGER-MACHART;17:00;Remise des Prix & Conclusion;Grand Amphi;
 117;Jose Manuel;ROMERO;08:00;Café d'accueil;Foyer;
 117;Jose Manuel;ROMERO;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1518,7 +1518,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 117;Jose Manuel;ROMERO;14:30;Pause;Foyer;
 117;Jose Manuel;ROMERO;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 117;Jose Manuel;ROMERO;15:45;Pause;Foyer;
-117;Jose Manuel;ROMERO;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+117;Jose Manuel;ROMERO;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 117;Jose Manuel;ROMERO;17:00;Remise des Prix & Conclusion;Grand Amphi;
 118;Nubia;RUIZ;08:00;Café d'accueil;Foyer;
 118;Nubia;RUIZ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1531,7 +1531,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 118;Nubia;RUIZ;14:30;Pause;Foyer;
 118;Nubia;RUIZ;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 118;Nubia;RUIZ;15:45;Pause;Foyer;
-118;Nubia;RUIZ;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+118;Nubia;RUIZ;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 118;Nubia;RUIZ;17:00;Remise des Prix & Conclusion;Grand Amphi;
 119;Nicolas;SALLE;08:00;Café d'accueil;Foyer;
 119;Nicolas;SALLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1544,7 +1544,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 119;Nicolas;SALLE;14:30;Pause;Foyer;
 119;Nicolas;SALLE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 119;Nicolas;SALLE;15:45;Pause;Foyer;
-119;Nicolas;SALLE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+119;Nicolas;SALLE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 119;Nicolas;SALLE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 120;Remi;SCHUWER;08:00;Café d'accueil;Foyer;
 120;Remi;SCHUWER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1557,7 +1557,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 120;Remi;SCHUWER;14:30;Pause;Foyer;
 120;Remi;SCHUWER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 120;Remi;SCHUWER;15:45;Pause;Foyer;
-120;Remi;SCHUWER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+120;Remi;SCHUWER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 120;Remi;SCHUWER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 121;Denis;SERVOLE;08:00;Café d'accueil;Foyer;
 121;Denis;SERVOLE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1570,7 +1570,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 121;Denis;SERVOLE;14:30;Pause;Foyer;
 121;Denis;SERVOLE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 121;Denis;SERVOLE;15:45;Pause;Foyer;
-121;Denis;SERVOLE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+121;Denis;SERVOLE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 121;Denis;SERVOLE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 122;Steve;SOSSON;08:00;Café d'accueil;Foyer;
 122;Steve;SOSSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1583,7 +1583,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 122;Steve;SOSSON;14:30;Pause;Foyer;
 122;Steve;SOSSON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 122;Steve;SOSSON;15:45;Pause;Foyer;
-122;Steve;SOSSON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+122;Steve;SOSSON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 122;Steve;SOSSON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 123;Adam;SOVA;08:00;Café d'accueil;Foyer;
 123;Adam;SOVA;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1596,7 +1596,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 123;Adam;SOVA;14:30;Pause;Foyer;
 123;Adam;SOVA;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 123;Adam;SOVA;15:45;Pause;Foyer;
-123;Adam;SOVA;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+123;Adam;SOVA;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 123;Adam;SOVA;17:00;Remise des Prix & Conclusion;Grand Amphi;
 124;Pierre Marie;SOYER;08:00;Café d'accueil;Foyer;
 124;Pierre Marie;SOYER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1609,7 +1609,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 124;Pierre Marie;SOYER;14:30;Pause;Foyer;
 124;Pierre Marie;SOYER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 124;Pierre Marie;SOYER;15:45;Pause;Foyer;
-124;Pierre Marie;SOYER;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+124;Pierre Marie;SOYER;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 124;Pierre Marie;SOYER;17:00;Remise des Prix & Conclusion;Grand Amphi;
 125;Helene;TANCHOUX;08:00;Café d'accueil;Foyer;
 125;Helene;TANCHOUX;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1622,7 +1622,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 125;Helene;TANCHOUX;14:30;Pause;Foyer;
 125;Helene;TANCHOUX;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 125;Helene;TANCHOUX;15:45;Pause;Foyer;
-125;Helene;TANCHOUX;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+125;Helene;TANCHOUX;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 125;Helene;TANCHOUX;17:00;Remise des Prix & Conclusion;Grand Amphi;
 126;Catherine;TAOUDI;08:00;Café d'accueil;Foyer;
 126;Catherine;TAOUDI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1635,7 +1635,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 126;Catherine;TAOUDI;14:30;Pause;Foyer;
 126;Catherine;TAOUDI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 126;Catherine;TAOUDI;15:45;Pause;Foyer;
-126;Catherine;TAOUDI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+126;Catherine;TAOUDI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 126;Catherine;TAOUDI;17:00;Remise des Prix & Conclusion;Grand Amphi;
 127;Patrick-M;THOMAS;08:00;Café d'accueil;Foyer;
 127;Patrick-M;THOMAS;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1648,7 +1648,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 127;Patrick-M;THOMAS;14:30;Pause;Foyer;
 127;Patrick-M;THOMAS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 127;Patrick-M;THOMAS;15:45;Pause;Foyer;
-127;Patrick-M;THOMAS;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+127;Patrick-M;THOMAS;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 127;Patrick-M;THOMAS;17:00;Remise des Prix & Conclusion;Grand Amphi;
 128;Sophie;TOURAINE;08:00;Café d'accueil;Foyer;
 128;Sophie;TOURAINE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1661,7 +1661,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 128;Sophie;TOURAINE;14:30;Pause;Foyer;
 128;Sophie;TOURAINE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 128;Sophie;TOURAINE;15:45;Pause;Foyer;
-128;Sophie;TOURAINE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+128;Sophie;TOURAINE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 128;Sophie;TOURAINE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 129;Arnaud;TRESARRIEU-BESINCQ;08:00;Café d'accueil;Foyer;
 129;Arnaud;TRESARRIEU-BESINCQ;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1674,7 +1674,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 129;Arnaud;TRESARRIEU-BESINCQ;14:30;Pause;Foyer;
 129;Arnaud;TRESARRIEU-BESINCQ;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 129;Arnaud;TRESARRIEU-BESINCQ;15:45;Pause;Foyer;
-129;Arnaud;TRESARRIEU-BESINCQ;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+129;Arnaud;TRESARRIEU-BESINCQ;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 129;Arnaud;TRESARRIEU-BESINCQ;17:00;Remise des Prix & Conclusion;Grand Amphi;
 130;Anne;VANHOUTTE;08:00;Café d'accueil;Foyer;
 130;Anne;VANHOUTTE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1687,7 +1687,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 130;Anne;VANHOUTTE;14:30;Pause;Foyer;
 130;Anne;VANHOUTTE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 130;Anne;VANHOUTTE;15:45;Pause;Foyer;
-130;Anne;VANHOUTTE;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+130;Anne;VANHOUTTE;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 130;Anne;VANHOUTTE;17:00;Remise des Prix & Conclusion;Grand Amphi;
 131;Adrien;VIAUD;08:00;Café d'accueil;Foyer;
 131;Adrien;VIAUD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1700,7 +1700,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 131;Adrien;VIAUD;14:30;Pause;Foyer;
 131;Adrien;VIAUD;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 131;Adrien;VIAUD;15:45;Pause;Foyer;
-131;Adrien;VIAUD;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+131;Adrien;VIAUD;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 131;Adrien;VIAUD;17:00;Remise des Prix & Conclusion;Grand Amphi;
 132;Justine;VILLEVAL;08:00;Café d'accueil;Foyer;
 132;Justine;VILLEVAL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1713,7 +1713,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 132;Justine;VILLEVAL;14:30;Pause;Foyer;
 132;Justine;VILLEVAL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 132;Justine;VILLEVAL;15:45;Pause;Foyer;
-132;Justine;VILLEVAL;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+132;Justine;VILLEVAL;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 132;Justine;VILLEVAL;17:00;Remise des Prix & Conclusion;Grand Amphi;
 133;James;WILSON;08:00;Café d'accueil;Foyer;
 133;James;WILSON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1726,7 +1726,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 133;James;WILSON;14:30;Pause;Foyer;
 133;James;WILSON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 133;James;WILSON;15:45;Pause;Foyer;
-133;James;WILSON;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+133;James;WILSON;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 133;James;WILSON;17:00;Remise des Prix & Conclusion;Grand Amphi;
 134;Kevin;WONG;08:00;Café d'accueil;Foyer;
 134;Kevin;WONG;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1739,7 +1739,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 134;Kevin;WONG;14:30;Pause;Foyer;
 134;Kevin;WONG;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 134;Kevin;WONG;15:45;Pause;Foyer;
-134;Kevin;WONG;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+134;Kevin;WONG;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 134;Kevin;WONG;17:00;Remise des Prix & Conclusion;Grand Amphi;
 135;Loic;TCHOUMY NZEUMEGNI;08:00;Café d'accueil;Foyer;
 135;Loic;TCHOUMY NZEUMEGNI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
@@ -1752,5 +1752,5 @@ id;prenom;nom;heure;activite;lieu;groupe
 135;Loic;TCHOUMY NZEUMEGNI;14:30;Pause;Foyer;
 135;Loic;TCHOUMY NZEUMEGNI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 135;Loic;TCHOUMY NZEUMEGNI;15:45;Pause;Foyer;
-135;Loic;TCHOUMY NZEUMEGNI;16:00;Témoignage n°2 - Milène KERNER;Grand Amphi;
+135;Loic;TCHOUMY NZEUMEGNI;16:00;Analyste Barclays - Milène KERNER;Grand Amphi;
 135;Loic;TCHOUMY NZEUMEGNI;17:00;Remise des Prix & Conclusion;Grand Amphi;
