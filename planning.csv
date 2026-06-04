@@ -15,7 +15,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 002;Anne;AUPIC;08:00;Café d'accueil;Foyer;
 002;Anne;AUPIC;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 002;Anne;AUPIC;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-002;Anne;AUPIC;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 5;
+002;Anne;AUPIC;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3;
 002;Anne;AUPIC;10:30;Pause;Foyer;
 002;Anne;AUPIC;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 002;Anne;AUPIC;12:00;Déjeuner;Foyer/Extérieur;
@@ -145,7 +145,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 012;Coline;BLAISOT;08:00;Café d'accueil;Foyer;
 012;Coline;BLAISOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 012;Coline;BLAISOT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-012;Coline;BLAISOT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3;
+012;Coline;BLAISOT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4;
 012;Coline;BLAISOT;10:30;Pause;Foyer;
 012;Coline;BLAISOT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 012;Coline;BLAISOT;12:00;Déjeuner;Foyer/Extérieur;
@@ -431,7 +431,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 034;Giuseppe;CURCI;08:00;Café d'accueil;Foyer;
 034;Giuseppe;CURCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 034;Giuseppe;CURCI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-034;Giuseppe;CURCI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3;
+034;Giuseppe;CURCI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
 034;Giuseppe;CURCI;10:30;Pause;Foyer;
 034;Giuseppe;CURCI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 034;Giuseppe;CURCI;12:00;Déjeuner;Foyer/Extérieur;
@@ -1224,7 +1224,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 095;Marie-Anne;MICHON;08:00;Café d'accueil;Foyer;
 095;Marie-Anne;MICHON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 095;Marie-Anne;MICHON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-095;Marie-Anne;MICHON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4;
+095;Marie-Anne;MICHON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3;
 095;Marie-Anne;MICHON;10:30;Pause;Foyer;
 095;Marie-Anne;MICHON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 095;Marie-Anne;MICHON;12:00;Déjeuner;Foyer/Extérieur;
