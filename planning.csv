@@ -6,7 +6,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 001;Marie-Line;ADER;10:30;Pause;Foyer;
 001;Marie-Line;ADER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 001;Marie-Line;ADER;12:00;Déjeuner;Foyer/Extérieur;
-001;Marie-Line;ADER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+001;Marie-Line;ADER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 001;Marie-Line;ADER;14:30;Pause;Foyer;
 001;Marie-Line;ADER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 001;Marie-Line;ADER;15:45;Pause;Foyer;
@@ -19,7 +19,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 002;Anne;AUPIC;10:30;Pause;Foyer;
 002;Anne;AUPIC;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 002;Anne;AUPIC;12:00;Déjeuner;Foyer/Extérieur;
-002;Anne;AUPIC;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+002;Anne;AUPIC;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 002;Anne;AUPIC;14:30;Pause;Foyer;
 002;Anne;AUPIC;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 002;Anne;AUPIC;15:45;Pause;Foyer;
@@ -32,7 +32,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 003;Claire;BAILEY;10:30;Pause;Foyer;
 003;Claire;BAILEY;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 003;Claire;BAILEY;12:00;Déjeuner;Foyer/Extérieur;
-003;Claire;BAILEY;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+003;Claire;BAILEY;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 003;Claire;BAILEY;14:30;Pause;Foyer;
 003;Claire;BAILEY;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 003;Claire;BAILEY;15:45;Pause;Foyer;
@@ -45,7 +45,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 004;Valerie;BAILLAT;10:30;Pause;Foyer;
 004;Valerie;BAILLAT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 004;Valerie;BAILLAT;12:00;Déjeuner;Foyer/Extérieur;
-004;Valerie;BAILLAT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+004;Valerie;BAILLAT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 004;Valerie;BAILLAT;14:30;Pause;Foyer;
 004;Valerie;BAILLAT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 004;Valerie;BAILLAT;15:45;Pause;Foyer;
@@ -58,7 +58,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 005;Pascal;BANTEGNIE;10:30;Pause;Foyer;
 005;Pascal;BANTEGNIE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 005;Pascal;BANTEGNIE;12:00;Déjeuner;Foyer/Extérieur;
-005;Pascal;BANTEGNIE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+005;Pascal;BANTEGNIE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 005;Pascal;BANTEGNIE;14:30;Pause;Foyer;
 005;Pascal;BANTEGNIE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 005;Pascal;BANTEGNIE;15:45;Pause;Foyer;
@@ -71,7 +71,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 006;Justine;BARRE;10:30;Pause;Foyer;
 006;Justine;BARRE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 006;Justine;BARRE;12:00;Déjeuner;Foyer/Extérieur;
-006;Justine;BARRE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+006;Justine;BARRE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 006;Justine;BARRE;14:30;Pause;Foyer;
 006;Justine;BARRE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 006;Justine;BARRE;15:45;Pause;Foyer;
@@ -84,7 +84,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 007;Christine;BASSE;10:30;Pause;Foyer;
 007;Christine;BASSE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 007;Christine;BASSE;12:00;Déjeuner;Foyer/Extérieur;
-007;Christine;BASSE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+007;Christine;BASSE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 007;Christine;BASSE;14:30;Pause;Foyer;
 007;Christine;BASSE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 007;Christine;BASSE;15:45;Pause;Foyer;
@@ -97,7 +97,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 008;Geoffroy;BASSET-CHERCOT;10:30;Pause;Foyer;
 008;Geoffroy;BASSET-CHERCOT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 008;Geoffroy;BASSET-CHERCOT;12:00;Déjeuner;Foyer/Extérieur;
-008;Geoffroy;BASSET-CHERCOT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+008;Geoffroy;BASSET-CHERCOT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 008;Geoffroy;BASSET-CHERCOT;14:30;Pause;Foyer;
 008;Geoffroy;BASSET-CHERCOT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 008;Geoffroy;BASSET-CHERCOT;15:45;Pause;Foyer;
@@ -110,7 +110,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 009;Cyril;BAUME;10:30;Pause;Foyer;
 009;Cyril;BAUME;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 009;Cyril;BAUME;12:00;Déjeuner;Foyer/Extérieur;
-009;Cyril;BAUME;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+009;Cyril;BAUME;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 009;Cyril;BAUME;14:30;Pause;Foyer;
 009;Cyril;BAUME;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 009;Cyril;BAUME;15:45;Pause;Foyer;
@@ -123,7 +123,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 010;Deborah;BECKERS;10:30;Pause;Foyer;
 010;Deborah;BECKERS;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 010;Deborah;BECKERS;12:00;Déjeuner;Foyer/Extérieur;
-010;Deborah;BECKERS;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+010;Deborah;BECKERS;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 010;Deborah;BECKERS;14:30;Pause;Foyer;
 010;Deborah;BECKERS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 010;Deborah;BECKERS;15:45;Pause;Foyer;
@@ -136,7 +136,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 011;Sophie;BERTHELIER;10:30;Pause;Foyer;
 011;Sophie;BERTHELIER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 011;Sophie;BERTHELIER;12:00;Déjeuner;Foyer/Extérieur;
-011;Sophie;BERTHELIER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+011;Sophie;BERTHELIER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 011;Sophie;BERTHELIER;14:30;Pause;Foyer;
 011;Sophie;BERTHELIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 011;Sophie;BERTHELIER;15:45;Pause;Foyer;
@@ -149,7 +149,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 012;Coline;BLAISOT;10:30;Pause;Foyer;
 012;Coline;BLAISOT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 012;Coline;BLAISOT;12:00;Déjeuner;Foyer/Extérieur;
-012;Coline;BLAISOT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+012;Coline;BLAISOT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 012;Coline;BLAISOT;14:30;Pause;Foyer;
 012;Coline;BLAISOT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 012;Coline;BLAISOT;15:45;Pause;Foyer;
@@ -162,7 +162,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 013;Olivier;BLAT;10:30;Pause;Foyer;
 013;Olivier;BLAT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 013;Olivier;BLAT;12:00;Déjeuner;Foyer/Extérieur;
-013;Olivier;BLAT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+013;Olivier;BLAT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 013;Olivier;BLAT;14:30;Pause;Foyer;
 013;Olivier;BLAT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 013;Olivier;BLAT;15:45;Pause;Foyer;
@@ -175,7 +175,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 014;Sandie;BOCQUIER;10:30;Pause;Foyer;
 014;Sandie;BOCQUIER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 014;Sandie;BOCQUIER;12:00;Déjeuner;Foyer/Extérieur;
-014;Sandie;BOCQUIER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+014;Sandie;BOCQUIER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 014;Sandie;BOCQUIER;14:30;Pause;Foyer;
 014;Sandie;BOCQUIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 014;Sandie;BOCQUIER;15:45;Pause;Foyer;
@@ -188,7 +188,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 015;Gildas;BODOLEC;10:30;Pause;Foyer;
 015;Gildas;BODOLEC;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 015;Gildas;BODOLEC;12:00;Déjeuner;Foyer/Extérieur;
-015;Gildas;BODOLEC;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+015;Gildas;BODOLEC;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 015;Gildas;BODOLEC;14:30;Pause;Foyer;
 015;Gildas;BODOLEC;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 015;Gildas;BODOLEC;15:45;Pause;Foyer;
@@ -201,7 +201,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 016;Nathalie;BOSCHETTI;10:30;Pause;Foyer;
 016;Nathalie;BOSCHETTI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 016;Nathalie;BOSCHETTI;12:00;Déjeuner;Foyer/Extérieur;
-016;Nathalie;BOSCHETTI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+016;Nathalie;BOSCHETTI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 016;Nathalie;BOSCHETTI;14:30;Pause;Foyer;
 016;Nathalie;BOSCHETTI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 016;Nathalie;BOSCHETTI;15:45;Pause;Foyer;
@@ -214,7 +214,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 017;Alexis;BOUDJEMAA;10:30;Pause;Foyer;
 017;Alexis;BOUDJEMAA;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 017;Alexis;BOUDJEMAA;12:00;Déjeuner;Foyer/Extérieur;
-017;Alexis;BOUDJEMAA;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+017;Alexis;BOUDJEMAA;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 017;Alexis;BOUDJEMAA;14:30;Pause;Foyer;
 017;Alexis;BOUDJEMAA;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 017;Alexis;BOUDJEMAA;15:45;Pause;Foyer;
@@ -227,7 +227,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 018;Carole;BOUREL;10:30;Pause;Foyer;
 018;Carole;BOUREL;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 018;Carole;BOUREL;12:00;Déjeuner;Foyer/Extérieur;
-018;Carole;BOUREL;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+018;Carole;BOUREL;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 018;Carole;BOUREL;14:30;Pause;Foyer;
 018;Carole;BOUREL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 018;Carole;BOUREL;15:45;Pause;Foyer;
@@ -240,7 +240,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 019;Julie;BOYER;10:30;Pause;Foyer;
 019;Julie;BOYER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 019;Julie;BOYER;12:00;Déjeuner;Foyer/Extérieur;
-019;Julie;BOYER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+019;Julie;BOYER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 019;Julie;BOYER;14:30;Pause;Foyer;
 019;Julie;BOYER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 019;Julie;BOYER;15:45;Pause;Foyer;
@@ -253,7 +253,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 020;Vanessa;BREYTON;10:30;Pause;Foyer;
 020;Vanessa;BREYTON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 020;Vanessa;BREYTON;12:00;Déjeuner;Foyer/Extérieur;
-020;Vanessa;BREYTON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+020;Vanessa;BREYTON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 020;Vanessa;BREYTON;14:30;Pause;Foyer;
 020;Vanessa;BREYTON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 020;Vanessa;BREYTON;15:45;Pause;Foyer;
@@ -266,7 +266,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 021;Gabriel;CANET;10:30;Pause;Foyer;
 021;Gabriel;CANET;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 021;Gabriel;CANET;12:00;Déjeuner;Foyer/Extérieur;
-021;Gabriel;CANET;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+021;Gabriel;CANET;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 021;Gabriel;CANET;14:30;Pause;Foyer;
 021;Gabriel;CANET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 021;Gabriel;CANET;15:45;Pause;Foyer;
@@ -279,7 +279,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 022;Philippe;CARBONNEL;10:30;Pause;Foyer;
 022;Philippe;CARBONNEL;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 022;Philippe;CARBONNEL;12:00;Déjeuner;Foyer/Extérieur;
-022;Philippe;CARBONNEL;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+022;Philippe;CARBONNEL;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 022;Philippe;CARBONNEL;14:30;Pause;Foyer;
 022;Philippe;CARBONNEL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 022;Philippe;CARBONNEL;15:45;Pause;Foyer;
@@ -292,7 +292,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 023;Héléne;CENCI;10:30;Pause;Foyer;
 023;Héléne;CENCI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 023;Héléne;CENCI;12:00;Déjeuner;Foyer/Extérieur;
-023;Héléne;CENCI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+023;Héléne;CENCI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 023;Héléne;CENCI;14:30;Pause;Foyer;
 023;Héléne;CENCI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 023;Héléne;CENCI;15:45;Pause;Foyer;
@@ -305,7 +305,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 024;Aurelie;CHAMBON;10:30;Pause;Foyer;
 024;Aurelie;CHAMBON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 024;Aurelie;CHAMBON;12:00;Déjeuner;Foyer/Extérieur;
-024;Aurelie;CHAMBON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+024;Aurelie;CHAMBON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 024;Aurelie;CHAMBON;14:30;Pause;Foyer;
 024;Aurelie;CHAMBON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 024;Aurelie;CHAMBON;15:45;Pause;Foyer;
@@ -318,7 +318,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 025;Cecile;CHAUVIN;10:30;Pause;Foyer;
 025;Cecile;CHAUVIN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 025;Cecile;CHAUVIN;12:00;Déjeuner;Foyer/Extérieur;
-025;Cecile;CHAUVIN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+025;Cecile;CHAUVIN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 025;Cecile;CHAUVIN;14:30;Pause;Foyer;
 025;Cecile;CHAUVIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 025;Cecile;CHAUVIN;15:45;Pause;Foyer;
@@ -331,7 +331,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 026;Christophe;CHAZALON;10:30;Pause;Foyer;
 026;Christophe;CHAZALON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 026;Christophe;CHAZALON;12:00;Déjeuner;Foyer/Extérieur;
-026;Christophe;CHAZALON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+026;Christophe;CHAZALON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 026;Christophe;CHAZALON;14:30;Pause;Foyer;
 026;Christophe;CHAZALON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 026;Christophe;CHAZALON;15:45;Pause;Foyer;
@@ -344,7 +344,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 027;Marjorie;CLEMENT;10:30;Pause;Foyer;
 027;Marjorie;CLEMENT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 027;Marjorie;CLEMENT;12:00;Déjeuner;Foyer/Extérieur;
-027;Marjorie;CLEMENT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;
+027;Marjorie;CLEMENT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;
 027;Marjorie;CLEMENT;14:30;Pause;Foyer;
 027;Marjorie;CLEMENT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 027;Marjorie;CLEMENT;15:45;Pause;Foyer;
@@ -357,7 +357,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 028;Valerie;CLUZEAU;10:30;Pause;Foyer;
 028;Valerie;CLUZEAU;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 028;Valerie;CLUZEAU;12:00;Déjeuner;Foyer/Extérieur;
-028;Valerie;CLUZEAU;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+028;Valerie;CLUZEAU;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 028;Valerie;CLUZEAU;14:30;Pause;Foyer;
 028;Valerie;CLUZEAU;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 028;Valerie;CLUZEAU;15:45;Pause;Foyer;
@@ -370,7 +370,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 029;Bertrand;COCHELIN;10:30;Pause;Foyer;
 029;Bertrand;COCHELIN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 029;Bertrand;COCHELIN;12:00;Déjeuner;Foyer/Extérieur;
-029;Bertrand;COCHELIN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+029;Bertrand;COCHELIN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 029;Bertrand;COCHELIN;14:30;Pause;Foyer;
 029;Bertrand;COCHELIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 029;Bertrand;COCHELIN;15:45;Pause;Foyer;
@@ -383,7 +383,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 030;Valerie;COLLOT;10:30;Pause;Foyer;
 030;Valerie;COLLOT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 030;Valerie;COLLOT;12:00;Déjeuner;Foyer/Extérieur;
-030;Valerie;COLLOT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+030;Valerie;COLLOT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 030;Valerie;COLLOT;14:30;Pause;Foyer;
 030;Valerie;COLLOT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 030;Valerie;COLLOT;15:45;Pause;Foyer;
@@ -396,7 +396,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 031;Nicolas;COSTER;10:30;Pause;Foyer;
 031;Nicolas;COSTER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 031;Nicolas;COSTER;12:00;Déjeuner;Foyer/Extérieur;
-031;Nicolas;COSTER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+031;Nicolas;COSTER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 031;Nicolas;COSTER;14:30;Pause;Foyer;
 031;Nicolas;COSTER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 031;Nicolas;COSTER;15:45;Pause;Foyer;
@@ -409,7 +409,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 032;Amandine;COTARD;10:30;Pause;Foyer;
 032;Amandine;COTARD;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 032;Amandine;COTARD;12:00;Déjeuner;Foyer/Extérieur;
-032;Amandine;COTARD;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+032;Amandine;COTARD;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 032;Amandine;COTARD;14:30;Pause;Foyer;
 032;Amandine;COTARD;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 032;Amandine;COTARD;15:45;Pause;Foyer;
@@ -422,7 +422,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 033;Sandra;COUTANT;10:30;Pause;Foyer;
 033;Sandra;COUTANT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 033;Sandra;COUTANT;12:00;Déjeuner;Foyer/Extérieur;
-033;Sandra;COUTANT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+033;Sandra;COUTANT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 033;Sandra;COUTANT;14:30;Pause;Foyer;
 033;Sandra;COUTANT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 033;Sandra;COUTANT;15:45;Pause;Foyer;
@@ -435,7 +435,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 034;Giuseppe;CURCI;10:30;Pause;Foyer;
 034;Giuseppe;CURCI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 034;Giuseppe;CURCI;12:00;Déjeuner;Foyer/Extérieur;
-034;Giuseppe;CURCI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+034;Giuseppe;CURCI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 034;Giuseppe;CURCI;14:30;Pause;Foyer;
 034;Giuseppe;CURCI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 034;Giuseppe;CURCI;15:45;Pause;Foyer;
@@ -448,7 +448,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 035;Laetitia;DAVID;10:30;Pause;Foyer;
 035;Laetitia;DAVID;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 035;Laetitia;DAVID;12:00;Déjeuner;Foyer/Extérieur;
-035;Laetitia;DAVID;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+035;Laetitia;DAVID;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 035;Laetitia;DAVID;14:30;Pause;Foyer;
 035;Laetitia;DAVID;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 035;Laetitia;DAVID;15:45;Pause;Foyer;
@@ -461,7 +461,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 036;Alban;DAZIN;10:30;Pause;Foyer;
 036;Alban;DAZIN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 036;Alban;DAZIN;12:00;Déjeuner;Foyer/Extérieur;
-036;Alban;DAZIN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+036;Alban;DAZIN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 036;Alban;DAZIN;14:30;Pause;Foyer;
 036;Alban;DAZIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 036;Alban;DAZIN;15:45;Pause;Foyer;
@@ -474,7 +474,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 037;Benoit;DE LA TOUR DU PIN;10:30;Pause;Foyer;
 037;Benoit;DE LA TOUR DU PIN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;12:00;Déjeuner;Foyer/Extérieur;
-037;Benoit;DE LA TOUR DU PIN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+037;Benoit;DE LA TOUR DU PIN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 037;Benoit;DE LA TOUR DU PIN;14:30;Pause;Foyer;
 037;Benoit;DE LA TOUR DU PIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 037;Benoit;DE LA TOUR DU PIN;15:45;Pause;Foyer;
@@ -487,7 +487,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 038;Albin;DELEUZE;10:30;Pause;Foyer;
 038;Albin;DELEUZE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 038;Albin;DELEUZE;12:00;Déjeuner;Foyer/Extérieur;
-038;Albin;DELEUZE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+038;Albin;DELEUZE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 038;Albin;DELEUZE;14:30;Pause;Foyer;
 038;Albin;DELEUZE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 038;Albin;DELEUZE;15:45;Pause;Foyer;
@@ -500,7 +500,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 039;Baptiste;DELPIERRE;10:30;Pause;Foyer;
 039;Baptiste;DELPIERRE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 039;Baptiste;DELPIERRE;12:00;Déjeuner;Foyer/Extérieur;
-039;Baptiste;DELPIERRE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+039;Baptiste;DELPIERRE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 039;Baptiste;DELPIERRE;14:30;Pause;Foyer;
 039;Baptiste;DELPIERRE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 039;Baptiste;DELPIERRE;15:45;Pause;Foyer;
@@ -513,7 +513,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 040;Sophie;ORSATELLI;10:30;Pause;Foyer;
 040;Sophie;ORSATELLI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 040;Sophie;ORSATELLI;12:00;Déjeuner;Foyer/Extérieur;
-040;Sophie;ORSATELLI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+040;Sophie;ORSATELLI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 040;Sophie;ORSATELLI;14:30;Pause;Foyer;
 040;Sophie;ORSATELLI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 040;Sophie;ORSATELLI;15:45;Pause;Foyer;
@@ -526,7 +526,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 041;Michel;DENNEULIN;10:30;Pause;Foyer;
 041;Michel;DENNEULIN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 041;Michel;DENNEULIN;12:00;Déjeuner;Foyer/Extérieur;
-041;Michel;DENNEULIN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+041;Michel;DENNEULIN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 041;Michel;DENNEULIN;14:30;Pause;Foyer;
 041;Michel;DENNEULIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 041;Michel;DENNEULIN;15:45;Pause;Foyer;
@@ -539,7 +539,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 042;Antoine;DRAGON;10:30;Pause;Foyer;
 042;Antoine;DRAGON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 042;Antoine;DRAGON;12:00;Déjeuner;Foyer/Extérieur;
-042;Antoine;DRAGON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+042;Antoine;DRAGON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 042;Antoine;DRAGON;14:30;Pause;Foyer;
 042;Antoine;DRAGON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 042;Antoine;DRAGON;15:45;Pause;Foyer;
@@ -552,7 +552,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 043;Laurent;DUHEM;10:30;Pause;Foyer;
 043;Laurent;DUHEM;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 043;Laurent;DUHEM;12:00;Déjeuner;Foyer/Extérieur;
-043;Laurent;DUHEM;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+043;Laurent;DUHEM;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 043;Laurent;DUHEM;14:30;Pause;Foyer;
 043;Laurent;DUHEM;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 043;Laurent;DUHEM;15:45;Pause;Foyer;
@@ -565,7 +565,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 044;Carole;DUPONT;10:30;Pause;Foyer;
 044;Carole;DUPONT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 044;Carole;DUPONT;12:00;Déjeuner;Foyer/Extérieur;
-044;Carole;DUPONT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+044;Carole;DUPONT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 044;Carole;DUPONT;14:30;Pause;Foyer;
 044;Carole;DUPONT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 044;Carole;DUPONT;15:45;Pause;Foyer;
@@ -578,7 +578,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 045;Albane;DURET FERRARI;10:30;Pause;Foyer;
 045;Albane;DURET FERRARI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 045;Albane;DURET FERRARI;12:00;Déjeuner;Foyer/Extérieur;
-045;Albane;DURET FERRARI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+045;Albane;DURET FERRARI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 045;Albane;DURET FERRARI;14:30;Pause;Foyer;
 045;Albane;DURET FERRARI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 045;Albane;DURET FERRARI;15:45;Pause;Foyer;
@@ -591,7 +591,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 046;Antoine;DUVERGER;10:30;Pause;Foyer;
 046;Antoine;DUVERGER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 046;Antoine;DUVERGER;12:00;Déjeuner;Foyer/Extérieur;
-046;Antoine;DUVERGER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+046;Antoine;DUVERGER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 046;Antoine;DUVERGER;14:30;Pause;Foyer;
 046;Antoine;DUVERGER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 046;Antoine;DUVERGER;15:45;Pause;Foyer;
@@ -604,7 +604,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 047;Jalile;EL BADSI;10:30;Pause;Foyer;
 047;Jalile;EL BADSI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 047;Jalile;EL BADSI;12:00;Déjeuner;Foyer/Extérieur;
-047;Jalile;EL BADSI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+047;Jalile;EL BADSI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 047;Jalile;EL BADSI;14:30;Pause;Foyer;
 047;Jalile;EL BADSI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 047;Jalile;EL BADSI;15:45;Pause;Foyer;
@@ -617,7 +617,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 048;Jean-Claude;ELBAZIS;10:30;Pause;Foyer;
 048;Jean-Claude;ELBAZIS;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 048;Jean-Claude;ELBAZIS;12:00;Déjeuner;Foyer/Extérieur;
-048;Jean-Claude;ELBAZIS;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+048;Jean-Claude;ELBAZIS;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 048;Jean-Claude;ELBAZIS;14:30;Pause;Foyer;
 048;Jean-Claude;ELBAZIS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 048;Jean-Claude;ELBAZIS;15:45;Pause;Foyer;
@@ -630,7 +630,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 049;Maxime;ESCOI;10:30;Pause;Foyer;
 049;Maxime;ESCOI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 049;Maxime;ESCOI;12:00;Déjeuner;Foyer/Extérieur;
-049;Maxime;ESCOI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+049;Maxime;ESCOI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 049;Maxime;ESCOI;14:30;Pause;Foyer;
 049;Maxime;ESCOI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 049;Maxime;ESCOI;15:45;Pause;Foyer;
@@ -643,7 +643,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 050;Loyse;FAROUX;10:30;Pause;Foyer;
 050;Loyse;FAROUX;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 050;Loyse;FAROUX;12:00;Déjeuner;Foyer/Extérieur;
-050;Loyse;FAROUX;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+050;Loyse;FAROUX;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 050;Loyse;FAROUX;14:30;Pause;Foyer;
 050;Loyse;FAROUX;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 050;Loyse;FAROUX;15:45;Pause;Foyer;
@@ -656,7 +656,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 051;Stanislas;FEIXAS;10:30;Pause;Foyer;
 051;Stanislas;FEIXAS;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 051;Stanislas;FEIXAS;12:00;Déjeuner;Foyer/Extérieur;
-051;Stanislas;FEIXAS;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+051;Stanislas;FEIXAS;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 051;Stanislas;FEIXAS;14:30;Pause;Foyer;
 051;Stanislas;FEIXAS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 051;Stanislas;FEIXAS;15:45;Pause;Foyer;
@@ -669,7 +669,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 052;Miguel;FERRER;10:30;Pause;Foyer;
 052;Miguel;FERRER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 052;Miguel;FERRER;12:00;Déjeuner;Foyer/Extérieur;
-052;Miguel;FERRER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+052;Miguel;FERRER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 052;Miguel;FERRER;14:30;Pause;Foyer;
 052;Miguel;FERRER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 052;Miguel;FERRER;15:45;Pause;Foyer;
@@ -682,7 +682,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 053;Coralie;FOURNIER;10:30;Pause;Foyer;
 053;Coralie;FOURNIER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 053;Coralie;FOURNIER;12:00;Déjeuner;Foyer/Extérieur;
-053;Coralie;FOURNIER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+053;Coralie;FOURNIER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 053;Coralie;FOURNIER;14:30;Pause;Foyer;
 053;Coralie;FOURNIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 053;Coralie;FOURNIER;15:45;Pause;Foyer;
@@ -695,7 +695,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 054;Annick;GAGNON;10:30;Pause;Foyer;
 054;Annick;GAGNON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 054;Annick;GAGNON;12:00;Déjeuner;Foyer/Extérieur;
-054;Annick;GAGNON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+054;Annick;GAGNON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 054;Annick;GAGNON;14:30;Pause;Foyer;
 054;Annick;GAGNON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 054;Annick;GAGNON;15:45;Pause;Foyer;
@@ -708,7 +708,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 055;Cédric;GERMANI;10:30;Pause;Foyer;
 055;Cédric;GERMANI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 055;Cédric;GERMANI;12:00;Déjeuner;Foyer/Extérieur;
-055;Cédric;GERMANI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+055;Cédric;GERMANI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 055;Cédric;GERMANI;14:30;Pause;Foyer;
 055;Cédric;GERMANI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe4;
 055;Cédric;GERMANI;15:45;Pause;Foyer;
@@ -721,7 +721,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 056;Alexandre;GHEERARDYN;10:30;Pause;Foyer;
 056;Alexandre;GHEERARDYN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 056;Alexandre;GHEERARDYN;12:00;Déjeuner;Foyer/Extérieur;
-056;Alexandre;GHEERARDYN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+056;Alexandre;GHEERARDYN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 056;Alexandre;GHEERARDYN;14:30;Pause;Foyer;
 056;Alexandre;GHEERARDYN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 056;Alexandre;GHEERARDYN;15:45;Pause;Foyer;
@@ -734,7 +734,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 057;Sidney;GIRAUD;10:30;Pause;Foyer;
 057;Sidney;GIRAUD;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 057;Sidney;GIRAUD;12:00;Déjeuner;Foyer/Extérieur;
-057;Sidney;GIRAUD;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+057;Sidney;GIRAUD;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 057;Sidney;GIRAUD;14:30;Pause;Foyer;
 057;Sidney;GIRAUD;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 057;Sidney;GIRAUD;15:45;Pause;Foyer;
@@ -747,7 +747,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 058;Caroline;GOLDFARB;10:30;Pause;Foyer;
 058;Caroline;GOLDFARB;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 058;Caroline;GOLDFARB;12:00;Déjeuner;Foyer/Extérieur;
-058;Caroline;GOLDFARB;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+058;Caroline;GOLDFARB;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 058;Caroline;GOLDFARB;14:30;Pause;Foyer;
 058;Caroline;GOLDFARB;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 058;Caroline;GOLDFARB;15:45;Pause;Foyer;
@@ -760,7 +760,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 059;Marina;GOURDON-DUBANT;10:30;Pause;Foyer;
 059;Marina;GOURDON-DUBANT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 059;Marina;GOURDON-DUBANT;12:00;Déjeuner;Foyer/Extérieur;
-059;Marina;GOURDON-DUBANT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+059;Marina;GOURDON-DUBANT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 059;Marina;GOURDON-DUBANT;14:30;Pause;Foyer;
 059;Marina;GOURDON-DUBANT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 059;Marina;GOURDON-DUBANT;15:45;Pause;Foyer;
@@ -773,7 +773,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 060;Nicolas;GUEGUEN;10:30;Pause;Foyer;
 060;Nicolas;GUEGUEN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 060;Nicolas;GUEGUEN;12:00;Déjeuner;Foyer/Extérieur;
-060;Nicolas;GUEGUEN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+060;Nicolas;GUEGUEN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 060;Nicolas;GUEGUEN;14:30;Pause;Foyer;
 060;Nicolas;GUEGUEN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 060;Nicolas;GUEGUEN;15:45;Pause;Foyer;
@@ -786,7 +786,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 061;Marine;GUERRET;10:30;Pause;Foyer;
 061;Marine;GUERRET;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 061;Marine;GUERRET;12:00;Déjeuner;Foyer/Extérieur;
-061;Marine;GUERRET;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+061;Marine;GUERRET;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 061;Marine;GUERRET;14:30;Pause;Foyer;
 061;Marine;GUERRET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 061;Marine;GUERRET;15:45;Pause;Foyer;
@@ -799,7 +799,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 062;Jeanne;GUERRIER;10:30;Pause;Foyer;
 062;Jeanne;GUERRIER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 062;Jeanne;GUERRIER;12:00;Déjeuner;Foyer/Extérieur;
-062;Jeanne;GUERRIER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+062;Jeanne;GUERRIER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 062;Jeanne;GUERRIER;14:30;Pause;Foyer;
 062;Jeanne;GUERRIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 062;Jeanne;GUERRIER;15:45;Pause;Foyer;
@@ -812,7 +812,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 063;Eric;HAMON;10:30;Pause;Foyer;
 063;Eric;HAMON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 063;Eric;HAMON;12:00;Déjeuner;Foyer/Extérieur;
-063;Eric;HAMON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+063;Eric;HAMON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 063;Eric;HAMON;14:30;Pause;Foyer;
 063;Eric;HAMON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 063;Eric;HAMON;15:45;Pause;Foyer;
@@ -825,7 +825,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 064;Sandrine;HAMOUR;10:30;Pause;Foyer;
 064;Sandrine;HAMOUR;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 064;Sandrine;HAMOUR;12:00;Déjeuner;Foyer/Extérieur;
-064;Sandrine;HAMOUR;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+064;Sandrine;HAMOUR;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 064;Sandrine;HAMOUR;14:30;Pause;Foyer;
 064;Sandrine;HAMOUR;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 064;Sandrine;HAMOUR;15:45;Pause;Foyer;
@@ -838,7 +838,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 065;Eugenie;HERCOUET;10:30;Pause;Foyer;
 065;Eugenie;HERCOUET;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 065;Eugenie;HERCOUET;12:00;Déjeuner;Foyer/Extérieur;
-065;Eugenie;HERCOUET;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+065;Eugenie;HERCOUET;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 065;Eugenie;HERCOUET;14:30;Pause;Foyer;
 065;Eugenie;HERCOUET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 065;Eugenie;HERCOUET;15:45;Pause;Foyer;
@@ -851,7 +851,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 066;Sie;HIEN;10:30;Pause;Foyer;
 066;Sie;HIEN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 066;Sie;HIEN;12:00;Déjeuner;Foyer/Extérieur;
-066;Sie;HIEN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+066;Sie;HIEN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 066;Sie;HIEN;14:30;Pause;Foyer;
 066;Sie;HIEN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 066;Sie;HIEN;15:45;Pause;Foyer;
@@ -864,7 +864,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 067;Gemma;HILL;10:30;Pause;Foyer;
 067;Gemma;HILL;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 067;Gemma;HILL;12:00;Déjeuner;Foyer/Extérieur;
-067;Gemma;HILL;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+067;Gemma;HILL;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 067;Gemma;HILL;14:30;Pause;Foyer;
 067;Gemma;HILL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 067;Gemma;HILL;15:45;Pause;Foyer;
@@ -877,7 +877,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 068;Yannick;HOFFMANN;10:30;Pause;Foyer;
 068;Yannick;HOFFMANN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 068;Yannick;HOFFMANN;12:00;Déjeuner;Foyer/Extérieur;
-068;Yannick;HOFFMANN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+068;Yannick;HOFFMANN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 068;Yannick;HOFFMANN;14:30;Pause;Foyer;
 068;Yannick;HOFFMANN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 068;Yannick;HOFFMANN;15:45;Pause;Foyer;
@@ -890,7 +890,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 069;Benjamin;KIRCHNER;10:30;Pause;Foyer;
 069;Benjamin;KIRCHNER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 069;Benjamin;KIRCHNER;12:00;Déjeuner;Foyer/Extérieur;
-069;Benjamin;KIRCHNER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+069;Benjamin;KIRCHNER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 069;Benjamin;KIRCHNER;14:30;Pause;Foyer;
 069;Benjamin;KIRCHNER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 069;Benjamin;KIRCHNER;15:45;Pause;Foyer;
@@ -903,7 +903,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 070;Karine;LABAT;10:30;Pause;Foyer;
 070;Karine;LABAT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 070;Karine;LABAT;12:00;Déjeuner;Foyer/Extérieur;
-070;Karine;LABAT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+070;Karine;LABAT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 070;Karine;LABAT;14:30;Pause;Foyer;
 070;Karine;LABAT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 070;Karine;LABAT;15:45;Pause;Foyer;
@@ -916,7 +916,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 071;Agnes;LAISSE;10:30;Pause;Foyer;
 071;Agnes;LAISSE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 071;Agnes;LAISSE;12:00;Déjeuner;Foyer/Extérieur;
-071;Agnes;LAISSE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+071;Agnes;LAISSE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 071;Agnes;LAISSE;14:30;Pause;Foyer;
 071;Agnes;LAISSE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 071;Agnes;LAISSE;15:45;Pause;Foyer;
@@ -929,7 +929,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 072;Frederic;LANGENFELD;10:30;Pause;Foyer;
 072;Frederic;LANGENFELD;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 072;Frederic;LANGENFELD;12:00;Déjeuner;Foyer/Extérieur;
-072;Frederic;LANGENFELD;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+072;Frederic;LANGENFELD;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 072;Frederic;LANGENFELD;14:30;Pause;Foyer;
 072;Frederic;LANGENFELD;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 072;Frederic;LANGENFELD;15:45;Pause;Foyer;
@@ -942,7 +942,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 073;Frederic;LASSALLE;10:30;Pause;Foyer;
 073;Frederic;LASSALLE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 073;Frederic;LASSALLE;12:00;Déjeuner;Foyer/Extérieur;
-073;Frederic;LASSALLE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+073;Frederic;LASSALLE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 073;Frederic;LASSALLE;14:30;Pause;Foyer;
 073;Frederic;LASSALLE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 073;Frederic;LASSALLE;15:45;Pause;Foyer;
@@ -955,7 +955,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 074;Eric;LE LANDAIS;10:30;Pause;Foyer;
 074;Eric;LE LANDAIS;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 074;Eric;LE LANDAIS;12:00;Déjeuner;Foyer/Extérieur;
-074;Eric;LE LANDAIS;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+074;Eric;LE LANDAIS;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 074;Eric;LE LANDAIS;14:30;Pause;Foyer;
 074;Eric;LE LANDAIS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 074;Eric;LE LANDAIS;15:45;Pause;Foyer;
@@ -968,7 +968,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 075;Nathalie;LE TALAER;10:30;Pause;Foyer;
 075;Nathalie;LE TALAER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 075;Nathalie;LE TALAER;12:00;Déjeuner;Foyer/Extérieur;
-075;Nathalie;LE TALAER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+075;Nathalie;LE TALAER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 075;Nathalie;LE TALAER;14:30;Pause;Foyer;
 075;Nathalie;LE TALAER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 075;Nathalie;LE TALAER;15:45;Pause;Foyer;
@@ -981,7 +981,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 076;Romane;LEBRETON;10:30;Pause;Foyer;
 076;Romane;LEBRETON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 076;Romane;LEBRETON;12:00;Déjeuner;Foyer/Extérieur;
-076;Romane;LEBRETON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;
+076;Romane;LEBRETON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;
 076;Romane;LEBRETON;14:30;Pause;Foyer;
 076;Romane;LEBRETON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 076;Romane;LEBRETON;15:45;Pause;Foyer;
@@ -994,7 +994,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 077;Lorraine;LECUSSAN;10:30;Pause;Foyer;
 077;Lorraine;LECUSSAN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 077;Lorraine;LECUSSAN;12:00;Déjeuner;Foyer/Extérieur;
-077;Lorraine;LECUSSAN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+077;Lorraine;LECUSSAN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 077;Lorraine;LECUSSAN;14:30;Pause;Foyer;
 077;Lorraine;LECUSSAN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 077;Lorraine;LECUSSAN;15:45;Pause;Foyer;
@@ -1007,7 +1007,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 078;Ludovic;LEVANNIER;10:30;Pause;Foyer;
 078;Ludovic;LEVANNIER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 078;Ludovic;LEVANNIER;12:00;Déjeuner;Foyer/Extérieur;
-078;Ludovic;LEVANNIER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+078;Ludovic;LEVANNIER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 078;Ludovic;LEVANNIER;14:30;Pause;Foyer;
 078;Ludovic;LEVANNIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 078;Ludovic;LEVANNIER;15:45;Pause;Foyer;
@@ -1020,7 +1020,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 079;Antoine;LEVASSOR;10:30;Pause;Foyer;
 079;Antoine;LEVASSOR;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 079;Antoine;LEVASSOR;12:00;Déjeuner;Foyer/Extérieur;
-079;Antoine;LEVASSOR;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+079;Antoine;LEVASSOR;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 079;Antoine;LEVASSOR;14:30;Pause;Foyer;
 079;Antoine;LEVASSOR;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 079;Antoine;LEVASSOR;15:45;Pause;Foyer;
@@ -1033,7 +1033,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 080;Mickael;LIDDELL;10:30;Pause;Foyer;
 080;Mickael;LIDDELL;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 080;Mickael;LIDDELL;12:00;Déjeuner;Foyer/Extérieur;
-080;Mickael;LIDDELL;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+080;Mickael;LIDDELL;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 080;Mickael;LIDDELL;14:30;Pause;Foyer;
 080;Mickael;LIDDELL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 080;Mickael;LIDDELL;15:45;Pause;Foyer;
@@ -1046,7 +1046,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 081;Alexandre;LIEURY;10:30;Pause;Foyer;
 081;Alexandre;LIEURY;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 081;Alexandre;LIEURY;12:00;Déjeuner;Foyer/Extérieur;
-081;Alexandre;LIEURY;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+081;Alexandre;LIEURY;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 081;Alexandre;LIEURY;14:30;Pause;Foyer;
 081;Alexandre;LIEURY;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 081;Alexandre;LIEURY;15:45;Pause;Foyer;
@@ -1059,7 +1059,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 082;Aida;LOCQUETTE;10:30;Pause;Foyer;
 082;Aida;LOCQUETTE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 082;Aida;LOCQUETTE;12:00;Déjeuner;Foyer/Extérieur;
-082;Aida;LOCQUETTE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+082;Aida;LOCQUETTE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 082;Aida;LOCQUETTE;14:30;Pause;Foyer;
 082;Aida;LOCQUETTE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 082;Aida;LOCQUETTE;15:45;Pause;Foyer;
@@ -1072,7 +1072,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 083;Lenny;LOPEZ;10:30;Pause;Foyer;
 083;Lenny;LOPEZ;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 083;Lenny;LOPEZ;12:00;Déjeuner;Foyer/Extérieur;
-083;Lenny;LOPEZ;13:30;Finance Innovation Awards - 1ère partie;Auditorium;
+083;Lenny;LOPEZ;13:25;Finance Innovation Awards - 1ère partie;Auditorium;
 083;Lenny;LOPEZ;14:30;Pause;Foyer;
 083;Lenny;LOPEZ;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 083;Lenny;LOPEZ;15:45;Pause;Foyer;
@@ -1085,7 +1085,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 084;Pascal;MACH;10:30;Pause;Foyer;
 084;Pascal;MACH;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 084;Pascal;MACH;12:00;Déjeuner;Foyer/Extérieur;
-084;Pascal;MACH;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+084;Pascal;MACH;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 084;Pascal;MACH;14:30;Pause;Foyer;
 084;Pascal;MACH;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 084;Pascal;MACH;15:45;Pause;Foyer;
@@ -1098,7 +1098,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 085;Jerome;MARION;10:30;Pause;Foyer;
 085;Jerome;MARION;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 085;Jerome;MARION;12:00;Déjeuner;Foyer/Extérieur;
-085;Jerome;MARION;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+085;Jerome;MARION;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 085;Jerome;MARION;14:30;Pause;Foyer;
 085;Jerome;MARION;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 085;Jerome;MARION;15:45;Pause;Foyer;
@@ -1111,7 +1111,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 086;Tom;MARMANDE;10:30;Pause;Foyer;
 086;Tom;MARMANDE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 086;Tom;MARMANDE;12:00;Déjeuner;Foyer/Extérieur;
-086;Tom;MARMANDE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;
+086;Tom;MARMANDE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;
 086;Tom;MARMANDE;14:30;Pause;Foyer;
 086;Tom;MARMANDE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 086;Tom;MARMANDE;15:45;Pause;Foyer;
@@ -1124,7 +1124,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 087;Guillaume;MARTIN;10:30;Pause;Foyer;
 087;Guillaume;MARTIN;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 087;Guillaume;MARTIN;12:00;Déjeuner;Foyer/Extérieur;
-087;Guillaume;MARTIN;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+087;Guillaume;MARTIN;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 087;Guillaume;MARTIN;14:30;Pause;Foyer;
 087;Guillaume;MARTIN;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 087;Guillaume;MARTIN;15:45;Pause;Foyer;
@@ -1137,7 +1137,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 088;Rodolfo;MARTINEZ;10:30;Pause;Foyer;
 088;Rodolfo;MARTINEZ;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 088;Rodolfo;MARTINEZ;12:00;Déjeuner;Foyer/Extérieur;
-088;Rodolfo;MARTINEZ;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+088;Rodolfo;MARTINEZ;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 088;Rodolfo;MARTINEZ;14:30;Pause;Foyer;
 088;Rodolfo;MARTINEZ;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 088;Rodolfo;MARTINEZ;15:45;Pause;Foyer;
@@ -1150,7 +1150,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 089;Denis;MASSE;10:30;Pause;Foyer;
 089;Denis;MASSE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 089;Denis;MASSE;12:00;Déjeuner;Foyer/Extérieur;
-089;Denis;MASSE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+089;Denis;MASSE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 089;Denis;MASSE;14:30;Pause;Foyer;
 089;Denis;MASSE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 089;Denis;MASSE;15:45;Pause;Foyer;
@@ -1163,7 +1163,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 090;Edwige;MAUGENDRE;10:30;Pause;Foyer;
 090;Edwige;MAUGENDRE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 090;Edwige;MAUGENDRE;12:00;Déjeuner;Foyer/Extérieur;
-090;Edwige;MAUGENDRE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+090;Edwige;MAUGENDRE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 090;Edwige;MAUGENDRE;14:30;Pause;Foyer;
 090;Edwige;MAUGENDRE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 090;Edwige;MAUGENDRE;15:45;Pause;Foyer;
@@ -1176,7 +1176,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 091;Alexis;MEHRENBERGER;10:30;Pause;Foyer;
 091;Alexis;MEHRENBERGER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 091;Alexis;MEHRENBERGER;12:00;Déjeuner;Foyer/Extérieur;
-091;Alexis;MEHRENBERGER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+091;Alexis;MEHRENBERGER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 091;Alexis;MEHRENBERGER;14:30;Pause;Foyer;
 091;Alexis;MEHRENBERGER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 091;Alexis;MEHRENBERGER;15:45;Pause;Foyer;
@@ -1189,7 +1189,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 092;Aldona;MENERET;10:30;Pause;Foyer;
 092;Aldona;MENERET;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 092;Aldona;MENERET;12:00;Déjeuner;Foyer/Extérieur;
-092;Aldona;MENERET;13:30;Finance Innovation Awards - 1ère partie;Auditorium;
+092;Aldona;MENERET;13:25;Finance Innovation Awards - 1ère partie;Auditorium;
 092;Aldona;MENERET;14:30;Pause;Foyer;
 092;Aldona;MENERET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;
 092;Aldona;MENERET;15:45;Pause;Foyer;
@@ -1202,7 +1202,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 093;Sebastien;MERCADIE;10:30;Pause;Foyer;
 093;Sebastien;MERCADIE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 093;Sebastien;MERCADIE;12:00;Déjeuner;Foyer/Extérieur;
-093;Sebastien;MERCADIE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+093;Sebastien;MERCADIE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 093;Sebastien;MERCADIE;14:30;Pause;Foyer;
 093;Sebastien;MERCADIE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 093;Sebastien;MERCADIE;15:45;Pause;Foyer;
@@ -1215,7 +1215,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 094;Zayna;MERNISSI;10:30;Pause;Foyer;
 094;Zayna;MERNISSI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 094;Zayna;MERNISSI;12:00;Déjeuner;Foyer/Extérieur;
-094;Zayna;MERNISSI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+094;Zayna;MERNISSI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 094;Zayna;MERNISSI;14:30;Pause;Foyer;
 094;Zayna;MERNISSI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 094;Zayna;MERNISSI;15:45;Pause;Foyer;
@@ -1228,7 +1228,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 095;Marie-Anne;MICHON;10:30;Pause;Foyer;
 095;Marie-Anne;MICHON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 095;Marie-Anne;MICHON;12:00;Déjeuner;Foyer/Extérieur;
-095;Marie-Anne;MICHON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+095;Marie-Anne;MICHON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 095;Marie-Anne;MICHON;14:30;Pause;Foyer;
 095;Marie-Anne;MICHON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 095;Marie-Anne;MICHON;15:45;Pause;Foyer;
@@ -1241,7 +1241,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 096;Lionel;MORENO;10:30;Pause;Foyer;
 096;Lionel;MORENO;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 096;Lionel;MORENO;12:00;Déjeuner;Foyer/Extérieur;
-096;Lionel;MORENO;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+096;Lionel;MORENO;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 096;Lionel;MORENO;14:30;Pause;Foyer;
 096;Lionel;MORENO;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 096;Lionel;MORENO;15:45;Pause;Foyer;
@@ -1254,7 +1254,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 097;Alexandre;MOUTET;10:30;Pause;Foyer;
 097;Alexandre;MOUTET;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 097;Alexandre;MOUTET;12:00;Déjeuner;Foyer/Extérieur;
-097;Alexandre;MOUTET;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+097;Alexandre;MOUTET;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 097;Alexandre;MOUTET;14:30;Pause;Foyer;
 097;Alexandre;MOUTET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 097;Alexandre;MOUTET;15:45;Pause;Foyer;
@@ -1267,7 +1267,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 098;Pascal;NOTTE;10:30;Pause;Foyer;
 098;Pascal;NOTTE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 098;Pascal;NOTTE;12:00;Déjeuner;Foyer/Extérieur;
-098;Pascal;NOTTE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+098;Pascal;NOTTE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 098;Pascal;NOTTE;14:30;Pause;Foyer;
 098;Pascal;NOTTE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 098;Pascal;NOTTE;15:45;Pause;Foyer;
@@ -1280,7 +1280,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 099;Thomas;OLIVERO;10:30;Pause;Foyer;
 099;Thomas;OLIVERO;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 099;Thomas;OLIVERO;12:00;Déjeuner;Foyer/Extérieur;
-099;Thomas;OLIVERO;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+099;Thomas;OLIVERO;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 099;Thomas;OLIVERO;14:30;Pause;Foyer;
 099;Thomas;OLIVERO;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 099;Thomas;OLIVERO;15:45;Pause;Foyer;
@@ -1293,7 +1293,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 100;Elisabeth;PALACIO;10:30;Pause;Foyer;
 100;Elisabeth;PALACIO;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 100;Elisabeth;PALACIO;12:00;Déjeuner;Foyer/Extérieur;
-100;Elisabeth;PALACIO;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+100;Elisabeth;PALACIO;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 100;Elisabeth;PALACIO;14:30;Pause;Foyer;
 100;Elisabeth;PALACIO;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 100;Elisabeth;PALACIO;15:45;Pause;Foyer;
@@ -1306,7 +1306,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 101;Julien;PECHALAT;10:30;Pause;Foyer;
 101;Julien;PECHALAT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 101;Julien;PECHALAT;12:00;Déjeuner;Foyer/Extérieur;
-101;Julien;PECHALAT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+101;Julien;PECHALAT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 101;Julien;PECHALAT;14:30;Pause;Foyer;
 101;Julien;PECHALAT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 101;Julien;PECHALAT;15:45;Pause;Foyer;
@@ -1319,7 +1319,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 102;Marc;PELLE;10:30;Pause;Foyer;
 102;Marc;PELLE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 102;Marc;PELLE;12:00;Déjeuner;Foyer/Extérieur;
-102;Marc;PELLE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+102;Marc;PELLE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 102;Marc;PELLE;14:30;Pause;Foyer;
 102;Marc;PELLE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 102;Marc;PELLE;15:45;Pause;Foyer;
@@ -1332,7 +1332,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 103;Laura;PEUPIER;10:30;Pause;Foyer;
 103;Laura;PEUPIER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 103;Laura;PEUPIER;12:00;Déjeuner;Foyer/Extérieur;
-103;Laura;PEUPIER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+103;Laura;PEUPIER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 103;Laura;PEUPIER;14:30;Pause;Foyer;
 103;Laura;PEUPIER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 103;Laura;PEUPIER;15:45;Pause;Foyer;
@@ -1345,7 +1345,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 104;Jonathan;PINSON;10:30;Pause;Foyer;
 104;Jonathan;PINSON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 104;Jonathan;PINSON;12:00;Déjeuner;Foyer/Extérieur;
-104;Jonathan;PINSON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+104;Jonathan;PINSON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 104;Jonathan;PINSON;14:30;Pause;Foyer;
 104;Jonathan;PINSON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 104;Jonathan;PINSON;15:45;Pause;Foyer;
@@ -1358,7 +1358,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 105;Christophe;PLISSON;10:30;Pause;Foyer;
 105;Christophe;PLISSON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 105;Christophe;PLISSON;12:00;Déjeuner;Foyer/Extérieur;
-105;Christophe;PLISSON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+105;Christophe;PLISSON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 105;Christophe;PLISSON;14:30;Pause;Foyer;
 105;Christophe;PLISSON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 105;Christophe;PLISSON;15:45;Pause;Foyer;
@@ -1371,7 +1371,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 106;Gilles;POILVET;10:30;Pause;Foyer;
 106;Gilles;POILVET;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 106;Gilles;POILVET;12:00;Déjeuner;Foyer/Extérieur;
-106;Gilles;POILVET;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+106;Gilles;POILVET;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 106;Gilles;POILVET;14:30;Pause;Foyer;
 106;Gilles;POILVET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 106;Gilles;POILVET;15:45;Pause;Foyer;
@@ -1384,7 +1384,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 107;Frederic;PONCET;10:30;Pause;Foyer;
 107;Frederic;PONCET;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 107;Frederic;PONCET;12:00;Déjeuner;Foyer/Extérieur;
-107;Frederic;PONCET;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+107;Frederic;PONCET;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 107;Frederic;PONCET;14:30;Pause;Foyer;
 107;Frederic;PONCET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 107;Frederic;PONCET;15:45;Pause;Foyer;
@@ -1397,7 +1397,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 108;Yongqian-Christine;PONT;10:30;Pause;Foyer;
 108;Yongqian-Christine;PONT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 108;Yongqian-Christine;PONT;12:00;Déjeuner;Foyer/Extérieur;
-108;Yongqian-Christine;PONT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+108;Yongqian-Christine;PONT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 108;Yongqian-Christine;PONT;14:30;Pause;Foyer;
 108;Yongqian-Christine;PONT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 108;Yongqian-Christine;PONT;15:45;Pause;Foyer;
@@ -1410,7 +1410,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 109;Nicolas;POZNIAK;10:30;Pause;Foyer;
 109;Nicolas;POZNIAK;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 109;Nicolas;POZNIAK;12:00;Déjeuner;Foyer/Extérieur;
-109;Nicolas;POZNIAK;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+109;Nicolas;POZNIAK;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 109;Nicolas;POZNIAK;14:30;Pause;Foyer;
 109;Nicolas;POZNIAK;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 109;Nicolas;POZNIAK;15:45;Pause;Foyer;
@@ -1423,7 +1423,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 110;Emmanuel;QUIL;10:30;Pause;Foyer;
 110;Emmanuel;QUIL;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 110;Emmanuel;QUIL;12:00;Déjeuner;Foyer/Extérieur;
-110;Emmanuel;QUIL;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+110;Emmanuel;QUIL;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 110;Emmanuel;QUIL;14:30;Pause;Foyer;
 110;Emmanuel;QUIL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 110;Emmanuel;QUIL;15:45;Pause;Foyer;
@@ -1436,7 +1436,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 111;Ely;RAKOTOBE;10:30;Pause;Foyer;
 111;Ely;RAKOTOBE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 111;Ely;RAKOTOBE;12:00;Déjeuner;Foyer/Extérieur;
-111;Ely;RAKOTOBE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+111;Ely;RAKOTOBE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 111;Ely;RAKOTOBE;14:30;Pause;Foyer;
 111;Ely;RAKOTOBE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 111;Ely;RAKOTOBE;15:45;Pause;Foyer;
@@ -1449,7 +1449,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 112;Isabelle;RAULT;10:30;Pause;Foyer;
 112;Isabelle;RAULT;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 112;Isabelle;RAULT;12:00;Déjeuner;Foyer/Extérieur;
-112;Isabelle;RAULT;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+112;Isabelle;RAULT;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 112;Isabelle;RAULT;14:30;Pause;Foyer;
 112;Isabelle;RAULT;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 112;Isabelle;RAULT;15:45;Pause;Foyer;
@@ -1462,7 +1462,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 113;Samuel;RENEVRET;10:30;Pause;Foyer;
 113;Samuel;RENEVRET;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 113;Samuel;RENEVRET;12:00;Déjeuner;Foyer/Extérieur;
-113;Samuel;RENEVRET;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+113;Samuel;RENEVRET;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 113;Samuel;RENEVRET;14:30;Pause;Foyer;
 113;Samuel;RENEVRET;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 113;Samuel;RENEVRET;15:45;Pause;Foyer;
@@ -1475,7 +1475,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 114;Delphine;RICHER;10:30;Pause;Foyer;
 114;Delphine;RICHER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 114;Delphine;RICHER;12:00;Déjeuner;Foyer/Extérieur;
-114;Delphine;RICHER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+114;Delphine;RICHER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 114;Delphine;RICHER;14:30;Pause;Foyer;
 114;Delphine;RICHER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 114;Delphine;RICHER;15:45;Pause;Foyer;
@@ -1488,7 +1488,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 115;Céline;ROCHE;10:30;Pause;Foyer;
 115;Céline;ROCHE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 115;Céline;ROCHE;12:00;Déjeuner;Foyer/Extérieur;
-115;Céline;ROCHE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+115;Céline;ROCHE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 115;Céline;ROCHE;14:30;Pause;Foyer;
 115;Céline;ROCHE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 115;Céline;ROCHE;15:45;Pause;Foyer;
@@ -1501,7 +1501,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 116;Paul;ROGER-MACHART;10:30;Pause;Foyer;
 116;Paul;ROGER-MACHART;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 116;Paul;ROGER-MACHART;12:00;Déjeuner;Foyer/Extérieur;
-116;Paul;ROGER-MACHART;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+116;Paul;ROGER-MACHART;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 116;Paul;ROGER-MACHART;14:30;Pause;Foyer;
 116;Paul;ROGER-MACHART;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 116;Paul;ROGER-MACHART;15:45;Pause;Foyer;
@@ -1514,7 +1514,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 117;Jose Manuel;ROMERO;10:30;Pause;Foyer;
 117;Jose Manuel;ROMERO;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 117;Jose Manuel;ROMERO;12:00;Déjeuner;Foyer/Extérieur;
-117;Jose Manuel;ROMERO;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+117;Jose Manuel;ROMERO;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 117;Jose Manuel;ROMERO;14:30;Pause;Foyer;
 117;Jose Manuel;ROMERO;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 117;Jose Manuel;ROMERO;15:45;Pause;Foyer;
@@ -1527,7 +1527,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 118;Nubia;RUIZ;10:30;Pause;Foyer;
 118;Nubia;RUIZ;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 118;Nubia;RUIZ;12:00;Déjeuner;Foyer/Extérieur;
-118;Nubia;RUIZ;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+118;Nubia;RUIZ;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 118;Nubia;RUIZ;14:30;Pause;Foyer;
 118;Nubia;RUIZ;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 118;Nubia;RUIZ;15:45;Pause;Foyer;
@@ -1540,7 +1540,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 119;Nicolas;SALLE;10:30;Pause;Foyer;
 119;Nicolas;SALLE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 119;Nicolas;SALLE;12:00;Déjeuner;Foyer/Extérieur;
-119;Nicolas;SALLE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+119;Nicolas;SALLE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 119;Nicolas;SALLE;14:30;Pause;Foyer;
 119;Nicolas;SALLE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 119;Nicolas;SALLE;15:45;Pause;Foyer;
@@ -1553,7 +1553,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 120;Remi;SCHUWER;10:30;Pause;Foyer;
 120;Remi;SCHUWER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 120;Remi;SCHUWER;12:00;Déjeuner;Foyer/Extérieur;
-120;Remi;SCHUWER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+120;Remi;SCHUWER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 120;Remi;SCHUWER;14:30;Pause;Foyer;
 120;Remi;SCHUWER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 120;Remi;SCHUWER;15:45;Pause;Foyer;
@@ -1566,7 +1566,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 121;Denis;SERVOLE;10:30;Pause;Foyer;
 121;Denis;SERVOLE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 121;Denis;SERVOLE;12:00;Déjeuner;Foyer/Extérieur;
-121;Denis;SERVOLE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+121;Denis;SERVOLE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 121;Denis;SERVOLE;14:30;Pause;Foyer;
 121;Denis;SERVOLE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 121;Denis;SERVOLE;15:45;Pause;Foyer;
@@ -1579,7 +1579,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 122;Steve;SOSSON;10:30;Pause;Foyer;
 122;Steve;SOSSON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 122;Steve;SOSSON;12:00;Déjeuner;Foyer/Extérieur;
-122;Steve;SOSSON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+122;Steve;SOSSON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 122;Steve;SOSSON;14:30;Pause;Foyer;
 122;Steve;SOSSON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 122;Steve;SOSSON;15:45;Pause;Foyer;
@@ -1592,7 +1592,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 123;Adam;SOVA;10:30;Pause;Foyer;
 123;Adam;SOVA;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 123;Adam;SOVA;12:00;Déjeuner;Foyer/Extérieur;
-123;Adam;SOVA;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+123;Adam;SOVA;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 123;Adam;SOVA;14:30;Pause;Foyer;
 123;Adam;SOVA;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 123;Adam;SOVA;15:45;Pause;Foyer;
@@ -1605,7 +1605,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 124;Pierre Marie;SOYER;10:30;Pause;Foyer;
 124;Pierre Marie;SOYER;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 124;Pierre Marie;SOYER;12:00;Déjeuner;Foyer/Extérieur;
-124;Pierre Marie;SOYER;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
+124;Pierre Marie;SOYER;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 5;
 124;Pierre Marie;SOYER;14:30;Pause;Foyer;
 124;Pierre Marie;SOYER;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 5;
 124;Pierre Marie;SOYER;15:45;Pause;Foyer;
@@ -1618,7 +1618,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 125;Helene;TANCHOUX;10:30;Pause;Foyer;
 125;Helene;TANCHOUX;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 125;Helene;TANCHOUX;12:00;Déjeuner;Foyer/Extérieur;
-125;Helene;TANCHOUX;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+125;Helene;TANCHOUX;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 125;Helene;TANCHOUX;14:30;Pause;Foyer;
 125;Helene;TANCHOUX;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 125;Helene;TANCHOUX;15:45;Pause;Foyer;
@@ -1631,7 +1631,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 126;Catherine;TAOUDI;10:30;Pause;Foyer;
 126;Catherine;TAOUDI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 126;Catherine;TAOUDI;12:00;Déjeuner;Foyer/Extérieur;
-126;Catherine;TAOUDI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+126;Catherine;TAOUDI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 126;Catherine;TAOUDI;14:30;Pause;Foyer;
 126;Catherine;TAOUDI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 126;Catherine;TAOUDI;15:45;Pause;Foyer;
@@ -1644,7 +1644,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 127;Patrick-M;THOMAS;10:30;Pause;Foyer;
 127;Patrick-M;THOMAS;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 127;Patrick-M;THOMAS;12:00;Déjeuner;Foyer/Extérieur;
-127;Patrick-M;THOMAS;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+127;Patrick-M;THOMAS;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 127;Patrick-M;THOMAS;14:30;Pause;Foyer;
 127;Patrick-M;THOMAS;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 127;Patrick-M;THOMAS;15:45;Pause;Foyer;
@@ -1657,7 +1657,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 128;Sophie;TOURAINE;10:30;Pause;Foyer;
 128;Sophie;TOURAINE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 128;Sophie;TOURAINE;12:00;Déjeuner;Foyer/Extérieur;
-128;Sophie;TOURAINE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+128;Sophie;TOURAINE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 128;Sophie;TOURAINE;14:30;Pause;Foyer;
 128;Sophie;TOURAINE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 128;Sophie;TOURAINE;15:45;Pause;Foyer;
@@ -1670,7 +1670,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 129;Arnaud;TRESARRIEU-BESINCQ;10:30;Pause;Foyer;
 129;Arnaud;TRESARRIEU-BESINCQ;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 129;Arnaud;TRESARRIEU-BESINCQ;12:00;Déjeuner;Foyer/Extérieur;
-129;Arnaud;TRESARRIEU-BESINCQ;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+129;Arnaud;TRESARRIEU-BESINCQ;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 129;Arnaud;TRESARRIEU-BESINCQ;14:30;Pause;Foyer;
 129;Arnaud;TRESARRIEU-BESINCQ;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 129;Arnaud;TRESARRIEU-BESINCQ;15:45;Pause;Foyer;
@@ -1683,7 +1683,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 130;Anne;VANHOUTTE;10:30;Pause;Foyer;
 130;Anne;VANHOUTTE;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 130;Anne;VANHOUTTE;12:00;Déjeuner;Foyer/Extérieur;
-130;Anne;VANHOUTTE;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+130;Anne;VANHOUTTE;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 130;Anne;VANHOUTTE;14:30;Pause;Foyer;
 130;Anne;VANHOUTTE;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 130;Anne;VANHOUTTE;15:45;Pause;Foyer;
@@ -1696,7 +1696,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 131;Adrien;VIAUD;10:30;Pause;Foyer;
 131;Adrien;VIAUD;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 131;Adrien;VIAUD;12:00;Déjeuner;Foyer/Extérieur;
-131;Adrien;VIAUD;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
+131;Adrien;VIAUD;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 4;
 131;Adrien;VIAUD;14:30;Pause;Foyer;
 131;Adrien;VIAUD;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 4;
 131;Adrien;VIAUD;15:45;Pause;Foyer;
@@ -1709,7 +1709,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 132;Justine;VILLEVAL;10:30;Pause;Foyer;
 132;Justine;VILLEVAL;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 132;Justine;VILLEVAL;12:00;Déjeuner;Foyer/Extérieur;
-132;Justine;VILLEVAL;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
+132;Justine;VILLEVAL;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 3;
 132;Justine;VILLEVAL;14:30;Pause;Foyer;
 132;Justine;VILLEVAL;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 3;
 132;Justine;VILLEVAL;15:45;Pause;Foyer;
@@ -1722,7 +1722,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 133;James;WILSON;10:30;Pause;Foyer;
 133;James;WILSON;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 133;James;WILSON;12:00;Déjeuner;Foyer/Extérieur;
-133;James;WILSON;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
+133;James;WILSON;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 1;
 133;James;WILSON;14:30;Pause;Foyer;
 133;James;WILSON;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 1;
 133;James;WILSON;15:45;Pause;Foyer;
@@ -1735,7 +1735,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 134;Kevin;WONG;10:30;Pause;Foyer;
 134;Kevin;WONG;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 134;Kevin;WONG;12:00;Déjeuner;Foyer/Extérieur;
-134;Kevin;WONG;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+134;Kevin;WONG;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 134;Kevin;WONG;14:30;Pause;Foyer;
 134;Kevin;WONG;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 134;Kevin;WONG;15:45;Pause;Foyer;
@@ -1748,7 +1748,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 135;Loic;TCHOUMY NZEUMEGNI;10:30;Pause;Foyer;
 135;Loic;TCHOUMY NZEUMEGNI;11:00;Témoignage - Philippe COUTEAUX;Grand Amphi;
 135;Loic;TCHOUMY NZEUMEGNI;12:00;Déjeuner;Foyer/Extérieur;
-135;Loic;TCHOUMY NZEUMEGNI;13:30;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
+135;Loic;TCHOUMY NZEUMEGNI;13:25;Finance Innovation Awards - 1ère partie;Auditorium;Groupe 2;
 135;Loic;TCHOUMY NZEUMEGNI;14:30;Pause;Foyer;
 135;Loic;TCHOUMY NZEUMEGNI;14:45;Finance Innovation Awards - 2ème partie;Auditorium;Groupe 2;
 135;Loic;TCHOUMY NZEUMEGNI;15:45;Pause;Foyer;
