@@ -262,7 +262,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 021;Gabriel;CANET;08:00;Café d'accueil;Foyer;
 021;Gabriel;CANET;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 021;Gabriel;CANET;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-021;Gabriel;CANET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2
+021;Gabriel;CANET;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2 - Foyer Bas;
 021;Gabriel;CANET;10:30;Pause;Foyer;
 021;Gabriel;CANET;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 021;Gabriel;CANET;12:00;Déjeuner;Foyer/Extérieur;
@@ -275,7 +275,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 022;Philippe;CARBONNEL;08:00;Café d'accueil;Foyer;
 022;Philippe;CARBONNEL;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 022;Philippe;CARBONNEL;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-022;Philippe;CARBONNEL;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
+022;Philippe;CARBONNEL;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1 - Foyer Haut;
 022;Philippe;CARBONNEL;10:30;Pause;Foyer;
 022;Philippe;CARBONNEL;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 022;Philippe;CARBONNEL;12:00;Déjeuner;Foyer/Extérieur;
@@ -288,7 +288,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 023;Héléne;CENCI;08:00;Café d'accueil;Foyer;
 023;Héléne;CENCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 023;Héléne;CENCI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-023;Héléne;CENCI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4;
+023;Héléne;CENCI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4 - Amphi B;
 023;Héléne;CENCI;10:30;Pause;Foyer;
 023;Héléne;CENCI;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 023;Héléne;CENCI;12:00;Déjeuner;Foyer/Extérieur;
@@ -301,7 +301,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 024;Aurelie;CHAMBON;08:00;Café d'accueil;Foyer;
 024;Aurelie;CHAMBON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 024;Aurelie;CHAMBON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-024;Aurelie;CHAMBON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2;
+024;Aurelie;CHAMBON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2 - Foyer Bas;
 024;Aurelie;CHAMBON;10:30;Pause;Foyer;
 024;Aurelie;CHAMBON;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 024;Aurelie;CHAMBON;12:00;Déjeuner;Foyer/Extérieur;
@@ -314,7 +314,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 025;Cecile;CHAUVIN;08:00;Café d'accueil;Foyer;
 025;Cecile;CHAUVIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 025;Cecile;CHAUVIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-025;Cecile;CHAUVIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4;
+025;Cecile;CHAUVIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4 - Amphi B;
 025;Cecile;CHAUVIN;10:30;Pause;Foyer;
 025;Cecile;CHAUVIN;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 025;Cecile;CHAUVIN;12:00;Déjeuner;Foyer/Extérieur;
@@ -327,7 +327,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 026;Christophe;CHAZALON;08:00;Café d'accueil;Foyer;
 026;Christophe;CHAZALON;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 026;Christophe;CHAZALON;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-026;Christophe;CHAZALON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4;
+026;Christophe;CHAZALON;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4 - Amphi B;
 026;Christophe;CHAZALON;10:30;Pause;Foyer;
 026;Christophe;CHAZALON;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 026;Christophe;CHAZALON;12:00;Déjeuner;Foyer/Extérieur;
@@ -353,7 +353,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 028;Valerie;CLUZEAU;08:00;Café d'accueil;Foyer;
 028;Valerie;CLUZEAU;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 028;Valerie;CLUZEAU;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-028;Valerie;CLUZEAU;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
+028;Valerie;CLUZEAU;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1 - Foyer Haut;
 028;Valerie;CLUZEAU;10:30;Pause;Foyer;
 028;Valerie;CLUZEAU;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 028;Valerie;CLUZEAU;12:00;Déjeuner;Foyer/Extérieur;
@@ -366,7 +366,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 029;Bertrand;COCHELIN;08:00;Café d'accueil;Foyer;
 029;Bertrand;COCHELIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 029;Bertrand;COCHELIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-029;Bertrand;COCHELIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4;
+029;Bertrand;COCHELIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4 - Amphi B;
 029;Bertrand;COCHELIN;10:30;Pause;Foyer;
 029;Bertrand;COCHELIN;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 029;Bertrand;COCHELIN;12:00;Déjeuner;Foyer/Extérieur;
@@ -379,7 +379,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 030;Valerie;COLLOT;08:00;Café d'accueil;Foyer;
 030;Valerie;COLLOT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 030;Valerie;COLLOT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-030;Valerie;COLLOT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 5;
+030;Valerie;COLLOT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 5 - Amphi D;
 030;Valerie;COLLOT;10:30;Pause;Foyer;
 030;Valerie;COLLOT;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 030;Valerie;COLLOT;12:00;Déjeuner;Foyer/Extérieur;
@@ -392,7 +392,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 031;Nicolas;COSTER;08:00;Café d'accueil;Foyer;
 031;Nicolas;COSTER;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 031;Nicolas;COSTER;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-031;Nicolas;COSTER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
+031;Nicolas;COSTER;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1 - Foyer Haut;
 031;Nicolas;COSTER;10:30;Pause;Foyer;
 031;Nicolas;COSTER;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 031;Nicolas;COSTER;12:00;Déjeuner;Foyer/Extérieur;
@@ -405,7 +405,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 032;Amandine;COTARD;08:00;Café d'accueil;Foyer;
 032;Amandine;COTARD;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 032;Amandine;COTARD;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-032;Amandine;COTARD;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3;
+032;Amandine;COTARD;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3 - Grand Amphi;
 032;Amandine;COTARD;10:30;Pause;Foyer;
 032;Amandine;COTARD;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 032;Amandine;COTARD;12:00;Déjeuner;Foyer/Extérieur;
@@ -418,7 +418,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 033;Sandra;COUTANT;08:00;Café d'accueil;Foyer;
 033;Sandra;COUTANT;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 033;Sandra;COUTANT;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-033;Sandra;COUTANT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2;
+033;Sandra;COUTANT;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2 - Foyer Bas;
 033;Sandra;COUTANT;10:30;Pause;Foyer;
 033;Sandra;COUTANT;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 033;Sandra;COUTANT;12:00;Déjeuner;Foyer/Extérieur;
@@ -431,7 +431,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 034;Giuseppe;CURCI;08:00;Café d'accueil;Foyer;
 034;Giuseppe;CURCI;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 034;Giuseppe;CURCI;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-034;Giuseppe;CURCI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
+034;Giuseppe;CURCI;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1 - Foyer Haut;
 034;Giuseppe;CURCI;10:30;Pause;Foyer;
 034;Giuseppe;CURCI;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 034;Giuseppe;CURCI;12:00;Déjeuner;Foyer/Extérieur;
@@ -444,7 +444,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 035;Laetitia;DAVID;08:00;Café d'accueil;Foyer;
 035;Laetitia;DAVID;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 035;Laetitia;DAVID;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-035;Laetitia;DAVID;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2;
+035;Laetitia;DAVID;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 2 - Foyer Bas;
 035;Laetitia;DAVID;10:30;Pause;Foyer;
 035;Laetitia;DAVID;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 035;Laetitia;DAVID;12:00;Déjeuner;Foyer/Extérieur;
@@ -457,7 +457,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 036;Alban;DAZIN;08:00;Café d'accueil;Foyer;
 036;Alban;DAZIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 036;Alban;DAZIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-036;Alban;DAZIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4;
+036;Alban;DAZIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 4 - Amphi B;
 036;Alban;DAZIN;10:30;Pause;Foyer;
 036;Alban;DAZIN;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 036;Alban;DAZIN;12:00;Déjeuner;Foyer/Extérieur;
@@ -470,7 +470,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 037;Benoit;DE LA TOUR DU PIN;08:00;Café d'accueil;Foyer;
 037;Benoit;DE LA TOUR DU PIN;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-037;Benoit;DE LA TOUR DU PIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
+037;Benoit;DE LA TOUR DU PIN;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1 - Foyer Haut;
 037;Benoit;DE LA TOUR DU PIN;10:30;Pause;Foyer;
 037;Benoit;DE LA TOUR DU PIN;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 037;Benoit;DE LA TOUR DU PIN;12:00;Déjeuner;Foyer/Extérieur;
@@ -483,7 +483,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 038;Albin;DELEUZE;08:00;Café d'accueil;Foyer;
 038;Albin;DELEUZE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 038;Albin;DELEUZE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-038;Albin;DELEUZE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1;
+038;Albin;DELEUZE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 1 - Foyer Haut;
 038;Albin;DELEUZE;10:30;Pause;Foyer;
 038;Albin;DELEUZE;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 038;Albin;DELEUZE;12:00;Déjeuner;Foyer/Extérieur;
@@ -496,7 +496,7 @@ id;prenom;nom;heure;activite;lieu;groupe
 039;Baptiste;DELPIERRE;08:00;Café d'accueil;Foyer;
 039;Baptiste;DELPIERRE;08:30;Introduction - Pascal BANTEGNIE;Grand Amphi;
 039;Baptiste;DELPIERRE;08:45;Présentation de l'agenda - Giuseppe CURCI;Grand Amphi;
-039;Baptiste;DELPIERRE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3;
+039;Baptiste;DELPIERRE;09:00;Actualités métiers IFRS18/Lumen;Grand Amphi;Groupe 3 - Grand Amphi;
 039;Baptiste;DELPIERRE;10:30;Pause;Foyer;
 039;Baptiste;DELPIERRE;11:00;Stratégie Groupe - Philippe COUTEAUX;Grand Amphi;
 039;Baptiste;DELPIERRE;12:00;Déjeuner;Foyer/Extérieur;
